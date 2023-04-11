@@ -2,10 +2,19 @@
 title: "template-course-website"
 ---
 
-This is a Quarto website.
+# Title
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Catalogue Data
 
-```{r}
-1 + 1
-```
+## Abstract 
+
+## Objective
+
+## Content
+
+## Lecture notes
+
+## Prerequisites / Notice
+
+# Performance Assessment
+
