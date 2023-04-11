@@ -1,19 +1,36 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "template-course-website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-navigation: true
+  title: "Course title"
+  description: "Homepage for ..."
+  site-url: "https://template-course-website.github.io/website/"
 
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Global Health Engineering, ETH Zurich"
+    background: "#D9E3E4"
+
+  sidebar:
+    background: "#D9E3E4"
+    logo: ""
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Course Overview
 format:
   html:
     theme: cosmo
     css: styles.css
+    code-copy: true
+    code-overflow: wrap
     toc: true
 
-
-
+execute:
+  freeze: auto
