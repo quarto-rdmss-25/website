@@ -1,4 +1,4 @@
-# Website for: Open Science Tools - authoring and publishing workflows for collaborative scientific writing
+# Website template for courses taught by GHE, ETH Zurich
 
 ## Attribution
 
