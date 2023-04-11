@@ -1,12 +1,19 @@
 ---
-title: "template-course-website"
+title: "Course Overview"
+editor: source
+execute: 
+  echo: false
+  warning: false
 ---
 
 # Title
 
+-   Dates:
+-   Instructor:
+
 # Catalogue Data
 
-## Abstract 
+## Abstract
 
 ## Objective
 
@@ -18,3 +25,10 @@ title: "template-course-website"
 
 # Performance Assessment
 
+## Assignments
+
+## Attendance
+
+## Grading scheme
+
+## Late work, extensions, and special circumstances
