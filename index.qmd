@@ -1,5 +1,6 @@
 ---
 title: "Course Overview"
+subtitle: "Open Science Tools - authoring and publishing workflows for collaborative scientific writing"
 editor: 
   markdown: 
     wrap: 72
@@ -10,7 +11,7 @@ execute:
 
 <script defer data-domain="ost-hs23.github.io/website" src="https://plausible.io/js/script.js"></script>
 
-# Open Science Tools - authoring and publishing workflows for collaborative scientific writing
+## Details
 
 **Dates**
 
@@ -83,7 +84,7 @@ to new ideas.
 
 ## Lecture notes
 
-A public website is in preparation.
+All lecture notes are on this public website.
 
 ## Prerequisites / Notice
 
@@ -110,12 +111,16 @@ Prior to the course, learners are expected to have:
 Two weeks before the course begins, the instructor will contact
 registered participants to provide a reminder about the prerequisites.
 
-# Performance Assessment
+## Performance Assessment
 
 Successful participation in this course earns participants 0.5 ECTS,
 equivalent to 15 working hours. The course consists of two mandatory
 4-hour modules, with the remaining 7 hours designated for participant
-preparation before the first module and between the two modules. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules. 
+preparation before the first module and between the two modules. 
+
+#### Grading scheme
+
+Ungraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules. 
 
 ## Assignments
 
@@ -124,10 +129,6 @@ TODO
 ## Attendance
 
 TODO
-
-## Grading scheme
-
-Ungraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules. 
 
 ## Late work, extensions, and special circumstances
 
