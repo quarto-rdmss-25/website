@@ -4,9 +4,14 @@ project:
 
 website:
   page-navigation: true
-  title: "Course title"
-  description: "Homepage for ..."
-  site-url: "https://template-course-website.github.io/website/"
+  title: "Open Science Tools - authoring and publishing workflows for collaborative scientific writing"
+  description: "As the expectations of researchers increase, publishing reproducible
+      scientific articles becomes essential. However, choosing tools for these
+      tasks can be difficult. This course aims to guide researchers through
+      these challenges by introducing a workflow that utilizes Git, GitHub,
+      and the Quarto scientific and technical publishing system for collaborative
+      scientific writing."
+  site-url: "https://ost-hs23.github.io/website/"
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
