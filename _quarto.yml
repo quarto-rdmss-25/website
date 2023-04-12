@@ -4,9 +4,9 @@ project:
 
 website:
   page-navigation: true
-  title: "Open Science Tools - authoring and publishing workflows for collaborative scientific writing"
+  title: "Course title"
   description: "Homepage for ..."
-  site-url: "https://ost-hs23.github.io/website/"
+  site-url: "https://template-course-website.github.io/website/"
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
