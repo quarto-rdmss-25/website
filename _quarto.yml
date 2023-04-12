@@ -13,6 +13,9 @@ website:
       scientific writing."
   site-url: "https://ost-hs23.github.io/website/"
 
+  repo-url: https://github.com/ost-hs23/website
+  repo-actions: [edit, issue]
+
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2023, Global Health Engineering, ETH Zurich"
@@ -23,12 +26,17 @@ website:
     logo: ""
     pinned: true
     align: center
+    tools:
+      - icon: github
+        href: https://github.com/ost-hs23/
+        text: "GitHub organization"
     style: "docked"
-    search: true
+    search: false
     collapse-level: 1
     contents:
       - href: index.qmd
         text: Course Overview
+
 format:
   html:
     theme: cosmo
@@ -37,5 +45,6 @@ format:
     code-overflow: wrap
     toc: true
 
-execute:
-  freeze: auto
+freeze: auto
+
+editor: source
