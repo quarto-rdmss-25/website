@@ -1,6 +1,6 @@
 ---
-title: "Course Overview"
-subtitle: "Open Science Tools - authoring and publishing workflows for collaborative scientific writing"
+title: "Open Science Tools"
+subtitle: "authoring and publishing workflows for collaborative scientific writing"
 editor: 
   markdown: 
     wrap: 72

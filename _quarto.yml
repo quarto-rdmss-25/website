@@ -36,8 +36,9 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - text: "---"
       - href: 0-1-overview/index.qmd
-        text: Overview
+        text: Course Overview
       - text: "---"
 
 format:

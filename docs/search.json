@@ -1,24 +1,80 @@
 [
   {
-    "objectID": "0-1-overview/index.html",
-    "href": "0-1-overview/index.html",
-    "title": "Course Overview",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Science Tools",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
   },
   {
-    "objectID": "0-1-overview/index.html#slides",
-    "href": "0-1-overview/index.html#slides",
-    "title": "Course Overview",
+    "objectID": "index.html#details",
+    "href": "index.html#details",
+    "title": "Open Science Tools",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
   },
   {
-    "objectID": "0-1-overview/index.html#suggested-readings",
-    "href": "0-1-overview/index.html#suggested-readings",
-    "title": "Course Overview",
-    "section": " Suggested readings",
-    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "Open Science Tools",
+    "section": "Abstract",
+    "text": "Abstract\nAs the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing."
+  },
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "Open Science Tools",
+    "section": "Objective",
+    "text": "Objective\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nExplain the differences between files written in markup languages like markdown (.md) and those in proprietary file formats like .docx.\nUtilize an exported library from Zotero in Better BibTex Format to create an automated reference list in your scientific documents.\nInteract with Git version control and GitHub through the RStudio IDE.\nCollaborate with other researchers using the GitHub issue tracker and project management board to organize tasks and streamline communication.\nPublish a public website using GitHub Pages to share research with a broader audience."
+  },
+  {
+    "objectID": "index.html#content",
+    "href": "index.html#content",
+    "title": "Open Science Tools",
+    "section": "Content",
+    "text": "Content\nThis course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.\nTopics covered include:\n\nScientific communication.\nReproducible research (open research, version control, licensing).\nCollaboration through Git and GitHub.\n\nDuring the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.\nWhile the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas."
+  },
+  {
+    "objectID": "index.html#lecture-notes",
+    "href": "index.html#lecture-notes",
+    "title": "Open Science Tools",
+    "section": "Lecture notes",
+    "text": "Lecture notes\nAll lecture notes are on this public website."
+  },
+  {
+    "objectID": "index.html#prerequisites-notice",
+    "href": "index.html#prerequisites-notice",
+    "title": "Open Science Tools",
+    "section": "Prerequisites / Notice",
+    "text": "Prerequisites / Notice\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites."
+  },
+  {
+    "objectID": "index.html#performance-assessment",
+    "href": "index.html#performance-assessment",
+    "title": "Open Science Tools",
+    "section": "Performance Assessment",
+    "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules."
+  },
+  {
+    "objectID": "index.html#assignments",
+    "href": "index.html#assignments",
+    "title": "Open Science Tools",
+    "section": "Assignments",
+    "text": "Assignments\nTODO"
+  },
+  {
+    "objectID": "index.html#attendance",
+    "href": "index.html#attendance",
+    "title": "Open Science Tools",
+    "section": "Attendance",
+    "text": "Attendance\nTODO"
+  },
+  {
+    "objectID": "index.html#late-work-extensions-and-special-circumstances",
+    "href": "index.html#late-work-extensions-and-special-circumstances",
+    "title": "Open Science Tools",
+    "section": "Late work, extensions, and special circumstances",
+    "text": "Late work, extensions, and special circumstances\nTODO"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section",
@@ -112,80 +168,24 @@
     "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "0-1-overview/index.html",
+    "href": "0-1-overview/index.html",
     "title": "Course Overview",
     "section": "",
-    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
   },
   {
-    "objectID": "index.html#details",
-    "href": "index.html#details",
+    "objectID": "0-1-overview/index.html#slides",
+    "href": "0-1-overview/index.html#slides",
     "title": "Course Overview",
-    "section": "",
-    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "section": " Slides",
+    "text": "Slides\nView slides in full screen | Download slides as PDF"
   },
   {
-    "objectID": "index.html#abstract",
-    "href": "index.html#abstract",
+    "objectID": "0-1-overview/index.html#suggested-readings",
+    "href": "0-1-overview/index.html#suggested-readings",
     "title": "Course Overview",
-    "section": "Abstract",
-    "text": "Abstract\nAs the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing."
-  },
-  {
-    "objectID": "index.html#objective",
-    "href": "index.html#objective",
-    "title": "Course Overview",
-    "section": "Objective",
-    "text": "Objective\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nExplain the differences between files written in markup languages like markdown (.md) and those in proprietary file formats like .docx.\nUtilize an exported library from Zotero in Better BibTex Format to create an automated reference list in your scientific documents.\nInteract with Git version control and GitHub through the RStudio IDE.\nCollaborate with other researchers using the GitHub issue tracker and project management board to organize tasks and streamline communication.\nPublish a public website using GitHub Pages to share research with a broader audience."
-  },
-  {
-    "objectID": "index.html#content",
-    "href": "index.html#content",
-    "title": "Course Overview",
-    "section": "Content",
-    "text": "Content\nThis course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.\nTopics covered include:\n\nScientific communication.\nReproducible research (open research, version control, licensing).\nCollaboration through Git and GitHub.\n\nDuring the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.\nWhile the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas."
-  },
-  {
-    "objectID": "index.html#lecture-notes",
-    "href": "index.html#lecture-notes",
-    "title": "Course Overview",
-    "section": "Lecture notes",
-    "text": "Lecture notes\nAll lecture notes are on this public website."
-  },
-  {
-    "objectID": "index.html#prerequisites-notice",
-    "href": "index.html#prerequisites-notice",
-    "title": "Course Overview",
-    "section": "Prerequisites / Notice",
-    "text": "Prerequisites / Notice\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites."
-  },
-  {
-    "objectID": "index.html#performance-assessment",
-    "href": "index.html#performance-assessment",
-    "title": "Course Overview",
-    "section": "Performance Assessment",
-    "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules."
-  },
-  {
-    "objectID": "index.html#assignments",
-    "href": "index.html#assignments",
-    "title": "Course Overview",
-    "section": "Assignments",
-    "text": "Assignments\nTODO"
-  },
-  {
-    "objectID": "index.html#attendance",
-    "href": "index.html#attendance",
-    "title": "Course Overview",
-    "section": "Attendance",
-    "text": "Attendance\nTODO"
-  },
-  {
-    "objectID": "index.html#late-work-extensions-and-special-circumstances",
-    "href": "index.html#late-work-extensions-and-special-circumstances",
-    "title": "Course Overview",
-    "section": "Late work, extensions, and special circumstances",
-    "text": "Late work, extensions, and special circumstances\nTODO"
+    "section": " Suggested readings",
+    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
   }
 ]
