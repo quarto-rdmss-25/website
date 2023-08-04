@@ -1,17 +1,129 @@
 [
   {
+    "objectID": "0-1-overview/index.html",
+    "href": "0-1-overview/index.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "0-1-overview/index.html#slides",
+    "href": "0-1-overview/index.html#slides",
+    "title": "Course Overview",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "0-1-overview/index.html#suggested-readings",
+    "href": "0-1-overview/index.html#suggested-readings",
+    "title": "Course Overview",
+    "section": " Suggested readings",
+    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section",
+    "href": "0-1-overview/0-1-overview.html#section",
+    "title": "Overview",
+    "section": "",
+    "text": "Who of you has a LinkedIn account?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-1",
+    "href": "0-1-overview/0-1-overview.html#section-1",
+    "title": "Overview",
+    "section": "",
+    "text": "Who of has an ORCID iD?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-2",
+    "href": "0-1-overview/0-1-overview.html#section-2",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a GitHub account?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-3",
+    "href": "0-1-overview/0-1-overview.html#section-3",
+    "title": "Overview",
+    "section": "",
+    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-4",
+    "href": "0-1-overview/0-1-overview.html#section-4",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a personal homepage?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-5",
+    "href": "0-1-overview/0-1-overview.html#section-5",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has published a report, scientific article, or similar?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#your-turn",
+    "href": "0-1-overview/0-1-overview.html#your-turn",
+    "title": "Overview",
+    "section": "Your turn",
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-6",
+    "href": "0-1-overview/0-1-overview.html#section-6",
+    "title": "Overview",
+    "section": "",
+    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-7",
+    "href": "0-1-overview/0-1-overview.html#section-7",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-15",
+    "href": "0-1-overview/0-1-overview.html#section-15",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-16",
+    "href": "0-1-overview/0-1-overview.html#section-16",
+    "title": "Overview",
+    "section": "",
+    "text": "ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-17",
+    "href": "0-1-overview/0-1-overview.html#section-17",
+    "title": "Overview",
+    "section": "",
+    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#thanks",
+    "href": "0-1-overview/0-1-overview.html#thanks",
+    "title": "Overview",
+    "section": "Thanks ",
+    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Course Overview",
     "section": "",
-    "text": "Dates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
   },
   {
     "objectID": "index.html#details",
     "href": "index.html#details",
     "title": "Course Overview",
     "section": "",
-    "text": "Dates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
   },
   {
     "objectID": "index.html#abstract",
@@ -75,180 +187,5 @@
     "title": "Course Overview",
     "section": "Late work, extensions, and special circumstances",
     "text": "Late work, extensions, and special circumstances\nTODO"
-  },
-  {
-    "objectID": "0-1-overview/index.html",
-    "href": "0-1-overview/index.html",
-    "title": "Course Overview",
-    "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
-  },
-  {
-    "objectID": "0-1-overview/index.html#slides",
-    "href": "0-1-overview/index.html#slides",
-    "title": "Course Overview",
-    "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
-  },
-  {
-    "objectID": "0-1-overview/index.html#readings",
-    "href": "0-1-overview/index.html#readings",
-    "title": "Course Overview",
-    "section": " Readings",
-    "text": "Readings\n\nRead @wilson2017 “Good enough practices in scientific computing”.\nRead Excuse Me, Do You Have a Moment to Talk About Version Control?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section",
-    "href": "0-1-overview/0-1-overview.html#section",
-    "title": "Overview",
-    "section": "",
-    "text": "Who of you has a LinkedIn account?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-1",
-    "href": "0-1-overview/0-1-overview.html#section-1",
-    "title": "Overview",
-    "section": "",
-    "text": "Who of has an ORCID iD?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-2",
-    "href": "0-1-overview/0-1-overview.html#section-2",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has a GitHub account?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-3",
-    "href": "0-1-overview/0-1-overview.html#section-3",
-    "title": "Overview",
-    "section": "",
-    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-4",
-    "href": "0-1-overview/0-1-overview.html#section-4",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has a personal homepage?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-5",
-    "href": "0-1-overview/0-1-overview.html#section-5",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has published a report, scientific article, or similar?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#your-turn",
-    "href": "0-1-overview/0-1-overview.html#your-turn",
-    "title": "Overview",
-    "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-6",
-    "href": "0-1-overview/0-1-overview.html#section-6",
-    "title": "Overview",
-    "section": "",
-    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#goal",
-    "href": "0-1-overview/0-1-overview.html#goal",
-    "title": "Overview",
-    "section": "Goal",
-    "text": "Goal\n\nEvery student will have a personal, published, free website that links to their (academic) profiles and has the potential to be used as a scientific blog.\n\n\n\n\n\n🔗 github.com/ost-hs23/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-7",
-    "href": "0-1-overview/0-1-overview.html#section-7",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#toolbox",
-    "href": "0-1-overview/0-1-overview.html#toolbox",
-    "title": "Overview",
-    "section": "Toolbox",
-    "text": "Toolbox\n\nQuarto\nRStudio IDE\nZotero\nGit\nGitHub\n\n\n\n\n🔗 github.com/ost-hs23/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-8",
-    "href": "0-1-overview/0-1-overview.html#section-8",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-9",
-    "href": "0-1-overview/0-1-overview.html#section-9",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-10",
-    "href": "0-1-overview/0-1-overview.html#section-10",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#why---reproduciblity",
-    "href": "0-1-overview/0-1-overview.html#why---reproduciblity",
-    "title": "Overview",
-    "section": "Why? -> Reproduciblity",
-    "text": "Why? -&gt; Reproduciblity"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-15",
-    "href": "0-1-overview/0-1-overview.html#section-15",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-14",
-    "href": "0-1-overview/0-1-overview.html#section-14",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-16",
-    "href": "0-1-overview/0-1-overview.html#section-16",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-17",
-    "href": "0-1-overview/0-1-overview.html#section-17",
-    "title": "Overview",
-    "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-18",
-    "href": "0-1-overview/0-1-overview.html#section-18",
-    "title": "Overview",
-    "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#thanks",
-    "href": "0-1-overview/0-1-overview.html#thanks",
-    "title": "Overview",
-    "section": "Thanks ",
-    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-19",
-    "href": "0-1-overview/0-1-overview.html#section-19",
-    "title": "Overview",
-    "section": "",
-    "text": "Contact: lschoebitz@ethz.ch\n\n\n\n\n ost-hs23.github.io/website"
   }
 ]
