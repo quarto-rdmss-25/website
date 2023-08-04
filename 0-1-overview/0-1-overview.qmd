@@ -186,5 +186,6 @@ Instructions on [openwashdata.org](https://openwashdata.org/pages/get-started/ch
 ## Thanks {{< fa leaf >}} {.center-align}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Contact: lschoebitz@ethz.ch
+Contact: lschoebitz@ethz.ch  
+[Download slides as PDF](https://github.com/ost-hs23/website/raw/main/0-1-overview/0-1-overview.pdf)
 :::
