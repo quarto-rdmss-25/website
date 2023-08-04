@@ -44,7 +44,7 @@ Who of has an ORCID iD?
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who of has a GitHub account? 
+Who has a GitHub account? 
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
@@ -65,20 +65,13 @@ Who has a personal homepage?
 Who has published a report, scientific article, or similar? 
 :::
 
-## {{< fa hand >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who of you has published a report, scientific article, or similar? 
-
-:::
-
 ## Your turn
 
 ::: task
 Think about the last time you published a written document:
 
 -   Which tasks gave you joy?
--   Which tasks were challenging and frustrating?
+-   Which tasks were challenging or frustrating?
 
 ::: hand
 Take some written notes.

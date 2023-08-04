@@ -116,7 +116,7 @@
     "href": "0-1-overview/0-1-overview.html#section-2",
     "title": "Overview",
     "section": "",
-    "text": "Who of has a GitHub account?"
+    "text": "Who has a GitHub account?"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section-3",
@@ -144,14 +144,14 @@
     "href": "0-1-overview/0-1-overview.html#your-turn",
     "title": "Overview",
     "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging and frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section-6",
     "href": "0-1-overview/0-1-overview.html#section-6",
     "title": "Overview",
     "section": "",
-    "text": "Who of you has published a report, scientific article, or similar?"
+    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#goal",
@@ -165,7 +165,7 @@
     "href": "0-1-overview/0-1-overview.html#section-7",
     "title": "Overview",
     "section": "",
-    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
+    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#toolbox",
@@ -221,14 +221,14 @@
     "href": "0-1-overview/0-1-overview.html#section-16",
     "title": "Overview",
     "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
+    "text": "ost-hs23.github.io/website"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section-17",
     "href": "0-1-overview/0-1-overview.html#section-17",
     "title": "Overview",
     "section": "",
-    "text": "ost-hs23.github.io/website"
+    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section-18",
