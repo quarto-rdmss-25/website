@@ -35,7 +35,10 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Course Overview
+        text: Home
+      - href: 0-1-overview/index.qmd
+        text: Overview
+      - text: "---"
 
 format:
   html:
