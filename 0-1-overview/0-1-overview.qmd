@@ -34,13 +34,13 @@ library(countdown)
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who of you has a LinkedIn account? 
+Who has a LinkedIn account? 
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who of has an ORCID iD? 
+Who has an ORCID iD? 
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
