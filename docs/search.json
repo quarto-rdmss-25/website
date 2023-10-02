@@ -1,17 +1,115 @@
 [
   {
+    "objectID": "0-1-overview/0-1-overview.html#fa-hand",
+    "href": "0-1-overview/0-1-overview.html#fa-hand",
+    "title": "Overview",
+    "section": "",
+    "text": "Who of you has a LinkedIn account?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-hand-1",
+    "href": "0-1-overview/0-1-overview.html#fa-hand-1",
+    "title": "Overview",
+    "section": "",
+    "text": "Who of has an ORCID iD?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-hand-2",
+    "href": "0-1-overview/0-1-overview.html#fa-hand-2",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a GitHub account?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-hand-3",
+    "href": "0-1-overview/0-1-overview.html#fa-hand-3",
+    "title": "Overview",
+    "section": "",
+    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-hand-4",
+    "href": "0-1-overview/0-1-overview.html#fa-hand-4",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a personal homepage?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-hand-5",
+    "href": "0-1-overview/0-1-overview.html#fa-hand-5",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has published a report, scientific article, or similar?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#your-turn",
+    "href": "0-1-overview/0-1-overview.html#your-turn",
+    "title": "Overview",
+    "section": "Your turn",
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-bullseye",
+    "href": "0-1-overview/0-1-overview.html#fa-bullseye",
+    "title": "Overview",
+    "section": "",
+    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-toolbox",
+    "href": "0-1-overview/0-1-overview.html#fa-toolbox",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-7",
+    "href": "0-1-overview/0-1-overview.html#section-7",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-link",
+    "href": "0-1-overview/0-1-overview.html#fa-link",
+    "title": "Overview",
+    "section": "",
+    "text": "ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#fa-comment-dots",
+    "href": "0-1-overview/0-1-overview.html#fa-comment-dots",
+    "title": "Overview",
+    "section": "",
+    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -> Chat)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#thanks-fa-leaf",
+    "href": "0-1-overview/0-1-overview.html#thanks-fa-leaf",
+    "title": "Overview",
+    "section": "Thanks ",
+    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "0-1-overview/index.html",
+    "href": "0-1-overview/index.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "0-1-overview/index.html#fa-book-readings",
+    "href": "0-1-overview/index.html#fa-book-readings",
+    "title": "Course Overview",
+    "section": " Readings",
+    "text": "Readings\n\nRead (Wilson et al. 2017) “Good enough practices in scientific computing”.\nRead Excuse Me, Do You Have a Moment to Talk About Version Control?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Course Overview",
     "section": "",
-    "text": "Dates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
-  },
-  {
-    "objectID": "index.html#details",
-    "href": "index.html#details",
-    "title": "Course Overview",
-    "section": "",
-    "text": "Dates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
   },
   {
     "objectID": "index.html#abstract",
@@ -77,178 +175,31 @@
     "text": "Late work, extensions, and special circumstances\nTODO"
   },
   {
-    "objectID": "0-1-overview/index.html",
-    "href": "0-1-overview/index.html",
-    "title": "Course Overview",
+    "objectID": "0-2-pre-work/index.html",
+    "href": "0-2-pre-work/index.html",
+    "title": "Pre-work - Open Science Tools HS23",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you. We will meet in Room HG F 33.5 at the following times:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
   },
   {
-    "objectID": "0-1-overview/index.html#slides",
-    "href": "0-1-overview/index.html#slides",
-    "title": "Course Overview",
+    "objectID": "0-2-pre-work/index.html#fa-circle-question-what-do-i-need-to-prepare",
+    "href": "0-2-pre-work/index.html#fa-circle-question-what-do-i-need-to-prepare",
+    "title": "Pre-work - Open Science Tools HS23",
+    "section": " What do I need to prepare?",
+    "text": "What do I need to prepare?\nPrior to Day 1, please complete the following X steps:\n\nStep : Get an account on GitHub (?@sec-github)\nStep : Register for an ORCID iD (?@sec-orcid)\nStep : Sign-up for Zotero and setup Zotero reference management software (?@sec-zotero)\nStep : Setup a GitHub Personal Access Token (PAT) (?@sec-github-pat)\nStep : Log into Posit Cloud with GitHub account and join workspace for the course (?@sec-posit)\nStep : Log into Element and join the room for our course (?@sec-element)\nStep : Fill out the pre-course survey by Friday, 13th October (?@sec-survey)\n\n\nStep : Register for an ORCID iD\n\nCreate your ORCID iD at: https://orcid.org/register\n\nLearn more about ORCID and why you should get one, even if your are not a researcher or working in academia.\n\n\nStep : Sign-up for Zotero and setup Zotero reference management software\n\nGet Zotero account\n\nOpen https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\nJoin the GHE group library\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/4445072/global_health_engineering\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\nInstall Zotero desktop client\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -> Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\nInstall the Zotero Connector for your browser\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\nSetup Add-ons and the citation key format\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -> Tools -> Add-ons -> (Gear icon) -> Install Add-on From File… -> choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -> Settings -> Export -> Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -> Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -> Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\nChange the setting for the citekey autopin delay\n\nOpen Zotero advanced preferences (Zotero -> Settings -> Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows\n\n\n\n\nStep : Log into Posit Cloud with GitHub account and join workspace for the course\n…\n\n\nStep : Fill out the pre-course survey by Friday, 13th October"
+  },
+  {
+    "objectID": "0-2-pre-work/index.html#thanks-for-signing-up",
+    "href": "0-2-pre-work/index.html#thanks-for-signing-up",
+    "title": "Pre-work - Open Science Tools HS23",
+    "section": "Thanks for signing up!",
+    "text": "Thanks for signing up!\nYou will hear from us with more details a week before the start of the course."
+  },
+  {
+    "objectID": "0-2-pre-work/01-github.html",
+    "href": "0-2-pre-work/01-github.html",
+    "title": "Interaction with GitHub",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
-  },
-  {
-    "objectID": "0-1-overview/index.html#readings",
-    "href": "0-1-overview/index.html#readings",
-    "title": "Course Overview",
-    "section": " Readings",
-    "text": "Readings\n\nRead @wilson2017 “Good enough practices in scientific computing”.\nRead Excuse Me, Do You Have a Moment to Talk About Version Control?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section",
-    "href": "0-1-overview/0-1-overview.html#section",
-    "title": "Overview",
-    "section": "",
-    "text": "Who of you has a LinkedIn account?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-1",
-    "href": "0-1-overview/0-1-overview.html#section-1",
-    "title": "Overview",
-    "section": "",
-    "text": "Who of has an ORCID iD?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-2",
-    "href": "0-1-overview/0-1-overview.html#section-2",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has a GitHub account?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-3",
-    "href": "0-1-overview/0-1-overview.html#section-3",
-    "title": "Overview",
-    "section": "",
-    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-4",
-    "href": "0-1-overview/0-1-overview.html#section-4",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has a personal homepage?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-5",
-    "href": "0-1-overview/0-1-overview.html#section-5",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has published a report, scientific article, or similar?"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#your-turn",
-    "href": "0-1-overview/0-1-overview.html#your-turn",
-    "title": "Overview",
-    "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-6",
-    "href": "0-1-overview/0-1-overview.html#section-6",
-    "title": "Overview",
-    "section": "",
-    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#goal",
-    "href": "0-1-overview/0-1-overview.html#goal",
-    "title": "Overview",
-    "section": "Goal",
-    "text": "Goal\n\nEvery student will have a personal, published, free website that links to their (academic) profiles and has the potential to be used as a scientific blog.\n\n\n\n\n\n🔗 github.com/ost-hs23/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-7",
-    "href": "0-1-overview/0-1-overview.html#section-7",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#toolbox",
-    "href": "0-1-overview/0-1-overview.html#toolbox",
-    "title": "Overview",
-    "section": "Toolbox",
-    "text": "Toolbox\n\nQuarto\nRStudio IDE\nZotero\nGit\nGitHub\n\n\n\n\n🔗 github.com/ost-hs23/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-8",
-    "href": "0-1-overview/0-1-overview.html#section-8",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-9",
-    "href": "0-1-overview/0-1-overview.html#section-9",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-10",
-    "href": "0-1-overview/0-1-overview.html#section-10",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#why---reproduciblity",
-    "href": "0-1-overview/0-1-overview.html#why---reproduciblity",
-    "title": "Overview",
-    "section": "Why? -> Reproduciblity",
-    "text": "Why? -&gt; Reproduciblity"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-15",
-    "href": "0-1-overview/0-1-overview.html#section-15",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-14",
-    "href": "0-1-overview/0-1-overview.html#section-14",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-16",
-    "href": "0-1-overview/0-1-overview.html#section-16",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-17",
-    "href": "0-1-overview/0-1-overview.html#section-17",
-    "title": "Overview",
-    "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-18",
-    "href": "0-1-overview/0-1-overview.html#section-18",
-    "title": "Overview",
-    "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#thanks",
-    "href": "0-1-overview/0-1-overview.html#thanks",
-    "title": "Overview",
-    "section": "Thanks ",
-    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-19",
-    "href": "0-1-overview/0-1-overview.html#section-19",
-    "title": "Overview",
-    "section": "",
-    "text": "Contact: lschoebitz@ethz.ch\n\n\n\n\n ost-hs23.github.io/website"
+    "text": "Step : Get an account on GitHub\nTo set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\n\n\nStep : Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software)."
   }
 ]

@@ -39,6 +39,12 @@ website:
       - href: 0-1-overview/index.qmd
         text: Overview
       - text: "---"
+      - section: "Pre-work assignments"
+        href: 0-2-pre-work/index.qmd
+        contents:
+          - href: 0-2-pre-work/01-github.qmd
+            text: "Step 1: GitHub"
+
 
 format:
   html:

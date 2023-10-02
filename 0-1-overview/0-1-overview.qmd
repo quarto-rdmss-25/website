@@ -32,19 +32,19 @@ library(countdown)
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who of you has a LinkedIn account? 
+Who of you has a LinkedIn account?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who of has an ORCID iD? 
+Who of has an ORCID iD?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has a GitHub account? 
+Who has a GitHub account?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
@@ -56,13 +56,13 @@ Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has a personal homepage? 
+Who has a personal homepage?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has published a report, scientific article, or similar? 
+Who has published a report, scientific article, or similar?
 :::
 
 ## Your turn
@@ -90,7 +90,7 @@ countdown(minutes = 2)
 authoring and publishing workflows for collaborative scientific writing
 :::
 
-## {{< fa bullseye >}}{.center-align auto-animate="true"}
+## {{< fa bullseye >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
 Every student will have a personal, published, free **website** that links to their (academic) **profiles**, shows **slides**, and has the potential to be used as a (scientific) **blog**.
@@ -99,48 +99,47 @@ Every student will have a personal, published, free **website** that links to th
 ## {{< fa toolbox >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Quarto  
-RStudio IDE   
-Zotero  
-Git  
-GitHub  
+Quarto\
+RStudio IDE\
+Zotero\
+Git\
+GitHub\
 Matrix
 :::
 
-# Why? -> Reproduciblity {.center-align background-color="#461a52"}
+# Why? -\> Reproduciblity {.center-align background-color="#461a52"}
 
-##
+## 
 
 ![](images/publisher-policies-01.drawio.svg)
 
-##
+## 
 
 ![](images/publisher-policies-02.drawio.svg)
 
-##
+## 
 
 ![](images/publisher-policies-03.drawio.svg)
 
-##
+## 
 
 ![](images/publisher-policies-04.drawio.svg)
 
-##
+## 
 
 ![](images/publisher-policies-05.drawio.svg)
 
-##
+## 
 
 ![](images/publisher-policies-06.drawio.svg)
 
-
-##
+## 
 
 ![](images/publisher-policies-07.drawio.svg)
 
 # What is Quarto? {.center-align background-color="#461a52"}
 
-## {.center-align auto-animate="true"}
+##  {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em; color: #461a52"}
 Quarto is a new, open-source,<br> scientific and technical<br> publishing system
@@ -154,7 +153,6 @@ Quarto is a new, open-source,<br> scientific and technical<br> publishing system
 
 ::: footer
 Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by [Allison Horst](https://github.com/allisonhorst).
-
 :::
 
 ## {{< fa link >}} {.center-align}
@@ -181,11 +179,11 @@ code <- qrcode::qr_code("https://matrix.to/#/#ghe-open:staffchat.ethz.ch")
 plot(code)
 ```
 
-Instructions on [openwashdata.org](https://openwashdata.org/pages/get-started/chat/#sec-join-eth) (under Get Started -> Chat) 
+Instructions on [openwashdata.org](https://openwashdata.org/pages/get-started/chat/#sec-join-eth) (under Get Started -\> Chat)
 
 ## Thanks {{< fa leaf >}} {.center-align}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Contact: lschoebitz@ethz.ch  
+Contact: lschoebitz\@ethz.ch\
 [Download slides as PDF](https://github.com/ost-hs23/website/raw/main/0-1-overview/0-1-overview.pdf)
 :::

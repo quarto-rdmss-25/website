@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Open Science Tools - Course Overview</title>
+<title>Open Science Tools - Interaction with GitHub</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,25 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}
 </style>
 
 
@@ -48,7 +29,7 @@ div.csl-indent {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../index.html" rel="prev">
+<link href="../0-2-pre-work/index.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,8 +39,6 @@ div.csl-indent {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -90,7 +69,7 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Course Overview</h1>
+      <h1 class="quarto-secondary-nav-title">Interaction with GitHub</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -118,18 +97,18 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../0-1-overview/index.html" class="sidebar-item-text sidebar-link active">Overview</a>
+  <a href="../0-1-overview/index.html" class="sidebar-item-text sidebar-link">Overview</a>
   </div>
 </li>
         <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="../0-2-pre-work/index.html" class="sidebar-item-text sidebar-link">Pre-work assignments</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../0-2-pre-work/index.html" class="sidebar-item-text sidebar-link">List</a>
@@ -137,7 +116,7 @@ div.csl-indent {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../0-2-pre-work/01-github.html" class="sidebar-item-text sidebar-link">Step 1: GitHub</a>
+  <a href="../0-2-pre-work/01-github.html" class="sidebar-item-text sidebar-link active">Step 1: GitHub</a>
   </div>
 </li>
       </ul>
@@ -151,18 +130,17 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#fa-display-slides" id="toc-fa-display-slides" class="nav-link active" data-scroll-target="#fa-display-slides"><i class="fa-solid fa-display" aria-label="display"></i> Slides</a></li>
-  <li><a href="#fa-book-readings" id="toc-fa-book-readings" class="nav-link" data-scroll-target="#fa-book-readings"><i class="fa-solid fa-book" aria-label="book"></i> Readings</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  <li><a href="#sec-github" id="toc-sec-github" class="nav-link active" data-scroll-target="#sec-github">Step : Get an account on GitHub</a></li>
+  <li><a href="#step-setup-a-github-personal-access-token-pat" id="toc-step-setup-a-github-personal-access-token-pat" class="nav-link" data-scroll-target="#step-setup-a-github-personal-access-token-pat">Step : Setup a GitHub Personal Access Token (PAT)</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/ost-hs23/website/edit/main/0-1-overview/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/ost-hs23/website/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/ost-hs23/website/edit/main/0-2-pre-work/01-github.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/ost-hs23/website/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Course Overview</h1>
+<h1 class="title d-none d-lg-block">Interaction with GitHub</h1>
 </div>
 
 
@@ -177,30 +155,87 @@ div.csl-indent {
 
 </header>
 
-<section id="fa-display-slides" class="level2">
-<h2 class="anchored" data-anchor-id="fa-display-slides"><i class="fa-solid fa-display" aria-label="display"></i> Slides</h2>
-<p><a href="0-1-overview.html">View slides in full screen</a> | <a href="https://github.com/ost-hs23/website/raw/main/0-1-overview/0-1-overview.pdf">Download slides as PDF</a></p>
-<iframe class="slide-deck" src="../0-1-overview.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
-</section>
-<section id="fa-book-readings" class="level2">
-<h2 class="anchored" data-anchor-id="fa-book-readings"><i class="fa-solid fa-book" aria-label="book"></i> Readings</h2>
-<ul>
-<li>Read <span class="citation" data-cites="wilson2017">(<a href="#ref-wilson2017" role="doc-biblioref">Wilson et al. 2017</a>)</span> “Good enough practices in scientific computing”.</li>
-<li>Read <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928">Excuse Me, Do You Have a Moment to Talk About Version Control?</a></li>
-</ul>
-</section>
-<section id="references" class="level1">
-
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-wilson2017" class="csl-entry" role="doc-biblioentry">
-Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. <span>“Good Enough Practices in Scientific Computing.”</span> Edited by Francis Ouellette. <em>PLOS Computational Biology</em> 13 (6): e1005510. <a href="https://doi.org/10.1371/journal.pcbi.1005510">https://doi.org/10.1371/journal.pcbi.1005510</a>.
+<section id="sec-github" class="level3">
+<h3 class="anchored" data-anchor-id="sec-github">Step : Get an account on GitHub</h3>
+<p>To set up an account on GitHub, follow these general steps:</p>
+<ol type="1">
+<li>Go to the GitHub website at <a href="https://github.com/" class="uri">https://github.com/</a>.</li>
+<li>Click on the “Sign up” button on the top right corner of the page.</li>
+<li>Enter your preferred username, email address, and password in the provided fields.</li>
+<li>Choose whether you want to receive updates and announcements via email.</li>
+<li>Complete the verification process by solving a puzzle and entering a verification code sent to your email.</li>
+</ol>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-</div></section></div></main> <!-- /main -->
+<div class="callout-caption-container flex-fill">
+Username advice from: <a href="https://happygitwithr.com/github-acct.html#github-acct">Happy Git and GitHub for the useR</a>
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>You will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. <strong>Except your username. You might want to give that some thought.</strong></p>
+<p>A few tips, which sadly tend to contradict each other:</p>
+<ul>
+<li>Incorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.</li>
+<li>Reuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.</li>
+<li>Pick a username you will be comfortable revealing to your future boss.</li>
+<li>Shorter is better than longer.</li>
+<li>Be as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.</li>
+<li>Make it timeless. Don’t highlight your current university, employer, or place of residence, e.g.&nbsp;JennyFromTheBlock.</li>
+<li>Avoid words laden with special meaning in programming.</li>
+<li>Avoid the use of upper vs.&nbsp;lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen <code>-</code>.</li>
+</ul>
+<p>You can change your username later, but better to get this right the first time.</p>
+<ul>
+<li><a href="https://help.github.com/articles/changing-your-github-username/" class="uri">https://help.github.com/articles/changing-your-github-username/</a></li>
+<li><a href="https://help.github.com/articles/what-happens-when-i-change-my-username/" class="uri">https://help.github.com/articles/what-happens-when-i-change-my-username/</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="step-setup-a-github-personal-access-token-pat" class="level3">
+<h3 class="anchored" data-anchor-id="step-setup-a-github-personal-access-token-pat">Step : Setup a GitHub Personal Access Token (PAT)</h3>
+<p>Here are the step-by-step instructions to set up a GitHub personal access token:</p>
+<ol type="1">
+<li>Log in to your GitHub account.</li>
+<li>Click on your profile picture in the top-right corner of the page.</li>
+<li>Select “Settings” from the dropdown menu.</li>
+<li>In the left sidebar, click on “Developer settings”.</li>
+<li>Click on “Personal access tokens”.</li>
+<li>Click on <strong>“Tokens (classic)”</strong>.</li>
+<li>Click on “Generate new token” and from the dropdown menu select <strong>“Generate new token (classic)”.</strong></li>
+<li>In the “Note” field, give your token the name: GITHUB_PAT</li>
+<li>Under Expiration, select “No expiration”</li>
+<li>Under “Select scopes”, select: <strong>repo, workflow, user</strong></li>
+<li>Click on “Generate token”.</li>
+<li>Your personal access token will be displayed on the screen. Copy it and store it in a safe place.</li>
+</ol>
+<div class="callout-warning callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Warning
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>Treat your access tokens like passwords and keep them secure (e.g.&nbsp;a password managing software).</p>
+</div>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -336,8 +371,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Home</span>
+      <a href="../0-2-pre-work/index.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Pre-work assignments</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
