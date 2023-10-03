@@ -1,0 +1,56 @@
+---
+title: "Interaction with GitHub"
+---
+
+## Get an account on GitHub
+
+To set up an account on GitHub, follow these general steps:
+
+1.  Go to the GitHub website at <https://github.com/>.
+2.  Click on the "Sign up" button on the top right corner of the page.
+3.  Enter your preferred username, email address, and password in the provided fields.
+4.  Choose whether you want to receive updates and announcements via email.
+5.  Complete the verification process by solving a puzzle and entering a verification code sent to your email.
+
+::: {.callout-tip collapse="true"}
+## Username advice from: [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html#github-acct)
+
+You will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don't fret about any of that now. **Except your username. You might want to give that some thought.**
+
+A few tips, which sadly tend to contradict each other:
+
+-   Incorporate your actual name! People like to know who they're dealing with. Also makes your username easier for people to guess or remember.
+-   Reuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.
+-   Pick a username you will be comfortable revealing to your future boss.
+-   Shorter is better than longer.
+-   Be as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.
+-   Make it timeless. Don't highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.
+-   Avoid words laden with special meaning in programming.
+-   Avoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen `-`.
+
+You can change your username later, but better to get this right the first time.
+
+-   <https://help.github.com/articles/changing-your-github-username/>
+-   <https://help.github.com/articles/what-happens-when-i-change-my-username/>
+:::
+
+## Setup a GitHub Personal Access Token (PAT)
+
+Here are the step-by-step instructions to set up a GitHub personal access token:
+
+::: {.callout-warning collapse="false"}
+Treat your access tokens like passwords and keep them secure (e.g. a password managing software).
+:::
+
+1.  Log in to your GitHub account.
+2.  Click on your profile picture in the top-right corner of the page.
+3.  Select "Settings" from the dropdown menu.
+4.  In the left sidebar, click on "Developer settings".
+5.  Click on "Personal access tokens".
+6.  Click on **"Tokens (classic)"**.
+7.  Click on "Generate new token" and from the dropdown menu select **"Generate new token (classic)".**
+8.  In the "Note" field, give your token the name: GITHUB_PAT
+9.  Under Expiration, select "No expiration"
+10. Under "Select scopes", select: **repo, workflow, user**
+11. Click on "Generate token".
+12. Your personal access token will be displayed on the screen. Copy it and store it in a safe place.

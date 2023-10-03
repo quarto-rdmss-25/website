@@ -18,12 +18,11 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2023, Global Health Engineering, ETH Zurich"
-    background: "#D9E3E4"
+    background: "#eceef8"
 
   sidebar:
-    background: "#D9E3E4"
-    logo: ""
+    background: "#eceef8"
+    logo: "images/ghe-square-logo-vector.svg"
     pinned: true
     align: center
     tools:
@@ -34,21 +33,47 @@ website:
     search: false
     collapse-level: 1
     contents:
-      - href: index.qmd
-        text: Home
+      - section: "Pre-course work"
+        href: index.qmd
+        contents:
+          - href: 0-2-pre-work/01-github.qmd
+            text: "Step 1: GitHub"
+          - href: 0-2-pre-work/02-orcid.qmd
+            text: "Step 2: ORCID"
+          - href: 0-2-pre-work/03-zotero.qmd
+            text: "Step 3: Zotero"
+          - href: 0-2-pre-work/04-posit-cloud.qmd
+            text: "Step 4: Posit Cloud"
+          - href: 0-2-pre-work/05-element.qmd
+            text: "Step 5: Element"
+          - href: 0-2-pre-work/06-survey.qmd
+            text: "Step 6: Survey"
+          - href: 0-2-pre-work/07-reading.qmd
+            text: "Step 7: Reading"
       - text: "---"
-      - href: 0-1-overview/index.qmd
-        text: Course Overview
+      - href: syllabus.qmd
+        text: "Syllabus"
       - text: "---"
-
+      - section: "Other resources"
+        contents:
+          - href: 0-1-overview/index.qmd
+            text: "ETH4D Lunch"
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [litera, theme.scss]
+    highlight-style: a11y-dark
     code-copy: true
     code-overflow: wrap
     toc: true
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header:
+        - text: |
+            <script defer data-domain="ost-hs23.github.io/website" src="https://plausible.io/js/script.js"></script>
 
 freeze: auto
 
 editor: source
+
+
+

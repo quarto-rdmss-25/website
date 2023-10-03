@@ -8,7 +8,7 @@ This overview was prepared as a 10-minute presentation for the [ETH4D lunch](htt
 
 ## {{< fa display >}} Slides
 
-[View slides in full screen](0-1-overview.html) | [Download slides as PDF](https://github.com/ost-hs23/website/raw/main/0-1-overview/0-1-overview.pdf)
+[View slides in full screen](0-1-overview.html) \| [Download slides as PDF](https://github.com/ost-hs23/website/raw/main/0-1-overview/0-1-overview.pdf)
 
 ```{=html}
 <iframe class="slide-deck" src="0-1-overview.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
@@ -20,4 +20,5 @@ If you are interested to learn more about the concepts behind this course:
 
 - read [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 - read [Excuse Me, Do You Have a Moment to Talk About Version Control?](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928).
+
 
