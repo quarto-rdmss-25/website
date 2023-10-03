@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ost-hs23.github.io/website/0-1-overview/0-1-overview.html</loc>
-    <lastmod>2023-10-02T13:53:26.350Z</lastmod>
+    <lastmod>2023-10-03T09:20:15.253Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-1-overview/index.html</loc>
-    <lastmod>2023-10-02T13:53:26.819Z</lastmod>
+    <lastmod>2023-10-03T09:20:15.746Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/index.html</loc>
-    <lastmod>2023-10-02T13:53:27.263Z</lastmod>
+    <lastmod>2023-10-03T09:20:16.119Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/index.html</loc>
-    <lastmod>2023-10-03T08:19:58.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/01-github.html</loc>
-    <lastmod>2023-10-03T08:20:00.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/05-element.html</loc>
-    <lastmod>2023-10-03T08:20:01.565Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/syllabus.html</loc>
+    <lastmod>2023-10-03T09:20:16.605Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/04-posit-cloud.html</loc>
-    <lastmod>2023-10-03T08:19:57.774Z</lastmod>
+    <lastmod>2023-10-03T09:20:16.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/05-element.html</loc>
+    <lastmod>2023-10-03T09:20:17.305Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/02-orcid.html</loc>
-    <lastmod>2023-10-03T08:19:58.459Z</lastmod>
+    <lastmod>2023-10-03T09:20:17.651Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html</loc>
-    <lastmod>2023-10-03T08:20:00.487Z</lastmod>
+    <lastmod>2023-10-03T09:20:18.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/01-github.html</loc>
+    <lastmod>2023-10-03T09:20:18.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/06-survey.html</loc>
+    <lastmod>2023-10-03T09:20:18.945Z</lastmod>
   </url>
 </urlset>

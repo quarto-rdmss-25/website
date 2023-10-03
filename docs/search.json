@@ -107,107 +107,93 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "",
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you. We will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
+  },
+  {
+    "objectID": "index.html#fa-circle-question-what-do-i-need-to-prepare",
+    "href": "index.html#fa-circle-question-what-do-i-need-to-prepare",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": " What do I need to prepare?",
+    "text": "What do I need to prepare?\nPrior to Day 1, please complete the following X steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud with GitHub account and join workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read (Wilson et al. 2017)"
+  },
+  {
+    "objectID": "index.html#thanks",
+    "href": "index.html#thanks",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "Thanks!",
+    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
     "title": "Course Overview",
     "section": "",
     "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
   },
   {
-    "objectID": "index.html#abstract",
-    "href": "index.html#abstract",
+    "objectID": "syllabus.html#abstract",
+    "href": "syllabus.html#abstract",
     "title": "Course Overview",
     "section": "Abstract",
     "text": "Abstract\nAs the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing."
   },
   {
-    "objectID": "index.html#objective",
-    "href": "index.html#objective",
+    "objectID": "syllabus.html#objective",
+    "href": "syllabus.html#objective",
     "title": "Course Overview",
     "section": "Objective",
     "text": "Objective\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nExplain the differences between files written in markup languages like markdown (.md) and those in proprietary file formats like .docx.\nUtilize an exported library from Zotero in Better BibTex Format to create an automated reference list in your scientific documents.\nInteract with Git version control and GitHub through the RStudio IDE.\nCollaborate with other researchers using the GitHub issue tracker and project management board to organize tasks and streamline communication.\nPublish a public website using GitHub Pages to share research with a broader audience."
   },
   {
-    "objectID": "index.html#content",
-    "href": "index.html#content",
+    "objectID": "syllabus.html#content",
+    "href": "syllabus.html#content",
     "title": "Course Overview",
     "section": "Content",
     "text": "Content\nThis course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.\nTopics covered include:\n\nScientific communication.\nReproducible research (open research, version control, licensing).\nCollaboration through Git and GitHub.\n\nDuring the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.\nWhile the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas."
   },
   {
-    "objectID": "index.html#lecture-notes",
-    "href": "index.html#lecture-notes",
+    "objectID": "syllabus.html#lecture-notes",
+    "href": "syllabus.html#lecture-notes",
     "title": "Course Overview",
     "section": "Lecture notes",
     "text": "Lecture notes\nAll lecture notes are on this public website."
   },
   {
-    "objectID": "index.html#prerequisites-notice",
-    "href": "index.html#prerequisites-notice",
+    "objectID": "syllabus.html#prerequisites-notice",
+    "href": "syllabus.html#prerequisites-notice",
     "title": "Course Overview",
     "section": "Prerequisites / Notice",
-    "text": "Prerequisites / Notice\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites."
+    "text": "Prerequisites / Notice\nThe pre-course assignments can be found at Pre-course assignments.\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites."
   },
   {
-    "objectID": "index.html#performance-assessment",
-    "href": "index.html#performance-assessment",
+    "objectID": "syllabus.html#performance-assessment",
+    "href": "syllabus.html#performance-assessment",
     "title": "Course Overview",
     "section": "Performance Assessment",
     "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules."
   },
   {
-    "objectID": "index.html#assignments",
-    "href": "index.html#assignments",
-    "title": "Course Overview",
-    "section": "Assignments",
-    "text": "Assignments\nTODO"
-  },
-  {
-    "objectID": "index.html#attendance",
-    "href": "index.html#attendance",
-    "title": "Course Overview",
-    "section": "Attendance",
-    "text": "Attendance\nTODO"
-  },
-  {
-    "objectID": "index.html#late-work-extensions-and-special-circumstances",
-    "href": "index.html#late-work-extensions-and-special-circumstances",
-    "title": "Course Overview",
-    "section": "Late work, extensions, and special circumstances",
-    "text": "Late work, extensions, and special circumstances\nTODO"
-  },
-  {
-    "objectID": "0-2-pre-work/index.html",
-    "href": "0-2-pre-work/index.html",
-    "title": "Pre-work - Open Science Tools HS23",
+    "objectID": "0-2-pre-work/04-posit-cloud.html",
+    "href": "0-2-pre-work/04-posit-cloud.html",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
     "section": "",
-    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you. We will meet in Room HG F 33.5 at the following times:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
+    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
   },
   {
-    "objectID": "0-2-pre-work/index.html#fa-circle-question-what-do-i-need-to-prepare",
-    "href": "0-2-pre-work/index.html#fa-circle-question-what-do-i-need-to-prepare",
-    "title": "Pre-work - Open Science Tools HS23",
-    "section": " What do I need to prepare?",
-    "text": "What do I need to prepare?\nPrior to Day 1, please complete the following X steps:\n\nStep : Get an account on GitHub (?@sec-github)\nStep : Register for an ORCID iD (?@sec-orcid)\nStep : Sign-up for Zotero and setup Zotero reference management software (?@sec-zotero)\nStep : Setup a GitHub Personal Access Token (PAT) (?@sec-github-pat)\nStep : Log into Posit Cloud with GitHub account and join workspace for the course (?@sec-posit)\nStep : Log into Element and join the room for our course (?@sec-element)\nStep : Fill out the pre-course survey by Friday, 13th October (?@sec-survey)\n\n\nStep : Log into Posit Cloud with GitHub account and join workspace for the course\n…\n\n\nStep : Fill out the pre-course survey by Friday, 13th October"
-  },
-  {
-    "objectID": "0-2-pre-work/index.html#thanks-for-signing-up",
-    "href": "0-2-pre-work/index.html#thanks-for-signing-up",
-    "title": "Pre-work - Open Science Tools HS23",
-    "section": "Thanks for signing up!",
-    "text": "Thanks for signing up!\nYou will hear from us with more details a week before the start of the course."
-  },
-  {
-    "objectID": "0-2-pre-work/01-github.html",
-    "href": "0-2-pre-work/01-github.html",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
+    "objectID": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
+    "href": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
+    "section": "Join the course workspace on Posit Cloud",
+    "text": "Join the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/426098/join?access_code=A7ybzBNHYWKzJloBElgJIEAscpWnJCYh3jdhlB0I"
   },
   {
     "objectID": "0-2-pre-work/05-element.html",
     "href": "0-2-pre-work/05-element.html",
     "title": "Communication in a chat",
     "section": "",
-    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself.\nTo set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
+    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. To set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
   },
   {
     "objectID": "0-2-pre-work/02-orcid.html",
@@ -224,10 +210,17 @@
     "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/4445072/global_health_engineering\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -> Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\nknitr::include_graphics(\"images/screenshot-zotero-desktop-client-refresh.png\")\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\nknitr::include_graphics(\"images/screenshot-zotero-better-bibtex-addon.png\")\n\n\n\n\n\nOpen Zotero -> Tools -> Add-ons -> (Gear icon) -> Install Add-on From File… -> choose the .xpi file you have just saved\n\n\nknitr::include_graphics(\"images/screenshot-install-betterbibtex-addon.png\")\n\n\n\n\n\nRestart Zotero\n\n\nknitr::include_graphics(\"images/screenshot-restart-now.png\")\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -> Settings -> Export -> Default Format and change the default format to Better BibTeX Quick Copy: \n\n\nknitr::include_graphics(\"images/screenshot-install-betterbibtex-addon.png\")\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -> Open Better BibTeX preferences…\n\n\nknitr::include_graphics(\"images/screenshot-betterbibtex-preferences.png\")\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\nknitr::include_graphics(\"images/screenshot-citation-keys.png\")\n\n\n\n\n\nGo to Export -> Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\nknitr::include_graphics(\"images/screenshot-pandoc-citation.png\")\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -> Settings -> Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\nknitr::include_graphics(\"images/screenshot-advanced-config.png\")\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\nknitr::include_graphics(\"images/screenshot-autopin.png\")\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\nknitr::include_graphics(\"images/screenshot-autopin-value-2.png\")\n\n\n\n\n\nClick OK\nClose all setting windows"
   },
   {
-    "objectID": "0-2-pre-work/01-github.html#step-2-setup-a-github-personal-access-token-pat",
-    "href": "0-2-pre-work/01-github.html#step-2-setup-a-github-personal-access-token-pat",
+    "objectID": "0-2-pre-work/01-github.html",
+    "href": "0-2-pre-work/01-github.html",
     "title": "Interaction with GitHub",
-    "section": "Step 2: Setup a GitHub Personal Access Token (PAT)",
-    "text": "Step 2: Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software)."
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
+  },
+  {
+    "objectID": "0-2-pre-work/01-github.html#setup-a-github-personal-access-token-pat",
+    "href": "0-2-pre-work/01-github.html#setup-a-github-personal-access-token-pat",
+    "title": "Interaction with GitHub",
+    "section": "Setup a GitHub Personal Access Token (PAT)",
+    "text": "Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software)."
   }
 ]

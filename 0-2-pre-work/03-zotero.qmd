@@ -2,7 +2,7 @@
 title: "Zotero for reference management"
 ---
 
-## Step: Sign-up for Zotero and setup Zotero reference management software
+## Sign-up for Zotero and setup Zotero reference management software
 
 ### Get Zotero account
 

@@ -7,7 +7,6 @@ Emails are not a very quick, responsive way of communication. We avoid them by p
 We want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.
 
 You can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. 
-
 To set it up, please follow the steps below:
 
 1.  Download and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.
