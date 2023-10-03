@@ -8,8 +8,9 @@ bibliography: references.bib
 [View slides in full screen](0-1-overview.html) \| [Download slides as PDF](https://github.com/ost-hs23/website/raw/main/0-1-overview/0-1-overview.pdf)
 
 ```{=html}
-<iframe class="slide-deck" src="../0-1-overview.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+<iframe class="slide-deck" src="0-1-overview.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
 ```
+
 ## {{< fa book >}} Readings
 
 -   Read [@wilson2017] "Good enough practices in scientific computing".

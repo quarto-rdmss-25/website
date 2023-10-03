@@ -1,5 +1,7 @@
 ---
 title: "Zotero for reference management"
+execute: 
+  echo: false
 ---
 
 ## Sign-up for Zotero and setup Zotero reference management software

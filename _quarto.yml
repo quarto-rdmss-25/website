@@ -18,12 +18,11 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2023, Global Health Engineering, ETH Zurich"
     background: "#eceef8"
 
   sidebar:
     background: "#eceef8"
-    logo: ""
+    logo: "images/ghe-square-logo-vector.svg"
     pinned: true
     align: center
     tools:
@@ -34,7 +33,7 @@ website:
     search: false
     collapse-level: 1
     contents:
-      - section: "Pre-course assignments"
+      - section: "Pre-course work"
         href: index.qmd
         contents:
           - href: 0-2-pre-work/01-github.qmd
@@ -49,6 +48,8 @@ website:
             text: "Step 5: Element"
           - href: 0-2-pre-work/06-survey.qmd
             text: "Step 6: Survey"
+          - href: 0-2-pre-work/07-reading.qmd
+            text: "Step 7: Reading"
       - text: "---"
       - href: syllabus.qmd
         text: "Syllabus"

@@ -38,6 +38,10 @@ You can change your username later, but better to get this right the first time.
 
 Here are the step-by-step instructions to set up a GitHub personal access token:
 
+::: {.callout-warning collapse="false"}
+Treat your access tokens like passwords and keep them secure (e.g. a password managing software).
+:::
+
 1.  Log in to your GitHub account.
 2.  Click on your profile picture in the top-right corner of the page.
 3.  Select "Settings" from the dropdown menu.
@@ -50,7 +54,3 @@ Here are the step-by-step instructions to set up a GitHub personal access token:
 10. Under "Select scopes", select: **repo, workflow, user**
 11. Click on "Generate token".
 12. Your personal access token will be displayed on the screen. Copy it and store it in a safe place.
-
-::: {.callout-warning collapse="false"}
-Treat your access tokens like passwords and keep them secure (e.g. a password managing software).
-:::
