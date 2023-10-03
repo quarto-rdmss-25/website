@@ -2,7 +2,7 @@
 title: "Interaction with GitHub"
 ---
 
-### Step : Get an account on GitHub {#sec-github}
+## Step 1: Get an account on GitHub {#sec-github}
 
 To set up an account on GitHub, follow these general steps:
 
@@ -34,7 +34,7 @@ You can change your username later, but better to get this right the first time.
 -   <https://help.github.com/articles/what-happens-when-i-change-my-username/>
 :::
 
-### Step : Setup a GitHub Personal Access Token (PAT)
+## Step 2: Setup a GitHub Personal Access Token (PAT)
 
 Here are the step-by-step instructions to set up a GitHub personal access token:
 
