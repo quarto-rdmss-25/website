@@ -8,7 +8,7 @@ execute:
 
 ### Get Zotero account
 
-1. Open https://www.zotero.org/user/login/
+1. Open <https://www.zotero.org/user/login/>
 2. Click on Register for a free account
 3. Chose username, email, and password
 4. Click Register
@@ -16,14 +16,14 @@ execute:
 
 ### Join the GHE group library
 
-1. Login into Zotero: https://www.zotero.org/user/login/
-2. Open GHE Group Library: https://www.zotero.org/groups/4445072/global_health_engineering
+1. Login into Zotero: <https://www.zotero.org/user/login/>
+2. Open GHE Group Library: <https://www.zotero.org/groups/4445072/global_health_engineering>
 3. Click on Join button
 4. Wait for group admin to confirm your membership (note: you won't receive an automated confirmation after access is enabled)
 
 ### Install Zotero desktop client
 
-1. Open https://www.zotero.org/download/
+1. Open <https://www.zotero.org/download/>
 2. Download Zotero for your operating system
 3. Install Zotero
 4. Log in to your Zotero account by opening **Settings -> Sync** and typing the Username and Password you have previously set up
@@ -35,14 +35,14 @@ knitr::include_graphics("images/screenshot-zotero-desktop-client-refresh.png")
 
 ### Install the Zotero Connector for your browser
 
-1. Open https://www.zotero.org/download/
+1. Open <https://www.zotero.org/download/>
 2. Download the Zotero Connector for your browser
 3. Install the Zotero Connector
 4. Log in to your Zotero account
 
 ### Setup Add-ons and the citation key format
 
-1. Go to https://retorque.re/zotero-better-bibtex/installation/
+1. Go to <https://retorque.re/zotero-better-bibtex/installation/>
 2. Click on the latest release so you are redirected to github
 3. Find the .xpi file and right-click it. Click on **Save Link As...** and choose your location for saving the file.
 

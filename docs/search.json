@@ -2,7 +2,6 @@
   {
     "objectID": "0-1-overview/0-1-overview.html#fa-hand",
     "href": "0-1-overview/0-1-overview.html#fa-hand",
-
     "title": "Overview",
     "section": "",
     "text": "Who has a LinkedIn account?"
@@ -96,14 +95,21 @@
     "href": "0-1-overview/index.html",
     "title": "Course Overview",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
   },
   {
-    "objectID": "0-1-overview/index.html#fa-book-readings",
-    "href": "0-1-overview/index.html#fa-book-readings",
+    "objectID": "0-1-overview/index.html#fa-display-slides",
+    "href": "0-1-overview/index.html#fa-display-slides",
     "title": "Course Overview",
-    "section": " Readings",
-    "text": "Readings\n\nRead (Wilson et al. 2017) “Good enough practices in scientific computing”.\nRead Excuse Me, Do You Have a Moment to Talk About Version Control?"
+    "section": " Slides",
+    "text": "Slides\nView slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "0-1-overview/index.html#fa-book-suggested-readings",
+    "href": "0-1-overview/index.html#fa-book-suggested-readings",
+    "title": "Course Overview",
+    "section": " Suggested readings",
+    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
   },
   {
     "objectID": "index.html",
@@ -208,7 +214,7 @@
     "href": "0-2-pre-work/02-orcid.html",
     "title": "Your personal unique ORCID iD",
     "section": "",
-    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid)"
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
   },
   {
     "objectID": "0-2-pre-work/03-zotero.html",
