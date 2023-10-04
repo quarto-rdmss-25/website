@@ -27,13 +27,13 @@ Prior to Day 1, there is some pre-work for you to do. This pre-work will ensure 
 
 Prior to Day 1, please complete the following seven steps:
 
--   [Step 1](01-github.html): Get an account on GitHub and setup a GitHub Personal Access Token (PAT)
--   [Step 2](02-orcid.html): Register for an ORCID iD
--   [Step 3](03-zotero.html): Sign-up for Zotero and setup Zotero reference management software
--   [Step 4](04-posit-cloud.html): Log into Posit Cloud and join the workspace for the course
--   [Step 5](05-element.html): Log into Element and join the room for our course
--   [Step 6](06-survey.html): Fill out the pre-course survey by **Friday, 13th October**
--   [Step 7](07-reading.html): Read @wilson2017 and prepare for a discussion
+-   [Step 1](0-2-pre-work/01-github.html): Get an account on GitHub and setup a GitHub Personal Access Token (PAT)
+-   [Step 2](0-2-pre-work/02-orcid.html): Register for an ORCID iD
+-   [Step 3](0-2-pre-work/03-zotero.html): Sign-up for Zotero and setup Zotero reference management software
+-   [Step 4](0-2-pre-work/04-posit-cloud.html): Log into Posit Cloud and join the workspace for the course
+-   [Step 5](0-2-pre-work/05-element.html): Log into Element and join the room for our course
+-   [Step 6](0-2-pre-work/06-survey.html): Fill out the pre-course survey by **Friday, 13th October**
+-   [Step 7](0-2-pre-work/07-reading.html): Read @wilson2017 and prepare for a discussion
 
 ## Thanks!
 
