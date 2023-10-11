@@ -1,5 +1,5 @@
 day,start_time,end_time,duration,module,title,page_link,time
-1,08:30,09:15,1899-12-30T00:45:00Z,NA,[Hello Quarto](1-1-hello-quarto/),1-1-hello-quarto,08:30 - 09:15
+1,08:30,09:15,1899-12-30T00:45:00Z,NA,Hello Quarto,1-1-hello-quarto,08:30 - 09:15
 1,09:15,09:25,1899-12-30T00:10:00Z,NA,Break,NA,09:15 - 09:25
 1,09:25,10:25,1899-12-30T01:00:00Z,NA,Documents,NA,09:25 - 10:25
 1,10:25,10:35,1899-12-30T00:10:00Z,NA,Break,NA,10:25 - 10:35
