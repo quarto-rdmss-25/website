@@ -17,7 +17,7 @@ execute:
 ### Join the GHE group library
 
 1. Login into Zotero: <https://www.zotero.org/user/login/>
-2. Open GHE Group Library: <https://www.zotero.org/groups/4445072/global_health_engineering>
+2. Open GHE Group Library: <https://www.zotero.org/groups/5228980/ost-hs23>
 3. Click on Join button
 4. Wait for group admin to confirm your membership (note: you won't receive an automated confirmation after access is enabled)
 

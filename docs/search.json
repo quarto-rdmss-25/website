@@ -1,115 +1,59 @@
 [
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand",
-    "href": "0-1-overview/0-1-overview.html#fa-hand",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/06-survey.html",
+    "href": "0-2-pre-work/06-survey.html",
+    "title": "Learning more about your prior knowledge",
     "section": "",
-    "text": "Who has a LinkedIn account?"
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-1",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-1",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/06-survey.html#please-fill-out-our-pre-course-survey",
+    "href": "0-2-pre-work/06-survey.html#please-fill-out-our-pre-course-survey",
+    "title": "Learning more about your prior knowledge",
     "section": "",
-    "text": "Who has an ORCID iD?"
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-2",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-2",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/03-zotero.html",
+    "href": "0-2-pre-work/03-zotero.html",
+    "title": "Zotero for reference management",
     "section": "",
-    "text": "Who has a GitHub account?"
+    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/5228980/ost-hs23\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -&gt; Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -&gt; Tools -&gt; Add-ons -&gt; (Gear icon) -&gt; Install Add-on From File… -&gt; choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -&gt; Settings -&gt; Export -&gt; Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -&gt; Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -&gt; Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -&gt; Settings -&gt; Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-3",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-3",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/03-zotero.html#sign-up-for-zotero-and-setup-zotero-reference-management-software",
+    "href": "0-2-pre-work/03-zotero.html#sign-up-for-zotero-and-setup-zotero-reference-management-software",
+    "title": "Zotero for reference management",
     "section": "",
-    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
+    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/5228980/ost-hs23\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -&gt; Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -&gt; Tools -&gt; Add-ons -&gt; (Gear icon) -&gt; Install Add-on From File… -&gt; choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -&gt; Settings -&gt; Export -&gt; Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -&gt; Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -&gt; Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -&gt; Settings -&gt; Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-4",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-4",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/05-element.html",
+    "href": "0-2-pre-work/05-element.html",
+    "title": "Communication in a chat",
     "section": "",
-    "text": "Who has a personal homepage?"
+    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. To set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-5",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-5",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/04-posit-cloud.html",
+    "href": "0-2-pre-work/04-posit-cloud.html",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
     "section": "",
-    "text": "Who has published a report, scientific article, or similar?"
+    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#your-turn",
-    "href": "0-1-overview/0-1-overview.html#your-turn",
-    "title": "Overview",
-    "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#fa-bullseye",
-    "href": "0-1-overview/0-1-overview.html#fa-bullseye",
-    "title": "Overview",
+    "objectID": "0-2-pre-work/04-posit-cloud.html#log-into-posit-cloud-with-github-account-and-join-workspace-for-the-course",
+    "href": "0-2-pre-work/04-posit-cloud.html#log-into-posit-cloud-with-github-account-and-join-workspace-for-the-course",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
     "section": "",
-    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
+    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-toolbox",
-    "href": "0-1-overview/0-1-overview.html#fa-toolbox",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-7",
-    "href": "0-1-overview/0-1-overview.html#section-7",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#fa-link",
-    "href": "0-1-overview/0-1-overview.html#fa-link",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#fa-comment-dots",
-    "href": "0-1-overview/0-1-overview.html#fa-comment-dots",
-    "title": "Overview",
-    "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -> Chat)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#thanks-fa-leaf",
-    "href": "0-1-overview/0-1-overview.html#thanks-fa-leaf",
-    "title": "Overview",
-    "section": "Thanks ",
-    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/index.html",
-    "href": "0-1-overview/index.html",
-    "title": "Course Overview",
-    "section": "",
-    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
-  },
-  {
-    "objectID": "0-1-overview/index.html#fa-display-slides",
-    "href": "0-1-overview/index.html#fa-display-slides",
-    "title": "Course Overview",
-    "section": " Slides",
-    "text": "Slides\nView slides in full screen | Download slides as PDF"
-  },
-  {
-    "objectID": "0-1-overview/index.html#fa-book-suggested-readings",
-    "href": "0-1-overview/index.html#fa-book-suggested-readings",
-    "title": "Course Overview",
-    "section": " Suggested readings",
-    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+    "objectID": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
+    "href": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
+    "section": "Join the course workspace on Posit Cloud",
+    "text": "Join the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/426098/join?access_code=A7ybzBNHYWKzJloBElgJIEAscpWnJCYh3jdhlB0I"
   },
   {
     "objectID": "index.html",
@@ -119,8 +63,8 @@
     "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
   },
   {
-    "objectID": "index.html#fa-circle-question-what-do-i-need-to-prepare-before-day-1",
-    "href": "index.html#fa-circle-question-what-do-i-need-to-prepare-before-day-1",
+    "objectID": "index.html#what-do-i-need-to-prepare-before-day-1",
+    "href": "index.html#what-do-i-need-to-prepare-before-day-1",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": " What do I need to prepare before Day 1?",
     "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud and join the workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read Wilson et al. (2017) and prepare for a discussion"
@@ -133,8 +77,127 @@
     "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
   },
   {
+    "objectID": "0-1-overview/0-1-overview.html#section",
+    "href": "0-1-overview/0-1-overview.html#section",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a LinkedIn account?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-1",
+    "href": "0-1-overview/0-1-overview.html#section-1",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has an ORCID iD?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-2",
+    "href": "0-1-overview/0-1-overview.html#section-2",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a GitHub account?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-3",
+    "href": "0-1-overview/0-1-overview.html#section-3",
+    "title": "Overview",
+    "section": "",
+    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-4",
+    "href": "0-1-overview/0-1-overview.html#section-4",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a personal homepage?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-5",
+    "href": "0-1-overview/0-1-overview.html#section-5",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has published a report, scientific article, or similar?"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#your-turn",
+    "href": "0-1-overview/0-1-overview.html#your-turn",
+    "title": "Overview",
+    "section": "Your turn",
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-6",
+    "href": "0-1-overview/0-1-overview.html#section-6",
+    "title": "Overview",
+    "section": "",
+    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-7",
+    "href": "0-1-overview/0-1-overview.html#section-7",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-15",
+    "href": "0-1-overview/0-1-overview.html#section-15",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-16",
+    "href": "0-1-overview/0-1-overview.html#section-16",
+    "title": "Overview",
+    "section": "",
+    "text": "ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-17",
+    "href": "0-1-overview/0-1-overview.html#section-17",
+    "title": "Overview",
+    "section": "",
+    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#thanks",
+    "href": "0-1-overview/0-1-overview.html#thanks",
+    "title": "Overview",
+    "section": "Thanks ",
+    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "0-1-overview/index.html",
+    "href": "0-1-overview/index.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
+  },
+  {
+    "objectID": "0-1-overview/index.html#slides",
+    "href": "0-1-overview/index.html#slides",
+    "title": "Course Overview",
+    "section": " Slides",
+    "text": "Slides\nView slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "0-1-overview/index.html#suggested-readings",
+    "href": "0-1-overview/index.html#suggested-readings",
+    "title": "Course Overview",
+    "section": " Suggested readings",
+    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+  },
+  {
+    "objectID": "syllabus.html#details",
+    "href": "syllabus.html#details",
     "title": "Course Overview",
     "section": "",
     "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
@@ -182,32 +245,11 @@
     "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules."
   },
   {
-    "objectID": "0-2-pre-work/04-posit-cloud.html",
-    "href": "0-2-pre-work/04-posit-cloud.html",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "",
-    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
-  },
-  {
-    "objectID": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
-    "href": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "Join the course workspace on Posit Cloud",
-    "text": "Join the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/426098/join?access_code=A7ybzBNHYWKzJloBElgJIEAscpWnJCYh3jdhlB0I"
-  },
-  {
     "objectID": "0-2-pre-work/07-reading.html",
     "href": "0-2-pre-work/07-reading.html",
     "title": "Good enough practices in scientific computing",
     "section": "",
     "text": "This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.\nThe following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.\n\nUse your browser, the Zotero Connector and Zotero to store the following paper in your personal Zotero library (My Library or a sub-folder at the top left): https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510.\nRead Wilson et al. (2017).\nChose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:\nCome up with a real-world example or scenario where the recommended practice could be applied in your research or academic work.\nBe prepared to explain how the recommended practices would improve your research process. This will be in the class setting as part of small discussion group (max 3 people).\n\n\n\n\n\nReferences\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510."
-  },
-  {
-    "objectID": "0-2-pre-work/05-element.html",
-    "href": "0-2-pre-work/05-element.html",
-    "title": "Communication in a chat",
-    "section": "",
-    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. To set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
   },
   {
     "objectID": "0-2-pre-work/02-orcid.html",
@@ -217,15 +259,22 @@
     "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
   },
   {
-    "objectID": "0-2-pre-work/03-zotero.html",
-    "href": "0-2-pre-work/03-zotero.html",
-    "title": "Zotero for reference management",
+    "objectID": "0-2-pre-work/02-orcid.html#create-your-orcid-id",
+    "href": "0-2-pre-work/02-orcid.html#create-your-orcid-id",
+    "title": "Your personal unique ORCID iD",
     "section": "",
-    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/4445072/global_health_engineering\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -> Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -> Tools -> Add-ons -> (Gear icon) -> Install Add-on From File… -> choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -> Settings -> Export -> Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -> Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -> Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -> Settings -> Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
   },
   {
     "objectID": "0-2-pre-work/01-github.html",
     "href": "0-2-pre-work/01-github.html",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
+  },
+  {
+    "objectID": "0-2-pre-work/01-github.html#get-an-account-on-github",
+    "href": "0-2-pre-work/01-github.html#get-an-account-on-github",
     "title": "Interaction with GitHub",
     "section": "",
     "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
@@ -236,12 +285,5 @@
     "title": "Interaction with GitHub",
     "section": "Setup a GitHub Personal Access Token (PAT)",
     "text": "Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place."
-  },
-  {
-    "objectID": "0-2-pre-work/06-survey.html",
-    "href": "0-2-pre-work/06-survey.html",
-    "title": "Learning more about your prior knowledge",
-    "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
   }
 ]
