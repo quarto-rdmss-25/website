@@ -30,18 +30,19 @@ options(width = 65)
 library(countdown)
 ```
 
+```{=html}
 <script defer data-domain="ost-hs23.github.io/website" src="https://plausible.io/js/script.js"></script>
-
+```
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has a LinkedIn account? 
+Who has a LinkedIn account?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has an ORCID iD? 
+Who has an ORCID iD?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}

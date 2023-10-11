@@ -1,0 +1,58 @@
+---
+title: "Open Science Tools - authoring and publishing workflows for collaborative scientific writing"
+subtitle: "HS 2023"
+execute:
+  echo: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(googlesheets4)
+library(dplyr)
+library(knitr)
+library(readr)
+```
+
+## Day 1
+
+🗓️ 17th October 2023
+
+🕣 08:30 am to 12:30 pm CET
+
+🏢 Room HG F 33.5
+
+```{r}
+#| tbl-colwidths: [25,75]
+read_csv(here::here("data/tbl-01-ost-hs-23-course-schedule.csv")) |> 
+  filter(day == 1) |> 
+  select(Time = time, Module = title) |> 
+  kable()
+  
+```
+
+
+## Day 2
+
+🗓 24th October 2023
+
+🕣 08:30 am to 12:30 pm CET
+
+🏢 Room HG F 33.5
+
+```{r}
+#| tbl-colwidths: [25,75]
+
+read_csv(here::here("data/tbl-01-ost-hs-23-course-schedule.csv")) |>
+  filter(day == 2) |> 
+  select(Time = time, Module = title) |> 
+  kable()
+```
+
+
+
+
+------------------------------------------------------------------------
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

@@ -35,6 +35,43 @@ Prior to Day 1, please complete the following seven steps:
 -   [Step 6](0-2-pre-work/06-survey.html): Fill out the pre-course survey by **Friday, 13th October**
 -   [Step 7](0-2-pre-work/07-reading.html): Read @wilson2017 and prepare for a discussion
 
+```{r}
+library(googlesheets4)
+library(dplyr)
+library(knitr)
+library(readr)
+```
+
+## Day 1
+
+```{r}
+#| tbl-colwidths: [25,75]
+read_csv(here::here("data/tbl-01-ost-hs-23-course-schedule.csv")) |> 
+  filter(day == 1) |> 
+  select(Time = time, Module = title) |> 
+  kable()
+  
+```
+
+## Day 2
+
+```{r}
+#| tbl-colwidths: [25,75]
+
+read_csv(here::here("data/tbl-01-ost-hs-23-course-schedule.csv")) |>
+  filter(day == 2) |> 
+  select(Time = time, Module = title) |> 
+  kable()
+```
+
+
+
+
+------------------------------------------------------------------------
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+
 ## Thanks!
 
 Thank you for working through these steps. You will hear from us again a day before the start of the course.
