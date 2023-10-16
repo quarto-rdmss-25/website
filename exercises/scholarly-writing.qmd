@@ -1,0 +1,66 @@
+---
+title: "Give me a title"
+date: 2023-10-17
+author:
+  - name: First Last
+    orcid: 0000-0003-2196-5015
+    email: me@web.org
+    affiliation: 
+      - name: ETH Zurich
+        url: https://ethz.ch/de.html
+abstract: > 
+  The abstract will be placed here. Breaks can be added by hitting return
+  on the keyboard. 
+license: "CC BY"
+citation: 
+  container-title: My Blog
+  url: https://www.example.com
+bibliography: references.bib
+csl: apa.csl
+---
+
+## Scholarly writing
+
+Scholarly articles require much more detail in their front matter than simply a title and an author. Quarto provides a rich set of YAML metadata keys to describe these details
+
+## Front Matter
+
+1.  Add a title to the document
+
+2.  Replace the values under author for name, orcid, email, and affiliation with your own
+
+3.  Edit the abstract to be a short description of your article
+
+4.  Render the document to see the changes
+
+## Citations
+
+1.  Add the citation key for the paper "'My flight arrives at 5 am, can you pick me up?': The gatekeeping burden of the african academic" as an in-text reference to the sentence below
+
+In \_\_\_, the authors describe how visitors still expect a personal pick-up, despite the availability of taxi services.
+
+2.  Add the citation key for the paper "'The rich will always be able to dispose of their waste': a view from the frontlines of municipal failure in Makhanda, South Africa" as a citation at the end of the sentence below.
+
+Inequality underpins waste management systems, structuring who can or cannot access services \_\_\_.
+
+## Bibliographies
+
+Your folder already contains a `references.bib` file. One way of creating this bibliography is by exporting a collection in Zotero reference management tool. However, references can also be added by searching from within RStudio.
+
+As part of the preparation your an article by [@wilson2017].
+
+1.  Place at the cursor at the end of the sentence above and remove the placeholder
+
+2.  In visual editing mode, click Insert -\> Citation
+
+3.  Open the Crossref dialogue on the left
+
+4.  Search for "good enough practices in scientific computing"
+
+5.  Click on the reference to highlight it
+
+6.  Click on the \`+\` button at the top right of the reference
+
+7.  Click Insert on the bottom right of the page
+
+8.  Render the document to see the changes

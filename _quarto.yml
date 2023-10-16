@@ -51,6 +51,19 @@ website:
           - href: 0-2-pre-work/07-reading.qmd
             text: "Step 7: Reading"
       - text: "---"
+      - section: "Day 1"
+        contents:
+          - href: 1-1-hello-quarto/index.qmd
+            text: "Hello Quarto"
+          - href: 1-2-documents/index.qmd
+            text: "Documents"
+          - href: 1-3-scholarly-writing/index.qmd
+            text: "Articles"
+          - href: 1-4-zotero/index.qmd
+            text: "Zotero"
+          - href: 1-5-github/index.qmd
+            text: "GitHub"
+      - text: "---"
       - href: syllabus.qmd
         text: "Syllabus"
       - text: "---"
@@ -72,7 +85,6 @@ format:
             <script defer data-domain="ost-hs23.github.io/website" src="https://plausible.io/js/script.js"></script>
 
 freeze: auto
-
 editor: source
 
 

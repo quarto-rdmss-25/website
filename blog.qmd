@@ -1,0 +1,16 @@
+---
+title: My blog
+subtitle:
+    A subtitle describing the blog
+listing:
+  sort: "date desc"
+  contents: "scholarly-writing.qmd"
+  type: default
+  fields: [image, date, title, author, description, reading-time]
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+search: false
+---

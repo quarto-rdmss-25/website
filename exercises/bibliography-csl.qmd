@@ -1,0 +1,21 @@
+Bibliographies
+
+Your folder already contains a references.bib file. One way of creating this bibliography is by exporting a collection in Zotero reference management tool. However, references can also be added by searching from within RStudio.
+
+As part of the preparation your an article by [@wilson2017].
+
+Place at the cursor at the end of the sentence above and remove the placeholder
+
+In visual editing mode, click Insert -> Citation
+
+Open the Crossref dialogue on the left
+
+Search for "good enough practices in scientific computing"
+
+Click on the reference to highlight it
+
+Click on the `+` button at the top right of the reference
+
+Click Insert on the bottom right of the page
+
+Render the document to see the changes
