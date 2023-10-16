@@ -75,7 +75,6 @@ format:
   html:
     theme:
       light: [litera, theme.scss]
-    highlight-style: a11y-dark
     code-copy: true
     code-overflow: wrap
     toc: true

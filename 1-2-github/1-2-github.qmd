@@ -49,7 +49,7 @@ knitr::include_graphics("images/phd_comics_vc.gif")
 
 ## Git and GitHub 
 
-::: {.columns}
+:::: {.columns}
 
 ::: {.column width="50%"}
 ::: {.fragment .fade-in-then-semi-out}
@@ -68,13 +68,13 @@ knitr::include_graphics("images/git-logo.png")
 ```{r echo=FALSE, out.width="25%"}
 knitr::include_graphics("images/github-logo.png")
 ```
-:::
 - GitHub is a hosting platform for version control using Git
 - Launched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion
 - 100 million Users (20.5 in 2022 alone) ([October 2023](https://octoverse.github.com/2022/global-tech-talent))
 :::
-
 :::
+
+::::
 
 ## Version Control - Terminology
 
@@ -104,7 +104,7 @@ knitr::include_graphics("images/github-logo.png")
 
 ## Our turn
 
-Add -> Commit -> Push
+Stage -> Commit -> Push
 
 ::: task
 
@@ -120,12 +120,18 @@ Add -> Commit -> Push
 
 :::
 
+```{r}
+#| echo: false
+
+countdown(minutes = 10)
+```
+
 ## Your turn
 
 ::: task
 
 - Exchange GitHub usernames with your neighbor
-- Open your exercises repository on GitHub
+- Open your exercises project in RStudio on Posit Cloud
 - Find the issue tracker
 - Open an issue with the title "Prepare about.qmd for personal website" 
 - Add yourself and your neighbor to the list of Assignees on the right panel
@@ -136,7 +142,7 @@ Add -> Commit -> Push
 ```{r}
 #| echo: false
 
-countdown(minutes = 7)
+countdown(minutes = 10)
 ```
 
 

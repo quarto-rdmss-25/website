@@ -12,6 +12,7 @@ title: "Hello Quarto"
 
 ## Exercises
 
--   <a href="https://raw.githubusercontent.com/mine-cetinkaya-rundel/quarto-sdss/main/exercises/hello-penguins.qmd">{{< fa download >}} `hello-penguins.qmd`</i></a>
+Participants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace. 
 
--   <a href="https://raw.githubusercontent.com/mine-cetinkaya-rundel/quarto-sdss/main/exercises/my-first-document.qmd">{{< fa download >}} `my-first-document.qmd`</i></a>
+-   <a href="https://raw.githubusercontent.com/ost-hs23/exercises/main/hello-penguins.qmd">{{< fa download >}} `hello-penguins.qmd`</i></a>
+

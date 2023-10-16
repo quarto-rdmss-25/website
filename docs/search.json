@@ -263,7 +263,7 @@
     "href": "1-1-hello-quarto/index.html#exercises",
     "title": "Hello Quarto",
     "section": "Exercises",
-    "text": "Exercises\n\n hello-penguins.qmd\n my-first-document.qmd"
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd"
   },
   {
     "objectID": "0-1-overview/index.html",
@@ -739,7 +739,7 @@
     "href": "1-2-github/1-2-github.html#git-and-github",
     "title": "GitHub",
     "section": "Git and GitHub",
-    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion\n100 million Users (20.5 in 2022 alone) (October 2023)"
+    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion\n100 million Users (20.5 in 2022 alone) (October 2023)"
   },
   {
     "objectID": "1-2-github/1-2-github.html#version-control---terminology",
@@ -914,21 +914,21 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
     "title": "Hello Quarto",
     "section": "",
-    "text": "Who has an ORCID iD?"
+    "text": "Who already had ORCID iD?"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-2",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-2",
     "title": "Hello Quarto",
     "section": "",
-    "text": "Who has a GitHub account?"
+    "text": "Who already had a GitHub account?"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-3",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-3",
     "title": "Hello Quarto",
     "section": "",
-    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
+    "text": "Who already uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-4",
@@ -949,14 +949,14 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes on the provided paper.\n\n\n\n\n\n−+\n02:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#about-you",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#about-you",
     "title": "Hello Quarto",
     "section": "About you",
-    "text": "About you\n\nMeet 1-2 people around you!\n\n\n\n\n−+\n02:00"
+    "text": "About you\n\nPick an item\nTake notes for 1 minute:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n01:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-6",
@@ -984,7 +984,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#getting-help",
     "title": "Hello Quarto",
     "section": "Getting help",
-    "text": "Getting help\n\nDuring my turn and our turn segments – raise your hand\nDuring your turn segments – also feel free to raise your hand for questions but use the stickies to signal:\n\nPink: I’d like some help / I’m stuck / I’m lost\npurple: I’m done"
+    "text": "Getting help\n\nDuring my turn and our turn segments – raise your hand \nDuring your turn segments – also feel free to raise your hand  for questions but use the yellow sticky to signal: I’m done"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
@@ -1008,15 +1008,15 @@
     "text": "A tour of Quarto\n\n\nSit back and enjoy!"
   },
   {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#our-turn",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#our-turn",
-    "title": "Hello Quarto",
-    "section": "Our turn",
-    "text": "Our turn\n\n\nOpen github.com in your browser\nNavigate to the GitHub organisation for the course ost-hs23\nUnder Repositories, and use search dialogue  to search for your GitHub username\nClick on the repository with your username (exercises-USERNAME)\nClick on the green Code button and copy the URL\nOpen RStudio in Posit Cloud\nUnder Content, Click New Project &gt; New Project from Git Repository\nPaste the URL you copied into the field\nClick OK"
-  },
-  {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
+    "title": "Hello Quarto",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course ost-hs23.\nUnder Repositories, use search dialogue  to search for your GitHub username.\nClick on the repository with your username (exercises-USERNAME).\nClick on the green Code button and copy the URL.\nOpen the workspace for the course on Posit Cloud.\nUnder Content, Click New Project &gt; New Project from Git Repository.\nPaste the URL you copied into the field.\nClick OK.\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
     "title": "Hello Quarto",
     "section": "Your turn",
     "text": "Your turn\n\n\nOpen hello-penguins.qmd in RStudio and in visual editing mode\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\nCompare notes with neighbors about updates you’ve made and note any aspects of the document that are not clear after the tour and your first interaction with it.\n\n\n\n\n\n−+\n10:00"
@@ -1050,11 +1050,11 @@
     "text": "Many Quarto formats\n\n\n\nFeature\nR Markdown\nQuarto\n\n\n\n\nCross References\nhtml_document2\npdf_document2\nword_document2\nQuarto Crossrefs\n\n\nWebsites & Blogs\nblogdown\ndistill\nQuarto Websites\nQuarto Blogs\n\n\nBooks\nbookdown\nQuarto Books\n\n\nInteractivity\nShiny Documents\nQuarto Interactive Documents\n\n\nJournal Articles\nrticles\nJournal Articles\n\n\nDashboards\nflexdashboard\nComing soon!"
   },
   {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-3",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-3",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\nIn RStudio, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections, one with a fact you want to learn, one with a task that gave you joy, and one with a task you found challenging.\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "text": "Your turn\n\nIn your exercises project in RStudio, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
     "objectID": "index.html",

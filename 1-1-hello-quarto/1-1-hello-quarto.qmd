@@ -54,19 +54,19 @@ Who has a LinkedIn account?
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has an ORCID iD?
+Who already had ORCID iD?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has a GitHub account?
+Who already had a GitHub account?
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)
+Who already uses a reference management system? (e.g. Mendeley, EndNote, Zotero)
 :::
 
 ## {{< fa hand >}} {.center-align auto-animate="true"}
@@ -90,7 +90,7 @@ Think about the last time you published a written document:
 -   Which tasks were challenging or frustrating?
 
 ::: hand
-Take some written notes.
+Take some written notes on the provided paper.
 :::
 :::
 
@@ -103,13 +103,19 @@ countdown(minutes = 2)
 ## About you
 
 ::: task
-Meet 1-2 people around you!
+### Pick an item 
+
+**Take notes for 1 minute:**   
+
+What does the item you have picked have to do with the reason for you being here?
 :::
+
+![](images/items-slide/items-slide.001.png)
 
 ```{r}
 #| echo: false
 
-countdown(minutes = 2)
+countdown(minutes = 1)
 ```
 
 # OST-HS23 {.center-align background-color="#461a52"}
@@ -176,13 +182,9 @@ Matrix / Element
 
 ## Getting help
 
--   During **my turn** and **our turn** segments -- raise your hand
+-   During **my turn** and **our turn** segments -- raise your hand {{< fa hand >}}
 
--   During **your turn** segments -- also feel free to raise your hand for questions but use the stickies to signal:
-
-    -   Pink: I'd like some help / I'm stuck / I'm lost
-    -   purple: I'm done
-
+-   During **your turn** segments -- also feel free to raise your hand {{< fa hand >}} for questions but use the [yellow]{.highlight-yellow} sticky to signal: [I'm done]{.highlight-yellow}
 
 # Hello Quarto
 
@@ -237,19 +239,25 @@ I'll **teach** you
 Sit back and enjoy!
 :::
 
-## Our turn
+## Your turn
 
 ::: task
-- Open [github.com](https://github.com) in your browser
-- Navigate to the GitHub organisation for the course [ost-hs23](https://github.com/ost-hs23)
-- Under Repositories, and use search dialogue {{< fa magnifying-glass >}} to search for your GitHub username
-- Click on the repository with your username (exercises-USERNAME)
-- Click on the green Code button and copy the URL
-- Open RStudio in Posit Cloud 
-- Under Content, Click New Project > New Project from Git Repository
-- Paste the URL you copied into the field
-- Click OK
+1. Open [github.com](https://github.com) in your browser.
+2. Navigate to the GitHub organisation for the course [ost-hs23](https://github.com/ost-hs23).
+3. Under Repositories, use search dialogue {{< fa magnifying-glass >}} to search for your GitHub username.
+4. Click on the repository with your username (exercises-USERNAME).
+5. Click on the green Code button and copy the URL.
+6. Open the workspace for the course on Posit Cloud. 
+7. Under Content, Click New Project > New Project from Git Repository.
+8. Paste the URL you copied into the field.
+9. Click OK.
 :::
+
+```{r}
+#| echo: false
+
+countdown(minutes = 5)
+```
 
 ## Your turn
 
@@ -257,7 +265,7 @@ Sit back and enjoy!
 - Open `hello-penguins.qmd` in RStudio and in visual editing mode
 - Render the document
 - Update your name and re-render
-- Inspect components of the document and make one more update and re-render. 
+- Inspect components of the document and make one more update and re-render.
 - Compare notes with neighbors about updates you've made and note any aspects of the document that are not clear after the tour and your first interaction with it.
 :::
 
@@ -350,13 +358,16 @@ countdown(minutes = 10)
 ## Your turn
 
 ::: task
-In RStudio, go to [File \> New File \> Quarto document]{.highlight-yellow} to create a Quarto document with HTML output. Render the document, which will ask you to give it a name -- you can use `my-first-document.qmd`.
+In your exercises project in RStudio on Posit Cloud, go to [File \> New File \> Quarto document]{.highlight-yellow} to create a Quarto document with HTML output. Render the document, which will ask you to give it a name -- you can use `my-first-document.qmd`.
 
 Use the visual editor for the next steps.
 
 -   Add a title and your name as the author.
 
--   With reference to writing and publishing: Create three sections, one with a fact you want to learn, one with a task that gave you joy, and one with a task you found challenging. 
+-   With reference to writing and publishing: Create three sections,
+    - one with a task that gave you joy, 
+    - one with a task you found challenging, 
+    - and one with a fact you want to learn,
 
 -   Add a table of contents.
 
