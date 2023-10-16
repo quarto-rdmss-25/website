@@ -1,0 +1,14 @@
+---
+title: "Documents"
+---
+
+## Slides
+
+[View slides in full screen](1-3-documents.html)
+
+```{=html}
+<iframe class="slide-deck" src="1-3-documents.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## Exercises
+

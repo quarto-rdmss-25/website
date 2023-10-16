@@ -237,10 +237,28 @@ I'll **teach** you
 Sit back and enjoy!
 :::
 
+## Our turn
+
+::: task
+- Open [github.com](https://github.com) in your browser
+- Navigate to the GitHub organisation for the course [ost-hs23](https://github.com/ost-hs23)
+- Under Repositories, and use search dialogue {{< fa magnifying-glass >}} to search for your GitHub username
+- Click on the repository with your username (exercises-USERNAME)
+- Click on the green Code button and copy the URL
+- Open RStudio in Posit Cloud 
+- Under Content, Click New Project > New Project from Git Repository
+- Paste the URL you copied into the field
+- Click OK
+:::
+
 ## Your turn
 
 ::: task
-Open `TODO.qmd` in RStudio and with the visual editor. Render the document. Update your name and re-render. Inspect components of the document and make one more update and re-render. Compare notes with neighbors about updates you've made and note any aspects of the document that are not clear after the tour and your first interaction with it.
+- Open `hello-penguins.qmd` in RStudio and in visual editing mode
+- Render the document
+- Update your name and re-render
+- Inspect components of the document and make one more update and re-render. 
+- Compare notes with neighbors about updates you've made and note any aspects of the document that are not clear after the tour and your first interaction with it.
 :::
 
 ```{r}
@@ -248,7 +266,6 @@ Open `TODO.qmd` in RStudio and with the visual editor. Render the document. Upda
 
 countdown(minutes = 10)
 ```
-
 
 ## From the comfort of your own workspace
 
@@ -353,9 +370,5 @@ countdown(minutes = 10)
 ```
 
 
-## Questions
 
-::: task
-Any questions / anything you'd like to review before we wrap up this module?
-:::
 
