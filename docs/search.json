@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "1-5-zotero/1-5-zotero.html#why-use-a-reference-management-tool",
-    "href": "1-5-zotero/1-5-zotero.html#why-use-a-reference-management-tool",
-    "title": "Zotero",
-    "section": "Why use a reference management tool?",
-    "text": "Why use a reference management tool?\n\n\nManaging references manually:\n\nis a lot of work\nis prone to mistakes\nmakes you lose track\n\n\n\n\n\n\n\n\n\n\nPhoto by Christian Erfurt on unsplash.com"
-  },
-  {
-    "objectID": "1-5-zotero/1-5-zotero.html#why-use-zotero",
-    "href": "1-5-zotero/1-5-zotero.html#why-use-zotero",
-    "title": "Zotero",
-    "section": "Why use Zotero?",
-    "text": "Why use Zotero?\n\n\n\nfree\nopen source: developed in public\ntransparent about access to your own data\ncross-platform (Windows, Mac, Linux)\ncollaboration in groups\nintegration with word processors\n\n\n\n\n\n\n\n\n\n\nPhoto by Sincerely Media on unsplash.com\n\n\nMendeley\n\nMendeley is owned by Elsevier.\nIt encrypts your database and makes money with your data\nYou can only collaborate with 3 people on one project.\n\nEndNote\n\nEndNote doesn’t come free, you need to buy a license.\nThey also used a prioprietary citation style files that could only be opened by EndNote."
-  },
-  {
-    "objectID": "1-5-zotero/1-5-zotero.html#our-turn",
-    "href": "1-5-zotero/1-5-zotero.html#our-turn",
-    "title": "Zotero",
-    "section": "Our turn",
-    "text": "Our turn\nBuilding a bibliography with Zotero\n\n\nOpen Zotero\nFollow along on the screen\n\n\n\n\n\n ost-hs23.github.io/website/"
-  },
-  {
     "objectID": "0-2-pre-work/01-github.html",
     "href": "0-2-pre-work/01-github.html",
     "title": "Interaction with GitHub",
@@ -74,7 +53,7 @@
     "href": "1-4-scholarly-writing/1-4-scholarly-writing.html#whats-a-citation",
     "title": "Scholarly writing",
     "section": "What’s a Citation?",
-    "text": "What’s a Citation?\n\n\nInequality underpins waste management systems, structuring who can or cannot access services (Kalina et al., 2023).\nMany visitors still expect a personal pick-up, despite the availability of taxi services (tilley2021?).\nIn (tilley2021?), the authors describe how visitors still expect a personal pick-up, despite the availability of taxi services.\n\n\n\nExplanation A citation is a reference to the source of information used in your research. Any time you directly quote, paraphrase, or summarize the essential elements of someone else’s idea in your work, an in-text citation should follow. For example, in APA style, a citation might look like this: (Tilley and Kalina, 2021).\nAnalogy Think of a citation as a signpost on a road trip. It tells you where the information came from and points you in the direction of the full details (the destination), which can be found in the reference list."
+    "text": "What’s a Citation?\n\n\nInequality underpins waste management systems, structuring who can or cannot access services (Kalina et al., 2023).\nMany visitors still expect a personal pick-up, despite the availability of taxi services (Tilley & Kalina, 2021).\nIn Tilley & Kalina (2021), the authors describe how visitors still expect a personal pick-up, despite the availability of taxi services.\n\n\n\nExplanation A citation is a reference to the source of information used in your research. Any time you directly quote, paraphrase, or summarize the essential elements of someone else’s idea in your work, an in-text citation should follow. For example, in APA style, a citation might look like this: (Tilley and Kalina, 2021).\nAnalogy Think of a citation as a signpost on a road trip. It tells you where the information came from and points you in the direction of the full details (the destination), which can be found in the reference list."
   },
   {
     "objectID": "1-4-scholarly-writing/1-4-scholarly-writing.html#whats-a-citation-1",
@@ -110,6 +89,20 @@
     "title": "Scholarly writing",
     "section": "What’s the Citation Style Language (CSL)?",
     "text": "What’s the Citation Style Language (CSL)?\nauthor-date: Many visitors still expect a personal pick-up, despite the availability of taxi services (tilley2021?).\nnumeric Many visitors still expect a personal pick-up, despite the availability of taxi services [1]."
+  },
+  {
+    "objectID": "1-4-scholarly-writing/1-4-scholarly-writing.html#why-use-a-reference-management-tool",
+    "href": "1-4-scholarly-writing/1-4-scholarly-writing.html#why-use-a-reference-management-tool",
+    "title": "Scholarly writing",
+    "section": "Why use a reference management tool?",
+    "text": "Why use a reference management tool?\n\n\nManaging references manually:\n\nis a lot of work\nis prone to mistakes\nmakes you lose track\n\n\n\n\n\n\n\n\n\n\nPhoto by Christian Erfurt on unsplash.com"
+  },
+  {
+    "objectID": "1-4-scholarly-writing/1-4-scholarly-writing.html#why-use-zotero",
+    "href": "1-4-scholarly-writing/1-4-scholarly-writing.html#why-use-zotero",
+    "title": "Scholarly writing",
+    "section": "Why use Zotero?",
+    "text": "Why use Zotero?\n\n\n\nfree\nopen source: developed in public\ntransparent about access to your own data\ncross-platform (Windows, Mac, Linux)\ncollaboration in groups\nintegration with word processors\n\n\n\n\n\n\n\n\n\n\nPhoto by Sincerely Media on unsplash.com\n\n\nMendeley\n\nMendeley is owned by Elsevier.\nIt encrypts your database and makes money with your data\nYou can only collaborate with 3 people on one project.\n\nEndNote\n\nEndNote doesn’t come free, you need to buy a license.\nThey also used a prioprietary citation style files that could only be opened by EndNote."
   },
   {
     "objectID": "1-4-scholarly-writing/1-4-scholarly-writing.html#scholarly-articles-in-quarto",
@@ -410,7 +403,7 @@
     "href": "1-3-documents/1-3-documents.html#your-turn",
     "title": "Documents",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen TODO.qmd in RStudio.\nTry Ctrl + space to see the available YAML options.\nTry out the tab-completion of any options you remember.\nYou can use the HTML reference as needed.\n\n\n\n\n\n−+\n05:00"
+    "text": "Your turn\n\n\nOpen hello-penguins.qmd in your exercises project in RStudio on Posit Cloud.\nIn the YAML header, try Ctrl + space to see the available YAML options.\nTry out the tab-completion of any options you remember.\nYou can use the HTML reference as needed.\n\n\n\n\n\n−+\n05:00"
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
@@ -480,7 +473,7 @@
     "href": "1-3-documents/1-3-documents.html#your-turn-2",
     "title": "Documents",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen callout-boxes.qmd and render the document.\nUsing the visual editor mode, change the type of the first callouts box and then re-render. Also play with the options to change its appearance.\nAdd a caption to the second callout box.\nMake the third callout box collapsible. Then, switch over to the source editor to inspect the markdown code.\nChange the format to PDF and re-render.\n\n\n\n\n\n−+\n05:00"
+    "text": "Your turn\n\n\nOpen callout-boxes.qmd and render the document.\nUsing the visual editor mode, change the type of the first callouts box and then re-render. Also play with the options to change its appearance.\nAdd a caption to the second callout box.\nMake the third callout box collapsible. Then, switch over to the source editor to inspect the markdown code.\nChange the format to PDF and re-render.\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#footnotes",
@@ -606,7 +599,7 @@
     "href": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
     "title": "Documents",
     "section": "Finding the figures to include",
-    "text": "Finding the figures to include\nIn places like markdown, YAML, or the command line/shell/terminal, you’ll need to use absolute or relative file paths:\n\n\nAbsolute = BAD: \"/Users/lars/ost-hs23\" - Whose computer will this work on?\n\n\n\n\nRelative = BETTER:\n\n\"../ = up one directory, ../../ = up two directories, etc.\n/.. or / = start from root directory of your current computer"
+    "text": "Finding the figures to include\nIn places like markdown, YAML, or the command line/shell/terminal, you’ll need to use absolute or relative file paths:\n\n\nAbsolute = BAD: \"/Users/lars/exercises\" - Whose computer will this work on?\n\n\n\n\nRelative = BETTER:\n\n\"../ = up one directory, ../../ = up two directories, etc.\n/.. or / = start from root directory of your current computer"
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#figures-with-code",
@@ -634,7 +627,7 @@
     "href": "1-3-documents/1-3-documents.html#cross-references-1",
     "title": "Documents",
     "section": "Cross references",
-    "text": "Cross references\n\nHelp readers to navigate your document with numbered references and hyperlinks to entities like figures and tables.\nCross referencing steps:\n\nAdd a caption to your figure or table.\nGive an id to your figure or table, starting with fig- or tbl-.\nRefer to it with @fig-... or @tbl-...."
+    "text": "Cross references\n\nHelp readers to navigate your document with numbered references and hyperlinks to entities like figures and tables.\nCross referencing steps:\n\nAdd a caption to your figure or table.\nGive an ID to your figure or table, starting with fig- or tbl-.\nRefer to it with @fig-... or @tbl-...."
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#figure-cross-references",
@@ -655,7 +648,7 @@
     "href": "1-3-documents/1-3-documents.html#our-turn",
     "title": "Documents",
     "section": "Our turn",
-    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
+    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow along with me and the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#learn-more",
@@ -663,13 +656,6 @@
     "title": "Documents",
     "section": "Learn more",
     "text": "Learn more\n\nquarto.org/docs/authoring/markdown-basics.html"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#questions",
-    "href": "1-3-documents/1-3-documents.html#questions",
-    "title": "Documents",
-    "section": "Questions",
-    "text": "Questions\n\nAny questions / anything you’d like to review before we wrap up this module?"
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#references",
@@ -753,14 +739,14 @@
     "href": "1-2-github/1-2-github.html#our-turn",
     "title": "GitHub",
     "section": "Our turn",
-    "text": "Our turn\nAdd -&gt; Commit -&gt; Push\n\n\nOpen your exercises repository in RStudio on Posit Cloud\nOpen the Git pane\nStage all files by clicking on the checkbox\nClick Commit button\nAdd a commit message\nClick Commit button\nClick Push button\nAdd GitHub username\nAdd GitHub Personal Access Token (PAT)"
+    "text": "Our turn\nStage -&gt; Commit -&gt; Push\n\n\nOpen your exercises repository in RStudio on Posit Cloud\nOpen the Git pane\nStage all files by clicking on the checkbox\nClick Commit button\nAdd a commit message\nClick Commit button\nClick Push button\nAdd GitHub username\nAdd GitHub Personal Access Token (PAT)\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-2-github/1-2-github.html#your-turn",
     "href": "1-2-github/1-2-github.html#your-turn",
     "title": "GitHub",
     "section": "Your turn",
-    "text": "Your turn\n\n\nExchange GitHub usernames with your neighbor\nOpen your exercises repository on GitHub\nFind the issue tracker\nOpen an issue with the title “Prepare about.qmd for personal website”\nAdd yourself and your neighbor to the list of Assignees on the right panel\nAdd a comment to the issue and tag the course instructor (@larnsce) and the Assignee to ask for a review\nClick Submit new issue\n\n\n\n\n\n−+\n07:00\n\n\n\n\n\n\n🔗 ost-hs23.github.io/website/"
+    "text": "Your turn\n\n\nExchange GitHub usernames with your neighbor\nOpen your exercises project in RStudio on Posit Cloud\nFind the issue tracker\nOpen an issue with the title “Prepare about.qmd for personal website”\nAdd yourself and your neighbor to the list of Assignees on the right panel\nAdd a comment to the issue and tag the course instructor (@larnsce) and the Assignee to ask for a review\nClick Submit new issue\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n🔗 ost-hs23.github.io/website/"
   },
   {
     "objectID": "1-3-documents/index.html",
@@ -1054,7 +1040,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-3",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\nIn your exercises project in RStudio, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "text": "Your turn\n\nIn your exercises project in RStudio on Posit Cloud, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
     "objectID": "index.html",
@@ -1279,26 +1265,5 @@
     "title": "Learning more about your prior knowledge",
     "section": "",
     "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
-  },
-  {
-    "objectID": "1-5-zotero/index.html",
-    "href": "1-5-zotero/index.html",
-    "title": "Zotero",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-5-zotero/index.html#slides",
-    "href": "1-5-zotero/index.html#slides",
-    "title": "Zotero",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-5-zotero/index.html#exercises",
-    "href": "1-5-zotero/index.html#exercises",
-    "title": "Zotero",
-    "section": "Exercises",
-    "text": "Exercises\nThere are no starter files for the exercises in this module. You’ll create the files as part of the exercises."
   }
 ]
