@@ -10,6 +10,6 @@
 <atom:link href="https://ost-hs23.github.io/website/blog.xml" rel="self" type="application/rss+xml"/>
 <description>As the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing.</description>
 <generator>quarto-1.4.217</generator>
-<lastBuildDate>Mon, 16 Oct 2023 20:42:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Oct 2023 21:07:01 GMT</lastBuildDate>
 </channel>
 </rss>

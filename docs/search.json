@@ -1075,7 +1075,14 @@
     "href": "index.html#thanks",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License."
+    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
+  },
+  {
+    "objectID": "index.html#attribution",
+    "href": "index.html#attribution",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "Attribution",
+    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
     "objectID": "2-2-websites/2-2-websites.html#quarto-projects",
