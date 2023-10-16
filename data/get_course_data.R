@@ -18,10 +18,10 @@ library(stringr)
 gs4_auth()
 
 googlesheets4::read_sheet("1WfhCs-EWzD9oB5tjpP-cqszeqzG0ZorXjTEmfee-EHo") |>
-  #mutate(title = case_when(
-  #  is.na(page_link) == FALSE ~  paste0("[", title, "](", page_link, "/)"),
-  #  TRUE ~ title
-  #)) |>
+  mutate(title = case_when(
+    is.na(page_link) == FALSE ~  paste0("[", title, "](", page_link, "/)"),
+    TRUE ~ title
+  )) |>
   mutate(start_time = as.character(start_time)) |>
   mutate(start_time = str_extract(start_time, "\\b\\d{2}:\\d{2}\\b")) |>
   mutate(end_time = as.character(end_time)) |>
