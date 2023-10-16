@@ -1,48 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ost-hs23.github.io/website/0-1-overview/0-1-overview.html</loc>
-    <lastmod>2023-10-03T12:46:50.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-1-overview/index.html</loc>
-    <lastmod>2023-10-03T12:46:50.752Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/index.html</loc>
-    <lastmod>2023-10-03T12:46:51.139Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/syllabus.html</loc>
-    <lastmod>2023-10-03T12:46:51.682Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/04-posit-cloud.html</loc>
-    <lastmod>2023-10-03T12:46:52.038Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/07-reading.html</loc>
-    <lastmod>2023-10-03T12:46:52.398Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/05-element.html</loc>
-    <lastmod>2023-10-03T12:46:52.756Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/02-orcid.html</loc>
-    <lastmod>2023-10-03T12:46:53.085Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/06-survey.html</loc>
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html</loc>
-    <lastmod>2023-10-03T12:46:53.596Z</lastmod>
+    <lastmod>2023-10-11T06:46:15.712Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/05-element.html</loc>
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/04-posit-cloud.html</loc>
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/index.html</loc>
+    <lastmod>2023-10-11T20:09:14.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/1-1-hello-quarto/1-1-hello-quarto.html</loc>
+    <lastmod>2023-10-11T19:46:41.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-1-overview/0-1-overview.html</loc>
+    <lastmod>2023-10-11T19:35:36.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-1-overview/index.html</loc>
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/1-1-hello-quarto/index.html</loc>
+    <lastmod>2023-10-11T19:45:18.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/syllabus.html</loc>
+    <lastmod>2023-10-03T16:04:29.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/07-reading.html</loc>
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/02-orcid.html</loc>
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/01-github.html</loc>
-    <lastmod>2023-10-03T12:46:53.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/06-survey.html</loc>
-    <lastmod>2023-10-03T12:46:54.285Z</lastmod>
-
+    <lastmod>2023-10-03T16:04:29.854Z</lastmod>
   </url>
 </urlset>

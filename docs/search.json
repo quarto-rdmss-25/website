@@ -1,43 +1,378 @@
 [
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand",
-    "href": "0-1-overview/0-1-overview.html#fa-hand",
-
+    "objectID": "0-2-pre-work/06-survey.html",
+    "href": "0-2-pre-work/06-survey.html",
+    "title": "Learning more about your prior knowledge",
+    "section": "",
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
+  },
+  {
+    "objectID": "0-2-pre-work/06-survey.html#please-fill-out-our-pre-course-survey",
+    "href": "0-2-pre-work/06-survey.html#please-fill-out-our-pre-course-survey",
+    "title": "Learning more about your prior knowledge",
+    "section": "",
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
+  },
+  {
+    "objectID": "0-2-pre-work/03-zotero.html",
+    "href": "0-2-pre-work/03-zotero.html",
+    "title": "Zotero for reference management",
+    "section": "",
+    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/5228980/ost-hs23\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -&gt; Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -&gt; Tools -&gt; Add-ons -&gt; (Gear icon) -&gt; Install Add-on From File… -&gt; choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -&gt; Settings -&gt; Export -&gt; Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -&gt; Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -&gt; Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -&gt; Settings -&gt; Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
+  },
+  {
+    "objectID": "0-2-pre-work/03-zotero.html#sign-up-for-zotero-and-setup-zotero-reference-management-software",
+    "href": "0-2-pre-work/03-zotero.html#sign-up-for-zotero-and-setup-zotero-reference-management-software",
+    "title": "Zotero for reference management",
+    "section": "",
+    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/5228980/ost-hs23\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -&gt; Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -&gt; Tools -&gt; Add-ons -&gt; (Gear icon) -&gt; Install Add-on From File… -&gt; choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -&gt; Settings -&gt; Export -&gt; Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -&gt; Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -&gt; Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -&gt; Settings -&gt; Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
+  },
+  {
+    "objectID": "0-2-pre-work/05-element.html",
+    "href": "0-2-pre-work/05-element.html",
+    "title": "Communication in a chat",
+    "section": "",
+    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. To set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
+  },
+  {
+    "objectID": "0-2-pre-work/04-posit-cloud.html",
+    "href": "0-2-pre-work/04-posit-cloud.html",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
+    "section": "",
+    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
+  },
+  {
+    "objectID": "0-2-pre-work/04-posit-cloud.html#log-into-posit-cloud-with-github-account-and-join-workspace-for-the-course",
+    "href": "0-2-pre-work/04-posit-cloud.html#log-into-posit-cloud-with-github-account-and-join-workspace-for-the-course",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
+    "section": "",
+    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
+  },
+  {
+    "objectID": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
+    "href": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
+    "title": "Working with Quarto & RStudio on Posit Cloud",
+    "section": "Join the course workspace on Posit Cloud",
+    "text": "Join the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/426098/join?access_code=A7ybzBNHYWKzJloBElgJIEAscpWnJCYh3jdhlB0I"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "",
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
+  },
+  {
+    "objectID": "index.html#what-do-i-need-to-prepare-before-day-1",
+    "href": "index.html#what-do-i-need-to-prepare-before-day-1",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": " What do I need to prepare before Day 1?",
+    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud and join the workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read Wilson et al. (2017) and prepare for a discussion"
+  },
+  {
+    "objectID": "index.html#day-1",
+    "href": "index.html#day-1",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "Day 1",
+    "text": "Day 1\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:15\nHello Quarto\n\n\n09:15 - 09:25\nBreak\n\n\n09:25 - 10:25\nDocuments\n\n\n10:25 - 10:35\nBreak\n\n\n10:35 - 11:05\nArticles\n\n\n11:05 - 11:15\nBreak\n\n\n11:15 - 11:50\nZotero\n\n\n11:50 - 12:30\nGitHub\n\n\n10:10 - 10:20\nBreak"
+  },
+  {
+    "objectID": "index.html#day-2",
+    "href": "index.html#day-2",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "Day 2",
+    "text": "Day 2\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:15\nPresentations\n\n\n09:15 - 09:25\nBreak\n\n\n09:25 - 10:10\nWebsites\n\n\n10:20 - 11:35\nDevelop\n\n\n11:35 - 11:45\nBreak\n\n\n11:45 - 12:00\nDevelop\n\n\n12:00 - 12:15\nPublish\n\n\n12:15 - 12:30\nWrap-up\n\n\n\n\n\n\n This work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "index.html#thanks",
+    "href": "index.html#thanks",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "Thanks!",
+    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#while-you-wait-for-the-workshop-to-begin",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#while-you-wait-for-the-workshop-to-begin",
+    "title": "Hello Quarto",
+    "section": "While you wait for the workshop to begin…",
+    "text": "While you wait for the workshop to begin…\n\nDownload and install the latest versions of R, RStudio, and Quarto:\n\nR: https://cran.r-project.org\nRStudio: https://posit.co/download/rstudio-desktop\nQuarto: https://quarto.org/docs/get-started\n\nInstall the following packages:\n\n\npkg_list &lt;- c(\"tidyverse\", \"gt\", \"ggthemes\", \"palmerpenguins\", \"quarto\", \"here\")\ninstall.packages(pkg_list)\n\n\nDownload exercises.zip at https://mine.quarto.pub/quarto-sdss/exercises.zip and unzip it on your Desktop or somewhere you can easily locate on your computer. Then, go to RStudio &gt; File &gt; New Project &gt; Existing Directory and navigate to the unzipped exercises folder and create an RStudio project in there and open it.\n\nOr, click here to join the Posit Cloud space for the workshop.\n\n\nA few of the features we’ll demo may not work on Posit Cloud since the Quarto version is a bit behind, but you should be able to follow &gt;95% of the workshop there."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#room-info",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#room-info",
+    "title": "Hello Quarto",
+    "section": "Room info",
+    "text": "Room info\n\nWiFi: Curio Meeting / 1820\nEmergency exits behind you\nRestrooms: Out the door and turn right, then men’s to the left, women’s to the right"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#code-of-conduct",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#code-of-conduct",
+    "title": "Hello Quarto",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\n\nThe American Statistical Association (ASA) is committed to providing an atmosphere in which personal respect and intellectual growth are valued and the free expression and exchange of ideas are encouraged. Consistent with this commitment, it is the policy of the ASA that all participants in ASA activities enjoy a welcoming environment free from unlawful discrimination, harassment, and retaliation. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.\n\n\n\nASA Code of Conduct"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#expected-behavior",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#expected-behavior",
+    "title": "Hello Quarto",
+    "section": "Expected Behavior",
+    "text": "Expected Behavior\n\nModel and support the norms of respect necessary to promote the conditions for healthy exchange of scientific ideas.\nIn speech or conduct, do not insult or disparage other participants.\nBe conscious of hierarchical structures, specifically the existence of stark power differentials between students, early career statisticians and established career statisticians—noting that fear of retaliation from more established statisticians can make it difficult for students and early career statisticians to express discomfort, rebuff unwelcome advances, and report violations of the conduct policy.\nBe sensitive to indications that may suggest that individuals are feeling unwelcome.\n\n\n\nASA Code of Conduct"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#teaching-team",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#teaching-team",
+    "title": "Hello Quarto",
+    "section": "Teaching team",
+    "text": "Teaching team\n\nInstructor: Mine Çetinkaya-Rundel\n\nProfessor of the Practice, Duke University - Statistical Science\nDeveloper Educator, Posit\n\nTA: Tracy Teal\n\nOpen Source Program Director, Posit\n\nBoth: R Markdown users/educators for 10+ years, Quarto users/educators for 1+ years"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#about-you",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#about-you",
+    "title": "Hello Quarto",
+    "section": "About you",
+    "text": "About you\n\nMeet 1-2 people around you!\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#workshop-structure",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#workshop-structure",
+    "title": "Hello Quarto",
+    "section": "Workshop structure",
+    "text": "Workshop structure\n\nMy turn: Lecture segments + live coding\nOur turn: Live coding + follow along\nYour turn: Exercises"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#getting-help",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#getting-help",
+    "title": "Hello Quarto",
+    "section": "Getting help",
+    "text": "Getting help\n\nDuring my turn and our turn segments – raise your hand\nDuring your turn segments – also feel free to raise your hand for questions but use the stickies to signal:\n\nPink: I’d like some help / I’m stuck / I’m lost\nGreen: I’m done"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
+    "title": "Hello Quarto",
+    "section": "Meeting you where you are",
+    "text": "Meeting you where you are\n\n\n\nI’ll assume you\n\nknow some R\nhave worked in RStudio\nwant to learn about Quarto\n\n\n\n\nI’ll teach you\n\nQuarto syntax and formats\nMore Markdown\nEven more R along the way!"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#checking-in-one-more-time",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#checking-in-one-more-time",
+    "title": "Hello Quarto",
+    "section": "Checking in one more time",
+    "text": "Checking in one more time\n\nHave you completed the following?\n\nDownload and install the latest versions of R, RStudio, and Quarto:\n\nR: https://cran.r-project.org\nRStudio: https://posit.co/download/rstudio-desktop\nQuarto: https://quarto.org/docs/get-started\n\nInstall the following packages:\n\npkg_list &lt;- c(\"tidyverse\", \"gt\", \"ggthemes\", \"palmerpenguins\", \"quarto\", \"here\")\ninstall.packages(pkg_list)\n\nDownload exercises.zip at https://mine.quarto.pub/quarto-sdss/exercises.zip and unzip it on your Desktop or somewhere you can easily locate on your computer. Then, go to RStudio &gt; File &gt; New Project &gt; Existing Directory and navigate to the unzipped exercises folder and create an RStudio project in there and open it.\n\n\n\n\nLet’s get started!"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto",
+    "title": "Hello Quarto",
+    "section": "Quarto …",
+    "text": "Quarto …\n\nis a new, open-source, scientific, and technical publishing system\naims to make the process of creating and collaborating dramatically better\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-1",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-1",
+    "title": "Hello Quarto",
+    "section": "Quarto",
+    "text": "Quarto\nWith Quarto you can weave together narrative text and code to produce elegantly formatted output as documents, web pages, blog posts, books and more.\n\n\njust like R Markdown…\n\n\n\nbut not just like it, there’s more to it…"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-2",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-2",
+    "title": "Hello Quarto",
+    "section": "Quarto …",
+    "text": "Quarto …\nunifies + extends the R Markdown ecosystem"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-3",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-3",
+    "title": "Hello Quarto",
+    "section": "Quarto …",
+    "text": "Quarto …\nunifies + extends the R Markdown ecosystem\n\nunifies for people who love R Markdown"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-4",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-4",
+    "title": "Hello Quarto",
+    "section": "Quarto …",
+    "text": "Quarto …\nunifies + extends the R Markdown ecosystem\n\nunifies for people who love R Markdown\nextends for people who don’t know R Markdown"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-unifies-extends-r-markdown",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-unifies-extends-r-markdown",
+    "title": "Hello Quarto",
+    "section": "Quarto unifies + extends R Markdown",
+    "text": "Quarto unifies + extends R Markdown\n\n\nConsistent implementation of attractive and handy features across outputs: tabsets, code-folding, syntax highlighting, etc.\nMore accessible defaults as well as better support for accessibility\nGuardrails, particularly helpful for new learners: YAML completion, informative syntax errors, etc.\nSupport for other languages like Python, Julia, Observable, and more via Jupyter engine for executable code chunks."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#a-tour-of-quarto",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#a-tour-of-quarto",
+    "title": "Hello Quarto",
+    "section": "A tour of Quarto",
+    "text": "A tour of Quarto\n\n\nSit back and enjoy!"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn",
+    "title": "Hello Quarto",
+    "section": "Your turn",
+    "text": "Your turn\n\nOpen hello-penguins.qmd in RStudio and with the visual editor. Render the document. Update your name and re-render. Inspect components of the document and make one more update and re-render. Compare notes with neighbors about updates you’ve made and note any aspects of the document that are not clear after the tour and your first interaction with it.\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#revisit-what-is-quarto",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#revisit-what-is-quarto",
+    "title": "Hello Quarto",
+    "section": "Revisit: What is Quarto?",
+    "text": "Revisit: What is Quarto?\nQuarto is a command line interface (CLI) that renders plain text formats (.qmd, .rmd, .md) OR mixed formats (.ipynb/Jupyter notebook) into static PDF/Word/HTML reports, books, websites, presentations and more.\n\nmine$ quarto --help\n\n  Usage:   quarto \n  Version: 1.3.353\n\n  Description:\n\n    Quarto CLI\n\n  Options:\n\n    -h, --help     - Show this help.                            \n    -V, --version  - Show the version number for this program.  \n\n  Commands:\n\n    render          [input] [args...]     - Render files or projects to various document types.        \n    preview         [file] [args...]      - Render and preview a document or website project.          \n    serve           [input]               - Serve a Shiny interactive document.                        \n    create          [type] [commands...]  - Create a Quarto project or extension                       \n    create-project  [dir]                 - Create a project for rendering multiple documents          \n    convert         &lt;input&gt;               - Convert documents to alternate representations.            \n    pandoc          [args...]             - Run the version of Pandoc embedded within Quarto.          \n    run             [script] [args...]    - Run a TypeScript, R, Python, or Lua script.                \n    add             &lt;extension&gt;           - Add an extension to this folder or project                 \n    install         [target...]           - Installs an extension or global dependency.                \n    publish         [provider] [path]     - Publish a document or project. Available providers include:\n    check           [target]              - Verify correct functioning of Quarto installation.         \n    help            [command]             - Show this help or the help of a sub-command."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-more-than-just-knitr",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-more-than-just-knitr",
+    "title": "Hello Quarto",
+    "section": "Quarto, more than just knitr",
+    "text": "Quarto, more than just knitr\n\nWe learned from 10 years of literate programming with knitr + rmarkdown"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-more-than-just-knitr-1",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-more-than-just-knitr-1",
+    "title": "Hello Quarto",
+    "section": "Quarto, more than just knitr",
+    "text": "Quarto, more than just knitr"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-more-than-just-knitr-2",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-more-than-just-knitr-2",
+    "title": "Hello Quarto",
+    "section": "Quarto: More than just knitr",
+    "text": "Quarto: More than just knitr"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#under-the-hood",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#under-the-hood",
+    "title": "Hello Quarto",
+    "section": "Under the hood",
+    "text": "Under the hood\n\n\nknitr or jupyter evaluates R/Python/Julia code and returns a .md file along with the evaluated code\nQuarto applies Lua filters + CSS/LaTeX which is then evaluated alongside the .md file by Pandoc and converted to a final output format"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#aside-lua-filters",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#aside-lua-filters",
+    "title": "Hello Quarto",
+    "section": "Aside: Lua filters",
+    "text": "Aside: Lua filters\n\nHere is an example of a Lua filter that converts strong emphasis to small caps, from https://pandoc.org/lua-filters.html:\n\nreturn {\n  {\n    Strong = function (elem)\n      return pandoc.SmallCaps(elem.c)\n    end,\n  }\n}\n\n\nLua filters written by R/Python/Julia developers should be interchangeable between formats - not language specific!\n\n\n\n\nWe won’t go into the details of writing Lua filters in this workshop, and you don’t need to worry about learning about Lua filters unless you’re working on extending Quarto."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#from-the-comfort-of-your-own-homeworkspace",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#from-the-comfort-of-your-own-homeworkspace",
+    "title": "Hello Quarto",
+    "section": "From the comfort of your own homeworkspace",
+    "text": "From the comfort of your own homeworkspace"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-workflow",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-workflow",
+    "title": "Hello Quarto",
+    "section": "Quarto workflow",
+    "text": "Quarto workflow\nRendering a Quarto file in RStudio via the Render button calls quarto render in a background job, preventing Quarto rendering from cluttering up the R console, and gives you and easy way to stop:"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#rendering",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#rendering",
+    "title": "Hello Quarto",
+    "section": "Rendering",
+    "text": "Rendering\n\nOption 1: In RStudio as a background job, and preview the output.\n\n\n\nOption 2: In the Terminal via quarto render:\n\n\nquarto render document.qmd # defaults to html\nquarto render document.qmd --to pdf\nquarto render document.qmd --to docx\n\n\n\n\nOption 3: In the R console, via the quarto R package:\n\n\nlibrary(quarto)\n\nquarto_render(\"document.qmd\") # defaults to html\nquarto_render(\"document.qmd\", output_format = \"pdf\")"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
+    "title": "Hello Quarto",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen the last .qmd file you were working on in RStudio.\nCompare behavior of rendering with\n\nRStudio &gt; Render,\nusing the CLI with quarto render, and\nin the R console via quarto::quarto_render().\n\nIf you’re an RStudio user, brainstorm why you might still want to know about the other two ways of rendering Quarto documents.\n\n\n\n\n\n−+\n03:00"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#one-install-batteries-included",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#one-install-batteries-included",
+    "title": "Hello Quarto",
+    "section": "One install, “Batteries included”",
+    "text": "One install, “Batteries included”\n\nRMarkdown grew into a large ecosystem, with varying syntax.\n\n\n\nQuarto comes “batteries included” straight out of the box\n\nHTML reports and websites\nPDF reports\nMS Office (Word, Powerpoint)\nPresentations (Powerpoint, Beamer, revealjs)\nBooks\n\n\n\n\n\nAny language, exact same approach and syntax"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#many-quarto-formats",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#many-quarto-formats",
+    "title": "Hello Quarto",
+    "section": "Many Quarto formats",
+    "text": "Many Quarto formats\n\n\n\nFeature\nR Markdown\nQuarto\n\n\n\n\nBasic Formats\nhtml_document\npdf_document\nword_document\nhtml\npdf\ndocx\n\n\nBeamer\nbeamer_presentation\nbeamer\n\n\nPowerPoint\npowerpoint_presentation\npptx\n\n\nHTML Slides\nxaringan\nioslides\nrevealjs\nrevealjs\n\n\nAdvanced Layout\ntufte\ndistill\nQuarto Article Layout"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#many-quarto-formats-1",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#many-quarto-formats-1",
+    "title": "Hello Quarto",
+    "section": "Many Quarto formats",
+    "text": "Many Quarto formats\n\n\n\nFeature\nR Markdown\nQuarto\n\n\n\n\nCross References\nhtml_document2\npdf_document2\nword_document2\nQuarto Crossrefs\n\n\nWebsites & Blogs\nblogdown\ndistill\nQuarto Websites\nQuarto Blogs\n\n\nBooks\nbookdown\nQuarto Books\n\n\nInteractivity\nShiny Documents\nQuarto Interactive Documents\n\n\nJournal Articles\nrticles\nJournal Articles\n\n\nDashboards\nflexdashboard\nComing soon!"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
+    "title": "Hello Quarto",
+    "section": "Your turn",
+    "text": "Your turn\n\nIn RStudio, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nCreate two sections, one with fact you want to learn and your favorite thing about R.\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy.\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#what-about-r-markdown",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#what-about-r-markdown",
+    "title": "Hello Quarto",
+    "section": "What about R Markdown?",
+    "text": "What about R Markdown?\n\n\nYou can render existing R Markdown documents with Quarto and you can rename them to .qmd files to turn them into Quarto documents.\nYou don’t have to do this – R Markdown continues to be maintained.\nHowever, new features are being developed for Quarto.\nAdditionally, Quarto\n\nOffers “batteries included” shared syntax across formats\nAllows you to choose your own editor and your preferred data science language\nComes with richer and more accessible features out of the box\nIs actively developed"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#questions",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#questions",
+    "title": "Hello Quarto",
+    "section": "Questions",
+    "text": "Questions\n\nAny questions / anything you’d like to review before we wrap up this module?"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#one-last-thing",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#one-last-thing",
+    "title": "Hello Quarto",
+    "section": "One last thing!",
+    "text": "One last thing!\n\nWhere does the name “Quarto” come from?\n\n\n\n\n\n\n\n🔗 mine.quarto.pub/quarto-sdss\n\n\n\nSource: https://en.wikipedia.org/wiki/Quarto"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section",
+    "href": "0-1-overview/0-1-overview.html#section",
     "title": "Overview",
     "section": "",
     "text": "Who has a LinkedIn account?"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-1",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-1",
+    "objectID": "0-1-overview/0-1-overview.html#section-1",
+    "href": "0-1-overview/0-1-overview.html#section-1",
     "title": "Overview",
     "section": "",
     "text": "Who has an ORCID iD?"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-2",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-2",
+    "objectID": "0-1-overview/0-1-overview.html#section-2",
+    "href": "0-1-overview/0-1-overview.html#section-2",
     "title": "Overview",
     "section": "",
     "text": "Who has a GitHub account?"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-3",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-3",
+    "objectID": "0-1-overview/0-1-overview.html#section-3",
+    "href": "0-1-overview/0-1-overview.html#section-3",
     "title": "Overview",
     "section": "",
     "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-4",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-4",
+    "objectID": "0-1-overview/0-1-overview.html#section-4",
+    "href": "0-1-overview/0-1-overview.html#section-4",
     "title": "Overview",
     "section": "",
     "text": "Who has a personal homepage?"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-hand-5",
-    "href": "0-1-overview/0-1-overview.html#fa-hand-5",
+    "objectID": "0-1-overview/0-1-overview.html#section-5",
+    "href": "0-1-overview/0-1-overview.html#section-5",
     "title": "Overview",
     "section": "",
     "text": "Who has published a report, scientific article, or similar?"
@@ -50,43 +385,43 @@
     "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-bullseye",
-    "href": "0-1-overview/0-1-overview.html#fa-bullseye",
+    "objectID": "0-1-overview/0-1-overview.html#section-6",
+    "href": "0-1-overview/0-1-overview.html#section-6",
     "title": "Overview",
     "section": "",
     "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#fa-toolbox",
-    "href": "0-1-overview/0-1-overview.html#fa-toolbox",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section-7",
     "href": "0-1-overview/0-1-overview.html#section-7",
     "title": "Overview",
     "section": "",
+    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-15",
+    "href": "0-1-overview/0-1-overview.html#section-15",
+    "title": "Overview",
+    "section": "",
     "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-link",
-    "href": "0-1-overview/0-1-overview.html#fa-link",
+    "objectID": "0-1-overview/0-1-overview.html#section-16",
+    "href": "0-1-overview/0-1-overview.html#section-16",
     "title": "Overview",
     "section": "",
     "text": "ost-hs23.github.io/website"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#fa-comment-dots",
-    "href": "0-1-overview/0-1-overview.html#fa-comment-dots",
+    "objectID": "0-1-overview/0-1-overview.html#section-17",
+    "href": "0-1-overview/0-1-overview.html#section-17",
     "title": "Overview",
     "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -> Chat)"
+    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#thanks-fa-leaf",
-    "href": "0-1-overview/0-1-overview.html#thanks-fa-leaf",
+    "objectID": "0-1-overview/0-1-overview.html#thanks",
+    "href": "0-1-overview/0-1-overview.html#thanks",
     "title": "Overview",
     "section": "Thanks ",
     "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
@@ -96,39 +431,53 @@
     "href": "0-1-overview/index.html",
     "title": "Course Overview",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
   },
   {
-    "objectID": "0-1-overview/index.html#fa-book-readings",
-    "href": "0-1-overview/index.html#fa-book-readings",
+    "objectID": "0-1-overview/index.html#slides",
+    "href": "0-1-overview/index.html#slides",
     "title": "Course Overview",
-    "section": " Readings",
-    "text": "Readings\n\nRead (Wilson et al. 2017) “Good enough practices in scientific computing”.\nRead Excuse Me, Do You Have a Moment to Talk About Version Control?"
+    "section": " Slides",
+    "text": "Slides\nView slides in full screen | Download slides as PDF"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pre-course work - Open Science Tools HS23",
+    "objectID": "0-1-overview/index.html#suggested-readings",
+    "href": "0-1-overview/index.html#suggested-readings",
+    "title": "Course Overview",
+    "section": " Suggested readings",
+    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+  },
+  {
+    "objectID": "1-1-hello-quarto/index.html",
+    "href": "1-1-hello-quarto/index.html",
+    "title": "Hello Quarto",
     "section": "",
-    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
+    "text": "View slides in full screen"
   },
   {
-    "objectID": "index.html#fa-circle-question-what-do-i-need-to-prepare-before-day-1",
-    "href": "index.html#fa-circle-question-what-do-i-need-to-prepare-before-day-1",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": " What do I need to prepare before Day 1?",
-    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud and join the workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read Wilson et al. (2017) and prepare for a discussion"
+    "objectID": "1-1-hello-quarto/index.html#slides",
+    "href": "1-1-hello-quarto/index.html#slides",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "View slides in full screen"
   },
   {
-    "objectID": "index.html#thanks",
-    "href": "index.html#thanks",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
+    "objectID": "1-1-hello-quarto/index.html#exercises",
+    "href": "1-1-hello-quarto/index.html#exercises",
+    "title": "Hello Quarto",
+    "section": "Exercises",
+    "text": "Exercises\n\n hello-penguins.qmd\n my-first-document.qmd"
   },
   {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+  },
+  {
+    "objectID": "syllabus.html#details",
+    "href": "syllabus.html#details",
     "title": "Course Overview",
     "section": "",
     "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
@@ -176,20 +525,6 @@
     "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules."
   },
   {
-    "objectID": "0-2-pre-work/04-posit-cloud.html",
-    "href": "0-2-pre-work/04-posit-cloud.html",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "",
-    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
-  },
-  {
-    "objectID": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
-    "href": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "Join the course workspace on Posit Cloud",
-    "text": "Join the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/426098/join?access_code=A7ybzBNHYWKzJloBElgJIEAscpWnJCYh3jdhlB0I"
-  },
-  {
     "objectID": "0-2-pre-work/07-reading.html",
     "href": "0-2-pre-work/07-reading.html",
     "title": "Good enough practices in scientific computing",
@@ -197,29 +532,29 @@
     "text": "This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.\nThe following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.\n\nUse your browser, the Zotero Connector and Zotero to store the following paper in your personal Zotero library (My Library or a sub-folder at the top left): https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510.\nRead Wilson et al. (2017).\nChose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:\nCome up with a real-world example or scenario where the recommended practice could be applied in your research or academic work.\nBe prepared to explain how the recommended practices would improve your research process. This will be in the class setting as part of small discussion group (max 3 people).\n\n\n\n\n\nReferences\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510."
   },
   {
-    "objectID": "0-2-pre-work/05-element.html",
-    "href": "0-2-pre-work/05-element.html",
-    "title": "Communication in a chat",
-    "section": "",
-    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. To set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
-  },
-  {
     "objectID": "0-2-pre-work/02-orcid.html",
     "href": "0-2-pre-work/02-orcid.html",
     "title": "Your personal unique ORCID iD",
     "section": "",
-    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid)"
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
   },
   {
-    "objectID": "0-2-pre-work/03-zotero.html",
-    "href": "0-2-pre-work/03-zotero.html",
-    "title": "Zotero for reference management",
+    "objectID": "0-2-pre-work/02-orcid.html#create-your-orcid-id",
+    "href": "0-2-pre-work/02-orcid.html#create-your-orcid-id",
+    "title": "Your personal unique ORCID iD",
     "section": "",
-    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/4445072/global_health_engineering\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -> Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -> Tools -> Add-ons -> (Gear icon) -> Install Add-on From File… -> choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -> Settings -> Export -> Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -> Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -> Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -> Settings -> Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
   },
   {
     "objectID": "0-2-pre-work/01-github.html",
     "href": "0-2-pre-work/01-github.html",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
+  },
+  {
+    "objectID": "0-2-pre-work/01-github.html#get-an-account-on-github",
+    "href": "0-2-pre-work/01-github.html#get-an-account-on-github",
     "title": "Interaction with GitHub",
     "section": "",
     "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
@@ -230,12 +565,5 @@
     "title": "Interaction with GitHub",
     "section": "Setup a GitHub Personal Access Token (PAT)",
     "text": "Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place."
-  },
-  {
-    "objectID": "0-2-pre-work/06-survey.html",
-    "href": "0-2-pre-work/06-survey.html",
-    "title": "Learning more about your prior knowledge",
-    "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
   }
 ]
