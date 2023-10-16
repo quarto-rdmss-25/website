@@ -245,7 +245,7 @@ Quarto provides a rich set of YAML metadata keys to describe the details require
 :::
 :::
 
-## Your turn
+## Our turn
 
 ::: task
 -   Open `scholarly-writing.qmd` in RStudio.
