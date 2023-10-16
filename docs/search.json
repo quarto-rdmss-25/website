@@ -767,7 +767,7 @@
     "href": "1-3-documents/index.html#exercises",
     "title": "Documents",
     "section": "Exercises",
-    "text": "Exercises"
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd\n markdown-syntax.qmd\n callout-boxes.qmd\n tables-figures.qmd\n\n quarto-logo.png"
   },
   {
     "objectID": "2-1-presentations/index.html",
@@ -1061,14 +1061,14 @@
     "href": "index.html#day-1",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Day 1",
-    "text": "Day 1\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:15\nHello Quarto\n\n\n09:15 - 09:25\nBreak\n\n\n09:25 - 10:25\nDocuments\n\n\n10:25 - 10:35\nBreak\n\n\n10:35 - 11:05\nArticles\n\n\n11:05 - 11:15\nBreak\n\n\n11:15 - 11:50\nZotero\n\n\n11:50 - 12:30\nGitHub\n\n\n10:10 - 10:20\nBreak"
+    "text": "Day 1\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:35\nHello Quarto\n\n\n09:35 - 09:45\nBreak\n\n\n09:45 - 10:15\nGitHub\n\n\n10:15 - 10:55\nDocuments\n\n\n10:55 - 11:05\nBreak\n\n\n11:05 - 11:50\nDocuments\n\n\n11:50 - 12:10\nScholarly Writing"
   },
   {
     "objectID": "index.html#day-2",
     "href": "index.html#day-2",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Day 2",
-    "text": "Day 2\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:15\nPresentations\n\n\n09:15 - 09:25\nBreak\n\n\n09:25 - 10:10\nWebsites\n\n\n10:20 - 11:35\nDevelop\n\n\n11:35 - 11:45\nBreak\n\n\n11:45 - 12:00\nDevelop\n\n\n12:00 - 12:15\nPublish\n\n\n12:15 - 12:30\nWrap-up"
+    "text": "Day 2\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:15\nPresentations\n\n\n09:15 - 09:25\nBreak\n\n\n09:25 - 10:10\nWebsites\n\n\n10:10 - 10:20\nBreak\n\n\n10:20 - 11:35\nDevelop\n\n\n11:35 - 11:45\nBreak\n\n\n11:45 - 12:00\nDevelop\n\n\n12:00 - 12:15\nPublish\n\n\n12:15 - 12:30\nWrap-up"
   },
   {
     "objectID": "index.html#thanks",
@@ -1208,7 +1208,7 @@
     "href": "1-4-scholarly-writing/index.html#exercises",
     "title": "Articles",
     "section": "Exercises",
-    "text": "Exercises\nThere are no starter files for the exercises in this module. You’ll create the files as part of the exercises."
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n scholarly-writing.qmd"
   },
   {
     "objectID": "0-2-pre-work/04-posit-cloud.html",
