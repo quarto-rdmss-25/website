@@ -13,7 +13,7 @@ format:
     transition: fade
     slide-number: true
     chalkboard: true
-editor: visual
+editor: source
 execute:
   freeze: auto
   echo: true

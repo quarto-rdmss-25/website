@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Open Science Tools</title>
+<link>https://ost-hs23.github.io/website/blog.html</link>
+<atom:link href="https://ost-hs23.github.io/website/blog.xml" rel="self" type="application/rss+xml"/>
+<description>As the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing.</description>
+<generator>quarto-1.4.217</generator>
+<lastBuildDate>Mon, 16 Oct 2023 20:42:54 GMT</lastBuildDate>
+</channel>
+</rss>

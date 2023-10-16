@@ -1,0 +1,15 @@
+---
+title: "GitHub"
+---
+
+## Slides
+
+[View slides in full screen](1-2-github.html)
+
+```{=html}
+<iframe class="slide-deck" src="1-2-github.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## Exercises
+
+There are no starter files for the exercises in this module. You'll create the files as part of the exercises.

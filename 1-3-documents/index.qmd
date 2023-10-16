@@ -1,0 +1,26 @@
+---
+title: "Documents"
+---
+
+## Slides
+
+[View slides in full screen](1-3-documents.html)
+
+```{=html}
+<iframe class="slide-deck" src="1-3-documents.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## Exercises
+
+Participants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace. 
+
+-   <a href="https://raw.githubusercontent.com/ost-hs23/exercises/main/hello-penguins.qmd">{{< fa download >}} `hello-penguins.qmd`</i></a>
+
+-   <a href="https://raw.githubusercontent.com/ost-hs23/exercises/main/markdown-syntax.qmd">{{< fa download >}} `markdown-syntax.qmd`</i></a>
+
+-   <a href="https://raw.githubusercontent.com/ost-hs23/exercises/main/callout-boxes.qmd">{{< fa download >}} `callout-boxes.qmd`</i></a>
+
+-   <a href="https://raw.githubusercontent.com/ost-hs23/exercises/main/tables-figures.qmd">{{< fa download >}} `tables-figures.qmd`</i></a>
+
+    -   <a href="https://github.com/ost-hs23/exercises/blob/main/images/quarto-logo.png?raw=true">{{< fa download >}} `quarto-logo.png`</i></a>
+

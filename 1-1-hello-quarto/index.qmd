@@ -1,0 +1,18 @@
+---
+title: "Hello Quarto"
+---
+
+## Slides
+
+[View slides in full screen](1-1-hello-quarto.html)
+
+```{=html}
+<iframe class="slide-deck" src="1-1-hello-quarto.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## Exercises
+
+Participants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace. 
+
+-   <a href="https://raw.githubusercontent.com/ost-hs23/exercises/main/hello-penguins.qmd">{{< fa download >}} `hello-penguins.qmd`</i></a>
+

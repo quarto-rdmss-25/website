@@ -403,7 +403,7 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_7621c196" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_250b9869" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">02</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -495,14 +495,14 @@ Matrix</p>
 <p><a href="https://ost-hs23.github.io/website/">ost-hs23.github.io/website</a></p>
 </div>
 
-<img data-src="0-1-overview_files/figure-revealjs/unnamed-chunk-3-1.png" width="960" class="r-stretch"></section>
+<img data-src="0-1-overview_files/figure-html/unnamed-chunk-3-1.png" width="672" class="r-stretch"></section>
 <section id="section-17" class="slide level2 center-align">
 <h2><i class="fa-solid fa-comment-dots" aria-label="comment-dots"></i></h2>
 <div style="margin-top: 50px; font-size: 1.5em">
 <p><a href="https://matrix.to/#/#ghe-open:staffchat.ethz.ch">matrix.to/#/#ghe-open:staffchat.ethz.ch</a></p>
 </div>
 
-<img data-src="0-1-overview_files/figure-revealjs/unnamed-chunk-4-1.png" width="960" class="r-stretch"><p>Instructions on <a href="https://openwashdata.org/pages/get-started/chat/#sec-join-eth">openwashdata.org</a> (under Get Started -&gt; Chat)</p>
+<img data-src="0-1-overview_files/figure-html/unnamed-chunk-4-1.png" width="672" class="r-stretch"><p>Instructions on <a href="https://openwashdata.org/pages/get-started/chat/#sec-join-eth">openwashdata.org</a> (under Get Started -&gt; Chat)</p>
 </section>
 <section id="thanks" class="slide level2 center-align">
 <h2>Thanks <i class="fa-solid fa-leaf" aria-label="leaf"></i></h2>
@@ -728,44 +728,6 @@ Matrix</p>
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
