@@ -273,7 +273,7 @@ countdown(minutes = 5)
 There are several types of "links" or hyperlinks.
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="80%"}
 **Markdown**
 
 ``` markdown
@@ -281,11 +281,12 @@ You can embed [named hyperlinks](https://quarto.org/),
 direct urls like <https://quarto.org/>, and links to 
 [other places](#quarto-anatomy) in 
 the document. The syntax is similar for embedding an
-inline image: ![Penguins playing with ball](images/penguins-quarto-ball.png).
+inline image: 
+![Penguins playing with ball](images/penguins-quarto-ball.png).
 ```
 :::
 
-::: {.column .fragment width="40%"}
+::: {.column .fragment width="20%"}
 **Output**
 
 You can embed [named hyperlinks](https://quarto.org/), direct urls like <https://quarto.org/>, and links to [other places](#quarto-anatomy) in the document. The syntax is similar for embedding an inline image: ![Penguins playing with ball](images/penguins-quarto-ball.png){style="width:250px;"}.
