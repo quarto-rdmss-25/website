@@ -29,6 +29,14 @@ options(width = 65)
 library(countdown)
 ```
 
+## Email from GitHub? {.center-align}
+
+While we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course.
+
+![](images/github-invitation.png)
+
+
+
 # Welcome! `r emo::ji("wave")` {background-color="#5b195b"}
 
 ## Lars Schöbitz
