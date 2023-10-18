@@ -63,6 +63,7 @@ website:
             text: "Scholarly writing"
       - text: "---"
       - section: "Homework"
+        href: 0-3-homework/index.qmd
         contents:
           - href: 0-3-homework/0-1-tables-figures.qmd
             text: "Tables & Figures"

@@ -151,7 +151,7 @@
     "href": "1-3-documents/1-3-documents.html#links",
     "title": "Documents",
     "section": "Links",
-    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like <https://quarto.org/>, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: ![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
+    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like <https://quarto.org/>, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: \n![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#lists",
@@ -238,33 +238,11 @@
     "text": "Showing and hiding code with echo\n\nThe echo option shows the code when set to true and hides it when set to false."
   },
   {
-<<<<<<< HEAD
-    "objectID": "index.html#thanks",
-    "href": "index.html#thanks",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
-  },
-  {
-    "objectID": "index.html#attribution",
-    "href": "index.html#attribution",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Attribution",
-    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#email-from-github",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#email-from-github",
-    "title": "Hello Quarto",
-    "section": "Email from GitHub?",
-    "text": "Email from GitHub?\nWhile we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course."
-=======
     "objectID": "1-3-documents/1-3-documents.html#tables-and-figures",
     "href": "1-3-documents/1-3-documents.html#tables-and-figures",
     "title": "Documents",
     "section": "Tables and figures",
     "text": "Tables and figures\n\nIn reproducible reports and manuscripts, the most commonly included code outputs are tables and figures.\nSo they get their own special sections in our deep dive!"
->>>>>>> dev
   },
   {
     "objectID": "1-3-documents/1-3-documents.html#markdown-tables",
@@ -519,236 +497,11 @@
     "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
   },
   {
-<<<<<<< HEAD
-    "objectID": "2-1-presentations/index.html",
-    "href": "2-1-presentations/index.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-1-presentations/index.html#slides",
-    "href": "2-1-presentations/index.html#slides",
-    "title": "Presentations",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-1-presentations/index.html#exercises",
-    "href": "2-1-presentations/index.html#exercises",
-    "title": "Presentations",
-    "section": "Exercises",
-    "text": "Exercises\n hello-penguins-slides.qmd"
-  },
-  {
-    "objectID": "1-3-documents/index.html",
-    "href": "1-3-documents/index.html",
-    "title": "Documents",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-3-documents/index.html#slides",
-    "href": "1-3-documents/index.html#slides",
-    "title": "Documents",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-3-documents/index.html#exercises",
-    "href": "1-3-documents/index.html#exercises",
-    "title": "Documents",
-    "section": "Exercises",
-    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd\n markdown-syntax.qmd\n callout-boxes.qmd\n tables-figures.qmd\n\n quarto-logo.png"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#version-control-with-git-and-github",
-    "href": "1-2-github/1-2-github.html#version-control-with-git-and-github",
-    "title": "GitHub",
-    "section": "Version Control with Git and GitHub",
-    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#why-is-it-useful",
-    "href": "1-2-github/1-2-github.html#why-is-it-useful",
-    "title": "GitHub",
-    "section": "Why is it useful?",
-    "text": "Why is it useful?"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#git-and-github",
-    "href": "1-2-github/1-2-github.html#git-and-github",
-    "title": "GitHub",
-    "section": "Git and GitHub",
-    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion\n100 million Users (20.5 in 2022 alone) (October 2023)"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#version-control---terminology",
-    "href": "1-2-github/1-2-github.html#version-control---terminology",
-    "title": "GitHub",
-    "section": "Version Control - Terminology",
-    "text": "Version Control - Terminology"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#our-turn",
-    "href": "1-2-github/1-2-github.html#our-turn",
-    "title": "GitHub",
-    "section": "Our turn",
-    "text": "Our turn\nStage -&gt; Commit -&gt; Push\n\n\nOpen your exercises repository in RStudio on Posit Cloud\nOpen the Git pane\nStage all files by clicking on the checkbox\nClick Commit button\nAdd a commit message\nClick Commit button\nClick Push button\nAdd GitHub username\nAdd GitHub Personal Access Token (PAT)\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#your-turn",
-    "href": "1-2-github/1-2-github.html#your-turn",
-    "title": "GitHub",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nExchange GitHub usernames with your neighbor\nOpen your exercises project in RStudio on Posit Cloud\nFind the issue tracker\nOpen an issue with the title “Prepare about.qmd for personal website”\nAdd yourself and your neighbor to the list of Assignees on the right panel\nAdd a comment to the issue and tag the course instructor (@larnsce) and the Assignee to ask for a review\nClick Submit new issue\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n🔗 ost-hs23.github.io/website/"
-  },
-  {
-    "objectID": "2-5-wrap-up/index.html",
-    "href": "2-5-wrap-up/index.html",
-    "title": "Wrap-up",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-5-wrap-up/index.html#slides",
-    "href": "2-5-wrap-up/index.html#slides",
-    "title": "Wrap-up",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-5-wrap-up/index.html#exercises",
-    "href": "2-5-wrap-up/index.html#exercises",
-    "title": "Wrap-up",
-    "section": "Exercises",
-    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
-  },
-  {
-    "objectID": "1-2-github/index.html",
-    "href": "1-2-github/index.html",
-    "title": "GitHub",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-2-github/index.html#slides",
-    "href": "1-2-github/index.html#slides",
-    "title": "GitHub",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-2-github/index.html#exercises",
-    "href": "1-2-github/index.html#exercises",
-    "title": "GitHub",
-    "section": "Exercises",
-    "text": "Exercises\nThere are no starter files for the exercises in this module. You’ll create the files as part of the exercises."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#components",
-    "href": "1-3-documents/1-3-documents.html#components",
-    "title": "Documents",
-    "section": "Components",
-    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have beautiful, powerful, and useful outputs!"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#literate-programming",
-    "href": "1-3-documents/1-3-documents.html#literate-programming",
-    "title": "Documents",
-    "section": "Literate programming",
-    "text": "Literate programming\nLiterate programming is writing out the program logic in a human language with included (separated by a primitive markup) code snippets and macros.\n---\ntitle: \"ggplot2 demo\"\ndate: \"5/23/2023\"\nformat: html\n---\n\n## MPG\n\nThere is a relationship between city and highway mileage.\n\n```{r}\n#| label: fig-mpg\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(x = cty, y = hwy)) + \n  geom_point() + \n  geom_smooth(method = \"loess\")\n```\n\n\nSource: https://en.wikipedia.org/wiki/Literate_programming"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml",
-    "href": "1-3-documents/1-3-documents.html#yaml",
-    "title": "Documents",
-    "section": "YAML",
-    "text": "YAML\n“Yet Another Markup Language” or “YAML Ain’t Markup Language” is used to provide document level metadata.\n---\nkey: value\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#output-options",
-    "href": "1-3-documents/1-3-documents.html#output-options",
-    "title": "Documents",
-    "section": "Output options",
-    "text": "Output options\n---\nformat: something\n---\n\n\n---\nformat: html\n---\n---\nformat: pdf\n---\n---\nformat: revealjs\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#output-option-arguments",
-    "href": "1-3-documents/1-3-documents.html#output-option-arguments",
-    "title": "Documents",
-    "section": "Output option arguments",
-    "text": "Output option arguments\nIndentation matters!\n---\nformat: \n  html:\n    toc: true\n    code-fold: true\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml-validation",
-    "href": "1-3-documents/1-3-documents.html#yaml-validation",
-    "title": "Documents",
-    "section": "YAML validation",
-    "text": "YAML validation\n\nInvalid: No space after :\n\n---\nformat:html\n---\n\nInvalid: Read as missing\n\n---\nformat:\nhtml\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml-validation-1",
-    "href": "1-3-documents/1-3-documents.html#yaml-validation-1",
-    "title": "Documents",
-    "section": "YAML validation",
-    "text": "YAML validation\nThere are multiple ways of formatting valid YAML:\n\nValid: There’s a space after :\n\nformat: html\n\nValid: format: html with selections made with proper indentation\n\nformat: \n  html:\n    toc: true"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quarto-linting",
-    "href": "1-3-documents/1-3-documents.html#quarto-linting",
-    "title": "Documents",
-    "section": "Quarto linting",
-    "text": "Quarto linting\nLint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.\n\n\n\n\nSource: https://en.wikipedia.org/wiki/Lint_(software)"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
-    "href": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
-    "title": "Documents",
-    "section": "Quarto YAML Intelligence",
-    "text": "Quarto YAML Intelligence\nRStudio + VSCode provide rich tab-completion - start a word and tab to complete, or Ctrl + space to see all available options."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn",
-    "href": "1-3-documents/1-3-documents.html#your-turn",
-    "title": "Documents",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen hello-penguins.qmd in your exercises project in RStudio on Posit Cloud.\nIn the YAML header, try Ctrl + space to see the available YAML options.\nTry out the tab-completion of any options you remember.\nYou can use the HTML reference as needed.\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
-    "href": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
-    "title": "Documents",
-    "section": "List of valid YAML fields",
-    "text": "List of valid YAML fields\n\nMany YAML fields are common across various outputs\nBut also each output type has its own set of valid YAML fields and options\nDefinitive list: quarto.org/docs/reference/formats/html"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#text-formatting",
-    "href": "1-3-documents/1-3-documents.html#text-formatting",
-    "title": "Documents",
-    "section": "Text Formatting",
-    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* and **bold**\nitalics and bold\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\nstrikethrough\n\n\n`verbatim code`\nverbatim code"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#headings",
-    "href": "1-3-documents/1-3-documents.html#headings",
-    "title": "Documents",
-    "section": "Headings",
-    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#links",
-    "href": "1-3-documents/1-3-documents.html#links",
-    "title": "Documents",
-    "section": "Links",
-    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like &lt;https://quarto.org/&gt;, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: \n![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
-=======
     "objectID": "0-1-overview/index.html",
     "href": "0-1-overview/index.html",
     "title": "Course Overview",
     "section": "",
     "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
->>>>>>> dev
   },
   {
     "objectID": "0-1-overview/index.html#fa-display-slides",
@@ -763,6 +516,13 @@
     "title": "Course Overview",
     "section": " Suggested readings",
     "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#email-from-github",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#email-from-github",
+    "title": "Hello Quarto",
+    "section": "Email from GitHub?",
+    "text": "Email from GitHub?\nWhile we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course."
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#lars-schöbitz",
@@ -972,7 +732,14 @@
     "href": "index.html#thanks",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License."
+    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
+  },
+  {
+    "objectID": "index.html#attribution",
+    "href": "index.html#attribution",
+    "title": "Pre-course work - Open Science Tools HS23",
+    "section": "Attribution",
+    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
     "objectID": "0-3-homework/0-4-scholarly-document.html",
@@ -987,6 +754,13 @@
     "title": "Bibliography",
     "section": "",
     "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ > New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
+  },
+  {
+    "objectID": "0-3-homework/index.html",
+    "href": "0-3-homework/index.html",
+    "title": "Homework",
+    "section": "",
+    "text": "Prior to Day 2, please complete the four homework assignments\n\nAssignment 1: Tables & Figures: Cross-references tables and figures in a document\nAssignment 2: Bibliography: Prepare a bibliography using Zotero\nAssignment 3: About page: Write up content for an About page on your website\nAssignment 4: Scholarly document: Prepare a paragraph of 100 words about your research"
   },
   {
     "objectID": "0-3-homework/0-3-about-page.html",
