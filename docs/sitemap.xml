@@ -1,139 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ost-hs23.github.io/website/blog.html</loc>
-    <lastmod>2023-10-16T21:05:40.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/01-github.html</loc>
-    <lastmod>2023-10-16T08:43:27.626Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/02-orcid.html</loc>
-    <lastmod>2023-10-16T08:46:24.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-2-pre-work/07-reading.html</loc>
-    <lastmod>2023-10-16T21:05:40.546Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/1-4-scholarly-writing/1-4-scholarly-writing.html</loc>
-    <lastmod>2023-10-16T21:13:16.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/syllabus.html</loc>
-    <lastmod>2023-10-16T08:43:27.651Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/2-4-publish/2-4-publish.html</loc>
-    <lastmod>2023-10-16T09:17:26.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-3-homework/03-scholarly-document.html</loc>
-    <lastmod>2023-10-16T21:10:13.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/2-3-develop/2-3-develop.html</loc>
-    <lastmod>2023-10-16T09:16:43.065Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/2-2-websites/2-2-websites.html</loc>
-    <lastmod>2023-10-16T09:16:12.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/index.html</loc>
-    <lastmod>2023-10-16T21:08:51.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/1-1-hello-quarto/1-1-hello-quarto.html</loc>
-    <lastmod>2023-10-16T21:05:40.547Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/0-1-overview/0-1-overview.html</loc>
-    <lastmod>2023-10-16T21:05:40.545Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/2-1-presentations/index.html</loc>
-    <lastmod>2023-10-16T09:15:14.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/1-3-documents/index.html</loc>
-    <lastmod>2023-10-16T21:05:40.601Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/1-2-github/index.html</loc>
+    <lastmod>2023-10-18T14:39:06.841Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/1-2-github/1-2-github.html</loc>
-    <lastmod>2023-10-16T21:05:40.577Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/2-5-wrap-up/index.html</loc>
-    <lastmod>2023-10-16T09:18:52.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/2-5-wrap-up/2-5-wrap-up.html</loc>
-    <lastmod>2023-10-16T09:19:28.142Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ost-hs23.github.io/website/1-2-github/index.html</loc>
-    <lastmod>2023-10-16T21:05:40.590Z</lastmod>
+    <lastmod>2023-10-18T14:39:07.331Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html</loc>
-    <lastmod>2023-10-16T21:05:40.590Z</lastmod>
+    <lastmod>2023-10-18T14:39:08.840Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/1-3-documents/index.html</loc>
+    <lastmod>2023-10-18T14:39:09.257Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/LICENSE.html</loc>
-    <lastmod>2023-10-16T21:05:40.603Z</lastmod>
+    <lastmod>2023-10-18T14:39:09.979Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/2-1-presentations/2-1-presentations.html</loc>
-    <lastmod>2023-10-16T09:15:59.927Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/0-1-overview/0-1-overview.html</loc>
+    <lastmod>2023-10-18T14:39:10.469Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-1-overview/index.html</loc>
-    <lastmod>2023-10-16T08:43:27.625Z</lastmod>
+    <lastmod>2023-10-18T14:39:10.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/1-1-hello-quarto/1-1-hello-quarto.html</loc>
+    <lastmod>2023-10-18T14:39:11.451Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/1-1-hello-quarto/index.html</loc>
-    <lastmod>2023-10-16T21:05:40.576Z</lastmod>
+    <lastmod>2023-10-18T14:39:11.836Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/2-2-websites/index.html</loc>
-    <lastmod>2023-10-16T09:15:58.390Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/index.html</loc>
+    <lastmod>2023-10-18T14:39:12.350Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/2-3-develop/index.html</loc>
-    <lastmod>2023-10-16T09:17:56.024Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/0-3-homework/0-4-scholarly-document.html</loc>
+    <lastmod>2023-10-18T14:39:12.714Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/0-3-homework/02-about-page.html</loc>
-    <lastmod>2023-10-16T21:09:45.246Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/0-3-homework/0-2-bibliography.html</loc>
+    <lastmod>2023-10-18T14:39:13.183Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/0-3-homework/01-bibliography.html</loc>
-    <lastmod>2023-10-16T21:09:28.839Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/0-3-homework/0-3-about-page.html</loc>
+    <lastmod>2023-10-18T14:39:13.631Z</lastmod>
   </url>
   <url>
-    <loc>https://ost-hs23.github.io/website/2-4-publish/index.html</loc>
-    <lastmod>2023-10-16T09:18:23.794Z</lastmod>
+    <loc>https://ost-hs23.github.io/website/0-3-homework/0-1-tables-figures.html</loc>
+    <lastmod>2023-10-18T14:39:14.046Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/syllabus.html</loc>
+    <lastmod>2023-10-18T14:39:14.549Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/1-4-scholarly-writing/index.html</loc>
-    <lastmod>2023-10-16T21:05:40.603Z</lastmod>
+    <lastmod>2023-10-18T14:39:14.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/1-4-scholarly-writing/1-4-scholarly-writing.html</loc>
+    <lastmod>2023-10-18T14:39:15.667Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/04-posit-cloud.html</loc>
-    <lastmod>2023-10-16T08:43:27.626Z</lastmod>
+    <lastmod>2023-10-18T14:39:16.058Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/07-reading.html</loc>
+    <lastmod>2023-10-18T14:39:16.567Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/05-element.html</loc>
-    <lastmod>2023-10-16T08:46:24.128Z</lastmod>
+    <lastmod>2023-10-18T14:39:16.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/02-orcid.html</loc>
+    <lastmod>2023-10-18T14:39:17.327Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html</loc>
-    <lastmod>2023-10-16T08:46:24.128Z</lastmod>
+    <lastmod>2023-10-18T14:39:17.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/0-2-pre-work/01-github.html</loc>
+    <lastmod>2023-10-18T14:39:18.236Z</lastmod>
   </url>
   <url>
     <loc>https://ost-hs23.github.io/website/0-2-pre-work/06-survey.html</loc>
-    <lastmod>2023-10-16T08:43:27.626Z</lastmod>
+    <lastmod>2023-10-18T14:39:18.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ost-hs23.github.io/website/blog.html</loc>
+    <lastmod>2023-10-18T14:39:19.024Z</lastmod>
   </url>
 </urlset>
