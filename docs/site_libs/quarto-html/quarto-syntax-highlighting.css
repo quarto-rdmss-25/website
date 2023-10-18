@@ -54,6 +54,7 @@ div.sourceCode pre.sourceCode {
 }
 
 code span.ot {
+<<<<<<< HEAD
   color: #d91e18;
   font-style: inherit;
 }
@@ -134,6 +135,65 @@ code span.in {
 code span.vs {
   color: #008000;
   font-style: inherit;
+=======
+  color: #003B4F;
+}
+
+code span.at {
+  color: #657422;
+}
+
+code span.ss {
+  color: #20794D;
+}
+
+code span.an {
+  color: #5E5E5E;
+}
+
+code span.fu {
+  color: #4758AB;
+}
+
+code span.st {
+  color: #20794D;
+}
+
+code span.cf {
+  color: #003B4F;
+}
+
+code span.op {
+  color: #5E5E5E;
+}
+
+code span.er {
+  color: #AD0000;
+}
+
+code span.bn {
+  color: #AD0000;
+}
+
+code span.al {
+  color: #AD0000;
+}
+
+code span.va {
+  color: #111111;
+}
+
+code span.pp {
+  color: #AD0000;
+}
+
+code span.in {
+  color: #5E5E5E;
+}
+
+code span.vs {
+  color: #20794D;
+>>>>>>> dev
 }
 
 code span.wa {
@@ -147,6 +207,7 @@ code span.do {
 }
 
 code span.im {
+<<<<<<< HEAD
   font-style: inherit;
 }
 
@@ -168,6 +229,25 @@ code span.fl {
 code span.co {
   color: #696969;
   font-style: inherit;
+=======
+  color: #00769E;
+}
+
+code span.ch {
+  color: #20794D;
+}
+
+code span.dt {
+  color: #AD0000;
+}
+
+code span.fl {
+  color: #AD0000;
+}
+
+code span.co {
+  color: #5E5E5E;
+>>>>>>> dev
 }
 
 code span.cv {
@@ -176,6 +256,7 @@ code span.cv {
 }
 
 code span.cn {
+<<<<<<< HEAD
   color: #d91e18;
   font-style: inherit;
 }
@@ -193,6 +274,21 @@ code span.dv {
 code span.kw {
   color: #d91e18;
   font-style: inherit;
+=======
+  color: #8f5902;
+}
+
+code span.sc {
+  color: #5E5E5E;
+}
+
+code span.dv {
+  color: #AD0000;
+}
+
+code span.kw {
+  color: #003B4F;
+>>>>>>> dev
 }
 
 .prevent-inlining {

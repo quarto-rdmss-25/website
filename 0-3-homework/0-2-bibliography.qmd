@@ -1,0 +1,69 @@
+---
+title: "Bibliography"
+execute: 
+  echo: false
+---
+
+## Literature research
+
+Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:
+
+### Part 1
+
+1.  Open Zotero
+2.  Under Groups, right-click 'ost-hs23' \> New Collection ...
+3.  Use your GitHub username as the name for the collection
+4.  Hit OK
+
+### Part 2
+
+1.  Open the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the [pre-course work for Zotero](https://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#install-the-zotero-connector-for-your-browser))
+
+2.  Open the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. ["My Flight Arrives at 5 am, Can You Pick Me Up?": The Gatekeeping Burden of the African Academic](https://www.tandfonline.com/doi/full/10.1080/13696815.2021.1884972)).
+
+3.  Find your Zotero Connector Add-on. It's often placed in the top right of your browser.
+
+::: {.callout-caution collapse="true"}
+## Zotero Connector for Safari users
+
+Zotero Connector for Safari is bundled with the Zotero 6 desktop app.
+
+See here how to activate it: <https://www.zotero.org/support/kb/safari_compatibility>
+:::
+
+4. Click on the Zotero Connector icon. If a dialogue opens, click Got it.
+
+5. Click on the Zotero Connector again. The item has changed, it now looks like a paper. 
+
+```{r}
+knitr::include_graphics("images/screenshot-zotero-connector.png")
+```
+
+6. The scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.
+
+7. Repeat this process for the other two articles that you selected.
+
+### Part 3
+
+1. Head back to the Zotero app
+2. Right-click your Collection
+3. Click Export Collection
+4. Under 'Format', select Better BibTeX
+5. Keep all checkboxes unselected (see @fig-export)
+6. Save the exported .bib file to a local folder of your choice
+
+::: {.callout-important collapse="true"}
+## Better BibTeX format not available?
+If the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:
+
+<https://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format>
+
+:::
+
+```{r}
+#| label: fig-export
+#| fig-cap: Export a Zotero Collection in Better BibTeX format
+
+knitr::include_graphics("images/screenshot-better-bibtex.png")
+```
+

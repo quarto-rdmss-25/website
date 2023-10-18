@@ -1,0 +1,50 @@
+---
+title: "About"
+execute: 
+  echo: false
+---
+
+## About Pages
+
+It's good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design. 
+
+In this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.
+
+Here is some guidance:
+
+## Step 1
+
+- Collect links to your online profiles (e.g. GitHub, LinkedIn, ORCID, etc.)
+- Write a short biography about yourself (1 paragraph, 2 two 3 sentences)
+- Find a photo that you would like to show (can be portrait, can be a logo, can be an photo of something you like)
+
+## Step 2
+
+Write up your About page using the Quarto file format.
+
+- Open your [exercises in RStudio on Posit Cloud](https://posit.cloud/spaces/426098/content/all?sort=name_asc)
+- Create a new Quarto Doc and name it about.qmd
+- Use the [Quarto documentation for About Pages](https://quarto.org/docs/websites/website-about.html) to write up your page
+
+::: {.callout-tip collapse="true"}
+## Add profile photo
+
+If you want to add your profile, then you can add it to your exercises repository on GitHub and then try the `pull` functionality in RStudio on Posit Cloud.
+
+#### Upload photo to GitHub
+
+```{r}
+knitr::include_graphics("images/screenshot-upload-github.png")
+```
+
+#### Pull from RStudio
+
+```{r}
+knitr::include_graphics("images/screenshot-rstudio-pull.png")
+```
+
+
+
+:::
+
+

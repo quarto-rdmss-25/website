@@ -62,6 +62,17 @@ website:
           - href: 1-4-scholarly-writing/index.qmd
             text: "Scholarly writing"
       - text: "---"
+      - section: "Homework"
+        contents:
+          - href: 0-3-homework/0-1-tables-figures.qmd
+            text: "Tables & Figures"
+          - href: 0-3-homework/0-2-bibliography.qmd
+            text: "Bibliography"
+          - href: 0-3-homework/0-3-about-page.qmd
+            text: "About page"
+          - href: 0-3-homework/0-4-scholarly-document.qmd
+            text: "Scholarly document"
+      - text: "---"
       - href: syllabus.qmd
         text: "Syllabus"
       - text: "---"
