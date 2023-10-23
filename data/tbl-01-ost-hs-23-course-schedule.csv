@@ -1,17 +1,15 @@
-day,start_time,end_time,duration,module,title,page_link,time
-1,08:30,09:35,1899-12-30T01:05:00Z,NA,[Hello Quarto](1-1-hello-quarto/),1-1-hello-quarto,08:30 - 09:35
-1,09:35,09:45,1899-12-30T00:10:00Z,NA,Break,NA,09:35 - 09:45
-1,09:45,10:15,1899-12-30T00:30:00Z,NA,[GitHub](1-2-github/),1-2-github,09:45 - 10:15
-1,10:15,10:55,1899-12-30T00:40:00Z,NA,[Documents](1-3-documents/),1-3-documents,10:15 - 10:55
-1,10:55,11:05,1899-12-30T00:10:00Z,NA,Break,NA,10:55 - 11:05
-1,11:05,11:50,1899-12-30T00:45:00Z,NA,[Documents](1-3-documents/),1-3-documents,11:05 - 11:50
-1,11:50,12:10,1899-12-30T00:20:00Z,NA,[Scholarly Writing](1-4-scholarly-writing/),1-4-scholarly-writing,11:50 - 12:10
-2,08:30,09:15,1899-12-30T00:45:00Z,NA,[Presentations](2-1-presentations/),2-1-presentations,08:30 - 09:15
-2,09:15,09:25,1899-12-30T00:10:00Z,NA,Break,NA,09:15 - 09:25
-2,09:25,10:10,1899-12-30T00:45:00Z,NA,[Websites](2-2-websites/),2-2-websites,09:25 - 10:10
-2,10:10,10:20,1899-12-30T00:10:00Z,NA,Break,NA,10:10 - 10:20
-2,10:20,11:35,1899-12-30T01:15:00Z,NA,[Develop](2-3-develop/),2-3-develop,10:20 - 11:35
-2,11:35,11:45,1899-12-30T00:10:00Z,NA,Break,NA,11:35 - 11:45
-2,11:45,12:00,1899-12-30T00:15:00Z,NA,[Develop](2-3-develop/),2-3-develop,11:45 - 12:00
-2,12:00,12:15,1899-12-30T00:15:00Z,NA,[Publish](2-4-publish/),2-4-publish,12:00 - 12:15
-2,12:15,12:30,1899-12-30T00:15:00Z,NA,[Wrap-up](2-5-wrap-up/),2-5-wrap-up,12:15 - 12:30
+day,start_time,end_time,duration,module,title,page_link,real_start_time,real_end_time,...10,comments,time
+1,08:30,09:35,1899-12-30T01:05:00Z,NA,[Hello Quarto](1-1-hello-quarto/),1-1-hello-quarto,1899-12-30T08:40:00Z,1899-12-30T10:00:00Z,,NA,08:30 - 09:35
+1,09:35,09:45,1899-12-30T00:10:00Z,NA,Break,NA,1899-12-30T10:00:00Z,1899-12-30T10:10:00Z,,NA,09:35 - 09:45
+1,09:45,10:15,1899-12-30T00:30:00Z,NA,[GitHub](1-2-github/),1-2-github,1899-12-30T10:10:00Z,1899-12-30T11:10:00Z,,"allow 15 minutes for Q&A, add part about usethis and configuration, add part about collaborating with MS Word users and working with comments and track changes.",09:45 - 10:15
+1,10:15,10:55,1899-12-30T00:40:00Z,NA,[Documents](1-3-documents/),1-3-documents,NA,NA,,NA,10:15 - 10:55
+1,10:55,11:05,1899-12-30T00:10:00Z,NA,Break,NA,1899-12-30T11:10:00Z,1899-12-30T11:20:00Z,,NA,10:55 - 11:05
+1,11:05,11:50,1899-12-30T00:45:00Z,NA,[Documents](1-3-documents/),1-3-documents,1899-12-30T11:20:00Z,1899-12-30T12:30:00Z,,Left out final exercises for tables and figures,11:05 - 11:50
+2,08:30,09:00,1899-12-30T00:30:00Z,NA,[Scholarly Writing](2-1-scholarly-writing/),2-1-scholarly-writing,NA,NA,,NA,08:30 - 09:00
+2,09:00,09:45,1899-12-30T00:45:00Z,NA,Presentations,NA,NA,NA,,NA,09:00 - 09:45
+2,09:45,10:00,1899-12-30T00:15:00Z,NA,Break,NA,NA,NA,,NA,09:45 - 10:00
+2,10:00,10:45,1899-12-30T00:45:00Z,NA,Websites,NA,NA,NA,,NA,10:00 - 10:45
+2,10:45,11:00,1899-12-30T00:15:00Z,NA,Publish,NA,NA,NA,,NA,10:45 - 11:00
+2,11:00,11:15,1899-12-30T00:15:00Z,NA,Break,NA,NA,NA,,NA,11:00 - 11:15
+2,11:15,12:15,1899-12-30T01:00:00Z,NA,Develop,NA,NA,NA,,NA,11:15 - 12:15
+2,12:15,12:30,1899-12-30T00:15:00Z,NA,Wrap-up,NA,NA,NA,,NA,12:15 - 12:30

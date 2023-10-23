@@ -79,10 +79,10 @@ website:
             text: "Presentations"
           - href: 2-3-websites/index.qmd
             text: "Websites"
-          - href: 2-4-develop/index.qmd
-            text: "Develop"
-          - href: 2-5-publish/index.qmd
+          - href: 2-4-publish/index.qmd
             text: "Publish"
+          - href: 2-5-develop/index.qmd
+            text: "Develop"
           - href: 2-6-wrap-up/index.qmd
             text: "Wrap up"
       - text: "---"
