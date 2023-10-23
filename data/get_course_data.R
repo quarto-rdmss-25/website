@@ -15,8 +15,6 @@ library(stringr)
 
 # course-schedule
 
-gs4_auth()
-
 googlesheets4::read_sheet("1WfhCs-EWzD9oB5tjpP-cqszeqzG0ZorXjTEmfee-EHo") |>
   mutate(title = case_when(
     is.na(page_link) == FALSE ~  paste0("[", title, "](", page_link, "/)"),
