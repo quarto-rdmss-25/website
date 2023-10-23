@@ -75,6 +75,8 @@ library(countdown)
 
 ## Thank you! 
 
+🐘 [https://fosstodon.org/@larnsce](https://fosstodon.org/@larnsce)
+
 ## Questions
 
 ::: task
