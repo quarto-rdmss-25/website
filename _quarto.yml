@@ -106,7 +106,7 @@ format:
         - text: |
             <script defer data-domain="ost-hs23.github.io/website" src="https://plausible.io/js/script.js"></script>
 
-freeze: false
+freeze: auto
 editor: source
 
 
