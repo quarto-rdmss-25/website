@@ -32,7 +32,9 @@ execute:
 ::: task
 Let's now add a blog component to our website.
 
-- Add a folder called `posts` and create minimal blog post entry - Collect postsfrom a blog page using the [listings feature](https://quarto.org/docs/websites/website-listings.html).
+- Add a folder called `posts` and create minimal blog post entry 
+
+- Collect posts from a blog page using the [listings feature](https://quarto.org/docs/websites/website-listings.html).
 
 :::
 
