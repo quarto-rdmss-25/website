@@ -32,7 +32,7 @@ Prior to Day 1, please complete the following seven steps:
 -   [Step 1](0-2-pre-work/01-orcid.html): Register your ORCID iD
 -   [Step 2](0-2-pre-work/02-posit-cloud.html): Log into Posit Cloud and join the course workspace
 -   [Step 3](0-2-pre-work/03-quarto-pub.html): Create an account for Quarto Pub
--   [Step 4](0-2-pre-work/04-survey.html): Fill out the pre-course survey by **Tuesday, 2nd April**
+-   [Step 4](0-2-pre-work/04-survey.html): Fill out the pre-course survey by [**Tuesday, 2nd April**]{.highlight-yellow}
 -   [Step 5](0-2-pre-work/05-reading.html): Read @wilson2017good and prepare for a discussion
 -   [Step 6]: Read the learning objectives below
 

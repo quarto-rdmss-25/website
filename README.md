@@ -1,6 +1,6 @@
 # website
 
-Website and course material for "Quarto - authoring and publishing tools for collaborative scientific writing "
+Website and course material for "Quarto - authoring and publishing tools for collaborative scientific writing"
 
 See https://quarto-ambition.github.io/website/ for course website.
 
