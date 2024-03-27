@@ -47,6 +47,10 @@ website:
             text: "Step 4: Survey"
           - href: 0-2-pre-work/05-reading.qmd
             text: "Step 5: Reading"
+      - section: "Day 1"
+        contents:
+          - href: 1-1-hello-quarto/index.qmd
+            text: "Hello Quarto"
 
 format:
   html:

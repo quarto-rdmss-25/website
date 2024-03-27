@@ -75,39 +75,6 @@ Take some written notes.
 countdown(minutes = 2)
 ```
 
-## About you
-
-::: task
-### Pick an item 
-
-**Take notes for 1 minute:**   
-
-What does the item you have picked have to do with the reason for you being here?
-:::
-
-![](images/items-slide/items-slide.001.png)
-
-```{r}
-#| echo: false
-
-countdown(minutes = 1)
-```
-
-## In break-out rooms
-
-::: task
-**Take 2 minutes each to share with your room partner:**
-
-What does the item you have picked have to do with the reason for you being here?
-:::
-
-![](images/items-slide/items-slide.001.png)
-
-```{r}
-#| echo: false
-
-countdown(minutes = 5)
-```
 
 # Quarto {.center-align background-color="#461a52"}
 
