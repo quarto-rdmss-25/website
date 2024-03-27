@@ -1,17 +1,12 @@
 # website
 
-Website and course material for "Open Science Tools - authoring and publishing workflows for collaborative scientific writing"
+Website and course material for "Quarto - authoring and publishing tools for collaborative scientific writing "
 
-See https://ost-hs23.github.io/website/ for course website.
+See https://quarto-ambition.github.io/website/ for course website.
 
 ## Abstract
 
-As the expectations of researchers increase, publishing reproducible
-scientific articles becomes essential. However, choosing tools for these
-tasks can be difficult. This course aims to guide researchers through
-these challenges by introducing a workflow that utilizes Git, GitHub,
-and the Quarto scientific and technical publishing system for
-collaborative scientific writing.
+As the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes the Quarto scientific and technical publishing system for collaborative scientific writing.
 
 ## Attribution
 
