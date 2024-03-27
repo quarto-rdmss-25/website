@@ -1,0 +1,28 @@
+author: "Lars Schöbitz"
+institute: "ETH Zurich"
+department: "Global Health Engineering"
+
+course:
+  code: "quarto-ambition"
+  short-title: "quarto-ambition"
+  long-title: "Quarto - authoring and publishing tools for collaborative scientific writing"
+  site: "https://rbtl-fs24.github.io/website/"
+  site-short: "https://quarto-ambition.github.io/website/"
+  github-org: "https://github.com/quarto-ambition/"
+
+md-01:
+  title: "Hello Quarto"
+  date: "2024-04-03"
+
+md-02:
+  title: "Documents"
+  date: "2024-04-03"
+
+md-03:
+  title: "Presentations"
+  date: "2024-04-10"
+
+md-04:
+  title: "Publish"
+  date: "2024-04-10"
+
