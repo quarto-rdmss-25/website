@@ -36,20 +36,16 @@ website:
       - section: "Pre-course work"
         href: index.qmd
         contents:
-          - href: 0-2-pre-work/01-github.qmd
-            text: "Step 1: GitHub"
-          - href: 0-2-pre-work/02-orcid.qmd
-            text: "Step 2: ORCID"
-          - href: 0-2-pre-work/03-zotero.qmd
-            text: "Step 3: Zotero"
-          - href: 0-2-pre-work/04-posit-cloud.qmd
-            text: "Step 4: Posit Cloud"
-          - href: 0-2-pre-work/05-element.qmd
-            text: "Step 5: Element"
-          - href: 0-2-pre-work/06-survey.qmd
-            text: "Step 6: Survey"
-          - href: 0-2-pre-work/07-reading.qmd
-            text: "Step 7: Reading"
+          - href: 0-2-pre-work/01-orcid.qmd
+            text: "Step 1: ORCID"
+          - href: 0-2-pre-work/02-zotero.qmd
+            text: "Step 2: Posit Cloud"
+          - href: 0-2-pre-work/03-element.qmd
+            text: "Step 3: Element"
+          - href: 0-2-pre-work/04-survey.qmd
+            text: "Step 4: Survey"
+          - href: 0-2-pre-work/05-reading.qmd
+            text: "Step 5: Reading"
       - text: "---"
       - section: "Day 1"
         contents:

@@ -1,0 +1,17 @@
+---
+title: "Good enough practices in scientific computing"
+bibliography: "../references.bib"
+---
+
+This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don't teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.
+
+The following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.
+
+1.  Read @wilson2017good.
+
+2.  Chose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:
+
+3.  Come up with a [real-world example]{.highlight-yellow} or scenario where the recommended practice could be applied in your research or academic work.
+
+4.  Be prepared to [explain how the recommended practices would improve your research process]{.highlight-yellow}. This will be [in the class setting]{.highlight-yellow} as part of small discussion group (max 3 people).
+

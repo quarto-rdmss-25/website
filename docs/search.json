@@ -1117,42 +1117,60 @@
     "href": "index.html",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "",
-    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure."
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "index.html#what-do-i-need-to-prepare-before-day-1",
     "href": "index.html#what-do-i-need-to-prepare-before-day-1",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": " What do I need to prepare before Day 1?",
-    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud and join the workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read Wilson et al. (2017) and prepare for a discussion"
+    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud and join the workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read Wilson et al. (2017) and prepare for a discussion",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "index.html#day-1",
     "href": "index.html#day-1",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Day 1",
-    "text": "Day 1\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:35\nHello Quarto\n\n\n09:35 - 09:45\nBreak\n\n\n09:45 - 10:15\nGitHub\n\n\n10:15 - 10:55\nDocuments\n\n\n10:55 - 11:05\nBreak\n\n\n11:05 - 11:50\nDocuments"
+    "text": "Day 1\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:35\nHello Quarto\n\n\n09:35 - 09:45\nBreak\n\n\n09:45 - 10:15\nGitHub\n\n\n10:15 - 10:55\nDocuments\n\n\n10:55 - 11:05\nBreak\n\n\n11:05 - 11:50\nDocuments",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "index.html#day-2",
     "href": "index.html#day-2",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Day 2",
-    "text": "Day 2\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:00\nScholarly Writing\n\n\n09:00 - 09:45\nPresentations\n\n\n09:45 - 10:00\nBreak\n\n\n10:00 - 10:45\nWebsites\n\n\n10:45 - 11:00\nPublish\n\n\n11:00 - 11:15\nBreak\n\n\n11:15 - 12:15\nDevelop\n\n\n12:15 - 12:30\nWrap-up"
+    "text": "Day 2\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:00\nScholarly Writing\n\n\n09:00 - 09:45\nPresentations\n\n\n09:45 - 10:00\nBreak\n\n\n10:00 - 10:45\nWebsites\n\n\n10:45 - 11:00\nPublish\n\n\n11:00 - 11:15\nBreak\n\n\n11:15 - 12:15\nDevelop\n\n\n12:15 - 12:30\nWrap-up",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "index.html#thanks",
     "href": "index.html#thanks",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course."
+    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "index.html#attribution",
     "href": "index.html#attribution",
     "title": "Pre-course work - Open Science Tools HS23",
     "section": "Attribution",
-    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License."
+    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "2-2-presentations/2-2-presentations.html#components",
@@ -1306,56 +1324,80 @@
     "href": "syllabus.html",
     "title": "Course Overview",
     "section": "",
-    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#details",
     "href": "syllabus.html#details",
     "title": "Course Overview",
     "section": "",
-    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich"
+    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#abstract",
     "href": "syllabus.html#abstract",
     "title": "Course Overview",
     "section": "Abstract",
-    "text": "Abstract\nAs the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing."
+    "text": "Abstract\nAs the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing.",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#objective",
     "href": "syllabus.html#objective",
     "title": "Course Overview",
     "section": "Objective",
-    "text": "Objective\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nExplain the differences between files written in markup languages like markdown (.md) and those in proprietary file formats like .docx.\nUtilize an exported library from Zotero in Better BibTex Format to create an automated reference list in your scientific documents.\nInteract with Git version control and GitHub through the RStudio IDE.\nCollaborate with other researchers using the GitHub issue tracker and project management board to organize tasks and streamline communication.\nPublish a public website using GitHub Pages to share research with a broader audience."
+    "text": "Objective\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nExplain the differences between files written in markup languages like markdown (.md) and those in proprietary file formats like .docx.\nUtilize an exported library from Zotero in Better BibTex Format to create an automated reference list in your scientific documents.\nInteract with Git version control and GitHub through the RStudio IDE.\nCollaborate with other researchers using the GitHub issue tracker and project management board to organize tasks and streamline communication.\nPublish a public website using GitHub Pages to share research with a broader audience.",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#content",
     "href": "syllabus.html#content",
     "title": "Course Overview",
     "section": "Content",
-    "text": "Content\nThis course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.\nTopics covered include:\n\nScientific communication.\nReproducible research (open research, version control, licensing).\nCollaboration through Git and GitHub.\n\nDuring the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.\nWhile the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas."
+    "text": "Content\nThis course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.\nTopics covered include:\n\nScientific communication.\nReproducible research (open research, version control, licensing).\nCollaboration through Git and GitHub.\n\nDuring the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.\nWhile the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas.",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#lecture-notes",
     "href": "syllabus.html#lecture-notes",
     "title": "Course Overview",
     "section": "Lecture notes",
-    "text": "Lecture notes\nAll lecture notes are on this public website."
+    "text": "Lecture notes\nAll lecture notes are on this public website.",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#prerequisites-notice",
     "href": "syllabus.html#prerequisites-notice",
     "title": "Course Overview",
     "section": "Prerequisites / Notice",
-    "text": "Prerequisites / Notice\nThe pre-course assignments can be found at Pre-course assignments.\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites."
+    "text": "Prerequisites / Notice\nThe pre-course assignments can be found at Pre-course assignments.\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites.",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "syllabus.html#performance-assessment",
     "href": "syllabus.html#performance-assessment",
     "title": "Course Overview",
     "section": "Performance Assessment",
-    "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules."
+    "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules.",
+    "crumbs": [
+      "Syllabus"
+    ]
   },
   {
     "objectID": "2-1-scholarly-writing/index.html",
@@ -1419,5 +1461,95 @@
     "title": "Interaction with GitHub",
     "section": "Setup a GitHub Personal Access Token (PAT)",
     "text": "Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place."
+  },
+  {
+    "objectID": "0-2-pre-work/02-posit-cloud.html",
+    "href": "0-2-pre-work/02-posit-cloud.html",
+    "title": "Create an account for Posit Cloud",
+    "section": "",
+    "text": "For this workshop, we will be using Posit Cloud to run the code examples and exercises. Posit Cloud is a cloud-based platform that allows you to run code in the cloud without having to install any software on your local machine. This makes it easier for course instructors as the required software infrastructure is in place before the course starts."
+  },
+  {
+    "objectID": "0-2-pre-work/02-posit-cloud.html#step-1-get-an-account-for-posit-cloud",
+    "href": "0-2-pre-work/02-posit-cloud.html#step-1-get-an-account-for-posit-cloud",
+    "title": "Create an account for Posit Cloud",
+    "section": "Step 1: Get an account for Posit Cloud",
+    "text": "Step 1: Get an account for Posit Cloud\n\nSign up for a free account on Posit Cloud: https://posit.cloud/plans/free"
+  },
+  {
+    "objectID": "0-2-pre-work/02-posit-cloud.html#step-2-join-the-workspace-for-the-course",
+    "href": "0-2-pre-work/02-posit-cloud.html#step-2-join-the-workspace-for-the-course",
+    "title": "Create an account for Posit Cloud",
+    "section": "Step 2: Join the workspace for the course",
+    "text": "Step 2: Join the workspace for the course\n\nOpen this link: https://posit.cloud/spaces/497061/join?access_code=RhYpegUJir7xPPP0O_diSjdb3QbbAoMHUaFEVaBc"
+  },
+  {
+    "objectID": "0-2-pre-work/04-survey.html",
+    "href": "0-2-pre-work/04-survey.html",
+    "title": "Learning more about your prior knowledge",
+    "section": "",
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6",
+    "crumbs": [
+      "Pre-course work",
+      "Step 4: Survey"
+    ]
+  },
+  {
+    "objectID": "0-2-pre-work/04-survey.html#please-fill-out-our-pre-course-survey",
+    "href": "0-2-pre-work/04-survey.html#please-fill-out-our-pre-course-survey",
+    "title": "Learning more about your prior knowledge",
+    "section": "",
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6",
+    "crumbs": [
+      "Pre-course work",
+      "Step 4: Survey"
+    ]
+  },
+  {
+    "objectID": "0-2-pre-work/05-reading.html",
+    "href": "0-2-pre-work/05-reading.html",
+    "title": "Good enough practices in scientific computing",
+    "section": "",
+    "text": "This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.\nThe following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.\n\nRead Wilson et al. (2017).\nChose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:\nCome up with a real-world example or scenario where the recommended practice could be applied in your research or academic work.\nBe prepared to explain how the recommended practices would improve your research process. This will be in the class setting as part of small discussion group (max 3 people).\n\n\n\n\n\nReferences\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 5: Reading"
+    ]
+  },
+  {
+    "objectID": "0-2-pre-work/01-orcid.html",
+    "href": "0-2-pre-work/01-orcid.html",
+    "title": "Your personal unique ORCID iD",
+    "section": "",
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid",
+    "crumbs": [
+      "Pre-course work",
+      "Step 1: ORCID"
+    ]
+  },
+  {
+    "objectID": "0-2-pre-work/01-orcid.html#create-your-orcid-id",
+    "href": "0-2-pre-work/01-orcid.html#create-your-orcid-id",
+    "title": "Your personal unique ORCID iD",
+    "section": "",
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid",
+    "crumbs": [
+      "Pre-course work",
+      "Step 1: ORCID"
+    ]
+  },
+  {
+    "objectID": "0-2-pre-work/03-quarto-pub.html",
+    "href": "0-2-pre-work/03-quarto-pub.html",
+    "title": "Create an account for Quarto Pub",
+    "section": "",
+    "text": "We will use Quarto Pub, which is a free publishing service for content created with Quarto. Quarto Pub is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
+  },
+  {
+    "objectID": "0-2-pre-work/03-quarto-pub.html#step-1-create-an-account",
+    "href": "0-2-pre-work/03-quarto-pub.html#step-1-create-an-account",
+    "title": "Create an account for Quarto Pub",
+    "section": "Step 1: Create an account",
+    "text": "Step 1: Create an account\n\nCreate an account on: https://quartopub.com/\n\n\n\n\n\n\n\nUsername advice\n\n\n\n\n\nYour username will be part of the URL for your Quarto Pub site. Here are some tips for choosing a username:\n\nincorporate your actual name\nreuse your username from other contexts, e.g. GitHub\npick a username you will be comfortable revealing to your future boss\nshorter is better than longer\nwe highly recommend all lowercase\nif you use more than one word, use the hyphen - as a separator"
   }
 ]

@@ -1,0 +1,14 @@
+---
+title: "Create an account for Posit Cloud"
+---
+
+For this workshop, we will be using Posit Cloud to run the code examples and exercises. Posit Cloud is a cloud-based platform that allows you to run code in the cloud without having to install any software on your local machine. This makes it easier for course instructors as the required software infrastructure is in place before the course starts.
+
+## Step 1: Get an account for Posit Cloud
+
+1. Sign up for a free account on Posit Cloud: <https://posit.cloud/plans/free>
+
+## Step 2: Join the workspace for the course
+
+1. Open this link: <https://posit.cloud/spaces/497061/join?access_code=RhYpegUJir7xPPP0O_diSjdb3QbbAoMHUaFEVaBc>
+

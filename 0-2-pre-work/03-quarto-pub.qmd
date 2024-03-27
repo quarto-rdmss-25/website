@@ -1,0 +1,27 @@
+---
+title: "Create an account for Quarto Pub"
+---
+
+We will use Quarto Pub, which is a free publishing service for content created with Quarto. Quarto Pub is ideal for blogs, course or project websites, books, presentations, and personal hobby sites.
+
+
+## Step 1: Create an account
+
+1. Create an account on: <https://quartopub.com/>
+
+::: {.callout-tip collapse="false"}
+## Username advice
+
+Your username will be part of the URL for your Quarto Pub site. Here are some tips for choosing a username:
+
+- incorporate your actual name
+- reuse your username from other contexts, e.g. GitHub
+- pick a username you will be comfortable revealing to your future boss
+- shorter is better than longer
+- we highly recommend all lowercase
+- if you use more than one word, use the hyphen `-` as a separator
+:::
+
+
+
+
