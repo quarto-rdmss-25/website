@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Open Science Tools"
+  title: "Quarto"
   description: "As the expectations of researchers increase, publishing
       reproducible scientific articles becomes essential. However,
       choosing tools for these tasks can be difficult.
