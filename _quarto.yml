@@ -5,15 +5,16 @@ project:
 website:
   page-navigation: true
   title: "Open Science Tools"
-  description: "As the expectations of researchers increase, publishing reproducible
-      scientific articles becomes essential. However, choosing tools for these
-      tasks can be difficult. This course aims to guide researchers through
-      these challenges by introducing a workflow that utilizes Git, GitHub,
-      and the Quarto scientific and technical publishing system for collaborative
-      scientific writing."
-  site-url: "https://ost-hs23.github.io/website/"
+  description: "As the expectations of researchers increase, publishing
+      reproducible scientific articles becomes essential. However,
+      choosing tools for these tasks can be difficult.
+      This course aims to guide researchers through these
+      challenges by introducing a workflow that utilizes the
+      Quarto scientific and technical publishing system for
+      collaborative scientific writing."
+  site-url: "https://quarto-ambition.github.io/website/"
 
-  repo-url: https://github.com/ost-hs23/website
+  repo-url: https://github.com/quarto-ambition/website
   repo-actions: [edit, issue]
 
   page-footer:
@@ -27,7 +28,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/ost-hs23/
+        href: https://github.com/quarto-ambition/website
         text: "GitHub organization"
     style: "docked"
     search: false
@@ -38,58 +39,15 @@ website:
         contents:
           - href: 0-2-pre-work/01-orcid.qmd
             text: "Step 1: ORCID"
-          - href: 0-2-pre-work/02-zotero.qmd
+          - href: 0-2-pre-work/02-posit-cloud.qmd
             text: "Step 2: Posit Cloud"
-          - href: 0-2-pre-work/03-element.qmd
-            text: "Step 3: Element"
+          - href: 0-2-pre-work/03-quarto-pub.qmd
+            text: "Step 3: Quarto Pub"
           - href: 0-2-pre-work/04-survey.qmd
             text: "Step 4: Survey"
           - href: 0-2-pre-work/05-reading.qmd
             text: "Step 5: Reading"
-      - text: "---"
-      - section: "Day 1"
-        contents:
-          - href: 1-1-hello-quarto/index.qmd
-            text: "Hello Quarto"
-          - href: 1-2-github/index.qmd
-            text: "GitHub"
-          - href: 1-3-documents/index.qmd
-            text: "Documents"
-      - text: "---"
-      - section: "Homework"
-        href: 0-3-homework/index.qmd
-        contents:
-          - href: 0-3-homework/0-1-tables-figures.qmd
-            text: "Tables & Figures"
-          - href: 0-3-homework/0-2-bibliography.qmd
-            text: "Bibliography"
-          - href: 0-3-homework/0-3-about-page.qmd
-            text: "About page"
-          - href: 0-3-homework/0-4-scholarly-document.qmd
-            text: "Scholarly document"
-      - text: "---"
-      - section: "Day 2"
-        contents:
-          - href: 2-1-scholarly-writing/index.qmd
-            text: "Scholarly writing"
-          - href: 2-2-presentations/index.qmd
-            text: "Presentations"
-          - href: 2-3-websites/index.qmd
-            text: "Websites"
-          - href: 2-4-publish/index.qmd
-            text: "Publish"
-          - href: 2-5-develop/index.qmd
-            text: "Develop"
-          - href: 2-6-wrap-up/index.qmd
-            text: "Wrap up"
-      - text: "---"
-      - href: syllabus.qmd
-        text: "Syllabus"
-      - text: "---"
-      - section: "Other resources"
-        contents:
-          - href: 0-1-overview/index.qmd
-            text: "ETH4D Lunch"
+
 format:
   html:
     theme:
@@ -100,7 +58,7 @@ format:
     mainfont: "Atkinson Hyperlegible"
     include-in-header:
         - text: |
-            <script defer data-domain="ost-hs23.github.io/website" src="https://plausible.io/js/script.js"></script>
+            <script defer data-domain="quarto-ambition.github.io/website" src="https://plausible.io/js/script.js"></script>
 
 freeze: auto
 editor: source

@@ -4,7 +4,6 @@ title: "Create an account for Quarto Pub"
 
 We will use Quarto Pub, which is a free publishing service for content created with Quarto. Quarto Pub is ideal for blogs, course or project websites, books, presentations, and personal hobby sites.
 
-
 ## Step 1: Create an account
 
 1. Create an account on: <https://quartopub.com/>

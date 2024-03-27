@@ -1,59 +1,58 @@
 [
   {
-    "objectID": "0-2-pre-work/06-survey.html",
-    "href": "0-2-pre-work/06-survey.html",
+    "objectID": "0-2-pre-work/04-survey.html",
+    "href": "0-2-pre-work/04-survey.html",
     "title": "Learning more about your prior knowledge",
     "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/DcSBYLakwajxQ2XE9",
+    "crumbs": [
+      "Pre-course work",
+      "Step 4: Survey"
+    ]
   },
   {
-    "objectID": "0-2-pre-work/06-survey.html#please-fill-out-our-pre-course-survey",
-    "href": "0-2-pre-work/06-survey.html#please-fill-out-our-pre-course-survey",
+    "objectID": "0-2-pre-work/04-survey.html#step-1-please-fill-out-our-pre-course-survey",
+    "href": "0-2-pre-work/04-survey.html#step-1-please-fill-out-our-pre-course-survey",
     "title": "Learning more about your prior knowledge",
     "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6"
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/DcSBYLakwajxQ2XE9",
+    "crumbs": [
+      "Pre-course work",
+      "Step 4: Survey"
+    ]
   },
   {
-    "objectID": "0-2-pre-work/03-zotero.html",
-    "href": "0-2-pre-work/03-zotero.html",
-    "title": "Zotero for reference management",
+    "objectID": "0-2-pre-work/05-reading.html",
+    "href": "0-2-pre-work/05-reading.html",
+    "title": "Good enough practices in scientific computing",
     "section": "",
-    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/5228980/ost-hs23\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -&gt; Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -&gt; Tools -&gt; Add-ons -&gt; (Gear icon) -&gt; Install Add-on From File… -&gt; choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -&gt; Settings -&gt; Export -&gt; Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -&gt; Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -&gt; Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -&gt; Settings -&gt; Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
+    "text": "This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.\nThe following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.\n\nRead Wilson et al. (2017).\nChose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:\nCome up with a real-world example or scenario where the recommended practice could be applied in your research or academic work.\nBe prepared to explain how the recommended practices would improve your research process. This will be in the class setting as part of small discussion group (max 3 people).\n\n\n\n\n\nReferences\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 5: Reading"
+    ]
   },
   {
-    "objectID": "0-2-pre-work/03-zotero.html#sign-up-for-zotero-and-setup-zotero-reference-management-software",
-    "href": "0-2-pre-work/03-zotero.html#sign-up-for-zotero-and-setup-zotero-reference-management-software",
-    "title": "Zotero for reference management",
+    "objectID": "0-2-pre-work/01-orcid.html",
+    "href": "0-2-pre-work/01-orcid.html",
+    "title": "Create your personal unique ORCID iD",
     "section": "",
-    "text": "Open https://www.zotero.org/user/login/\nClick on Register for a free account\nChose username, email, and password\nClick Register\nOpen your email and verify your account\n\n\n\n\n\nLogin into Zotero: https://www.zotero.org/user/login/\nOpen GHE Group Library: https://www.zotero.org/groups/5228980/ost-hs23\nClick on Join button\nWait for group admin to confirm your membership (note: you won’t receive an automated confirmation after access is enabled)\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload Zotero for your operating system\nInstall Zotero\nLog in to your Zotero account by opening Settings -&gt; Sync and typing the Username and Password you have previously set up\nClick on the green refresh button in the top-right corner of the Zotero window\n\n\n\n\n\n\n\n\n\n\nOpen https://www.zotero.org/download/\nDownload the Zotero Connector for your browser\nInstall the Zotero Connector\nLog in to your Zotero account\n\n\n\n\n\nGo to https://retorque.re/zotero-better-bibtex/installation/\nClick on the latest release so you are redirected to github\nFind the .xpi file and right-click it. Click on Save Link As… and choose your location for saving the file.\n\n\n\n\n\n\n\nOpen Zotero -&gt; Tools -&gt; Add-ons -&gt; (Gear icon) -&gt; Install Add-on From File… -&gt; choose the .xpi file you have just saved\n\n\n\n\n\n\n\nRestart Zotero\n\n\n\n\n\n\n\nWait until the database fully loads. Only the first time is long; the next interactions with Zotero will be much faster.\nYou may need to restart Zotero the second time. Please do so if you see a prompt after Better BibTeX is installed.\nGo to Zotero -&gt; Settings -&gt; Export -&gt; Default Format and change the default format to Better BibTeX Quick Copy: \n\n\n\n\n\n\n\nIn the same setting window, go to Better BibTeX -&gt; Open Better BibTeX preferences…\n\n\n\n\n\n\n\nIn the Citation keys tab, use the following Citation key formula for Better BibTeX: [auth:lower][year][veryshorttitle1_0:lower]\n\nThe line above means that the citation key will be build from:\n\nFirst author’s last name in lowercase\npublication year\nThe first word from the title in lowercase, not including the connectors such as “the” or “a”\n\n\n\n\n\n\n\nGo to Export -&gt; Quick-Copy in the Better BibTeX preferences. Select Pandoc citation.\n\n\n\n\n\n\n\n\n\n\nOpen Zotero advanced preferences (Zotero -&gt; Settings -&gt; Advanced)\nOpen the Config Editor under the Advanced Configuration section\n\n\n\n\n\n\n\nClick I accept the risk!\nIn the search bar, search for autopin\n\n\n\n\n\n\n\nDouble-click into the field under Value\nIn the new window called Enter integer value, change the existing 0 to 2\n\n\n\n\n\n\n\nClick OK\nClose all setting windows"
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid",
+    "crumbs": [
+      "Pre-course work",
+      "Step 1: ORCID"
+    ]
   },
   {
-    "objectID": "0-2-pre-work/05-element.html",
-    "href": "0-2-pre-work/05-element.html",
-    "title": "Communication in a chat",
+    "objectID": "0-2-pre-work/01-orcid.html#create-your-orcid-id",
+    "href": "0-2-pre-work/01-orcid.html#create-your-orcid-id",
+    "title": "Create your personal unique ORCID iD",
     "section": "",
-    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels.\nWe want to communicate through a chat client called Element, providing the open source, free-of-charge Slack-like experience.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself. To set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Let the course instructor know (a last time by email) that you joined Element. He will invite you to the room for this course."
-  },
-  {
-    "objectID": "0-2-pre-work/04-posit-cloud.html",
-    "href": "0-2-pre-work/04-posit-cloud.html",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "",
-    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
-  },
-  {
-    "objectID": "0-2-pre-work/04-posit-cloud.html#log-into-posit-cloud-with-github-account-and-join-workspace-for-the-course",
-    "href": "0-2-pre-work/04-posit-cloud.html#log-into-posit-cloud-with-github-account-and-join-workspace-for-the-course",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "",
-    "text": "Here are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud."
-  },
-  {
-    "objectID": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
-    "href": "0-2-pre-work/04-posit-cloud.html#join-the-course-workspace-on-posit-cloud",
-    "title": "Working with Quarto & RStudio on Posit Cloud",
-    "section": "Join the course workspace on Posit Cloud",
-    "text": "Join the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/426098/join?access_code=A7ybzBNHYWKzJloBElgJIEAscpWnJCYh3jdhlB0I"
+    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid",
+    "crumbs": [
+      "Pre-course work",
+      "Step 1: ORCID"
+    ]
   },
   {
     "objectID": "2-1-scholarly-writing/2-1-scholarly-writing.html#good-enough-practices-in-scientific-computing",
@@ -123,14 +122,14 @@
     "href": "2-1-scholarly-writing/2-1-scholarly-writing.html#why-use-a-reference-management-tool",
     "title": "Scholarly writing",
     "section": "Why use a reference management tool?",
-    "text": "Why use a reference management tool?\n\n\nManaging references manually:\n\nis a lot of work\nis prone to mistakes\nmakes you lose track\n\n\n\n\n\n\n\n\n\n\nPhoto by Christian Erfurt on unsplash.com"
+    "text": "Why use a reference management tool?\n\n\nManaging references manually:\n\nis a lot of work\nis prone to mistakes\nmakes you lose track\n\n\n\n\n\n\nPhoto by Christian Erfurt on unsplash.com"
   },
   {
     "objectID": "2-1-scholarly-writing/2-1-scholarly-writing.html#why-use-zotero",
     "href": "2-1-scholarly-writing/2-1-scholarly-writing.html#why-use-zotero",
     "title": "Scholarly writing",
     "section": "Why use Zotero?",
-    "text": "Why use Zotero?\n\n\n\nfree\nopen source: developed in public\ntransparent about access to your own data\ncross-platform (Windows, Mac, Linux)\ncollaboration in groups\nintegration with word processors\n\n\n\n\n\n\n\n\n\n\nPhoto by Sincerely Media on unsplash.com\n\n\nMendeley\n\nMendeley is owned by Elsevier.\nIt encrypts your database and makes money with your data\nYou can only collaborate with 3 people on one project.\n\nEndNote\n\nEndNote doesn’t come free, you need to buy a license.\nThey also used a prioprietary citation style files that could only be opened by EndNote."
+    "text": "Why use Zotero?\n\n\n\nfree\nopen source: developed in public\ntransparent about access to your own data\ncross-platform (Windows, Mac, Linux)\ncollaboration in groups\nintegration with word processors\n\n\n\n\n\n\nPhoto by Sincerely Media on unsplash.com\n\n\nMendeley\n\nMendeley is owned by Elsevier.\nIt encrypts your database and makes money with your data\nYou can only collaborate with 3 people on one project.\n\nEndNote\n\nEndNote doesn’t come free, you need to buy a license.\nThey also used a prioprietary citation style files that could only be opened by EndNote."
   },
   {
     "objectID": "2-1-scholarly-writing/2-1-scholarly-writing.html#scholarly-articles-in-quarto",
@@ -165,784 +164,224 @@
     "href": "2-1-scholarly-writing/2-1-scholarly-writing.html#learn-more",
     "title": "Scholarly writing",
     "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/journals/index.html\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "text": "Learn more\n\nquarto.org/docs/journals/index.html\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
-    "objectID": "2-4-publish/index.html",
-    "href": "2-4-publish/index.html",
+    "objectID": "2-4-publish/2-4-publish.html#github-pages",
+    "href": "2-4-publish/2-4-publish.html#github-pages",
     "title": "Publish",
-    "section": "",
-    "text": "View slides in full screen"
+    "section": "GitHub Pages",
+    "text": "GitHub Pages\n\nGitHub Pages is a free service for hosting static websites. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
   },
   {
-    "objectID": "2-4-publish/index.html#slides",
-    "href": "2-4-publish/index.html#slides",
+    "objectID": "2-4-publish/2-4-publish.html#quartopub",
+    "href": "2-4-publish/2-4-publish.html#quartopub",
     "title": "Publish",
-    "section": "",
-    "text": "View slides in full screen"
+    "section": "QuartoPub",
+    "text": "QuartoPub\n\nQuarto Pub is a free publishing service for content created with Quarto. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites.\nPublish with quarto publish:\n\n\n\nTerminal\n\nquarto publish quarto-pub\n\n\nGain a _publish.yml that is safe to check into version control."
   },
   {
-    "objectID": "2-4-publish/index.html#exercises",
-    "href": "2-4-publish/index.html#exercises",
+    "objectID": "2-4-publish/2-4-publish.html#other-venues",
+    "href": "2-4-publish/2-4-publish.html#other-venues",
     "title": "Publish",
-    "section": "Exercises",
-    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
+    "section": "Other venues",
+    "text": "Other venues\n\nPosit Connect\nNetlify\nConfluence\nMore venues"
   },
   {
-    "objectID": "0-3-homework/0-1-tables-figures.html",
-    "href": "0-3-homework/0-1-tables-figures.html",
-    "title": "Tables and figures",
-    "section": "",
-    "text": "This exercise is in your exercises repository and has the title: tables-figures.qmd."
-  },
-  {
-    "objectID": "0-3-homework/0-1-tables-figures.html#tips",
-    "href": "0-3-homework/0-1-tables-figures.html#tips",
-    "title": "Tables and figures",
-    "section": "Tips",
-    "text": "Tips\n\nTask 1\n\nUse the visual editing mode\nTo cross-reference the table, you need a caption and additionally an ID starting with tbl-. That ID is added to the Caption below the table as: Caption {#tbl-label}\n\n\n\nTask 2\n\nCheck this slide: https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/figure-cross-references\n\n\n\nTask 3\n\nCheck the following slide, but consider what is different for figures compared to tables: https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/table-cross-references"
-  },
-  {
-    "objectID": "0-3-homework/index.html",
-    "href": "0-3-homework/index.html",
-    "title": "Homework",
-    "section": "",
-    "text": "Prior to Day 2, please complete the four homework assignments\n\nAssignment 1: Tables & Figures: Cross-references tables and figures in a document\nAssignment 2: Bibliography: Prepare a bibliography using Zotero\nAssignment 3: About page: Write up content for an About page on your website\nAssignment 4: Scholarly document: Prepare a paragraph of 100 words about your research"
-  },
-  {
-    "objectID": "0-3-homework/0-4-scholarly-document.html",
-    "href": "0-3-homework/0-4-scholarly-document.html",
-    "title": "Scholarly document",
-    "section": "",
-    "text": "You will write a paragraph about your research. You will reference the three scientific articles that you stored in your Bibliography. This task is only about writing the text for your paragraph. You do not yet need to prepare the actual Quarto Document, neither do you have to add in the references as citations. That’s what we will practic together next week.\n\nWrite up a 100 word paragraph about your research using placeholders for citations to the three scientific articles you stored in your Bibliography."
-  },
-  {
-    "objectID": "0-3-homework/0-4-scholarly-document.html#blog-post",
-    "href": "0-3-homework/0-4-scholarly-document.html#blog-post",
-    "title": "Scholarly document",
-    "section": "",
-    "text": "You will write a paragraph about your research. You will reference the three scientific articles that you stored in your Bibliography. This task is only about writing the text for your paragraph. You do not yet need to prepare the actual Quarto Document, neither do you have to add in the references as citations. That’s what we will practic together next week.\n\nWrite up a 100 word paragraph about your research using placeholders for citations to the three scientific articles you stored in your Bibliography."
-  },
-  {
-    "objectID": "2-3-websites/index.html",
-    "href": "2-3-websites/index.html",
-    "title": "Websites",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-3-websites/index.html#slides",
-    "href": "2-3-websites/index.html#slides",
-    "title": "Websites",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-3-websites/index.html#exercises",
-    "href": "2-3-websites/index.html#exercises",
-    "title": "Websites",
-    "section": "Exercises",
-    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
-  },
-  {
-    "objectID": "2-2-presentations/index.html",
-    "href": "2-2-presentations/index.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-2-presentations/index.html#slides",
-    "href": "2-2-presentations/index.html#slides",
-    "title": "Presentations",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-2-presentations/index.html#exercises",
-    "href": "2-2-presentations/index.html#exercises",
-    "title": "Presentations",
-    "section": "Exercises",
-    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins-slides.qmd\n hello-penguins-slides-solutions.qmd"
-  },
-  {
-    "objectID": "1-1-hello-quarto/index.html",
-    "href": "1-1-hello-quarto/index.html",
-    "title": "Hello Quarto",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-1-hello-quarto/index.html#slides",
-    "href": "1-1-hello-quarto/index.html#slides",
-    "title": "Hello Quarto",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-1-hello-quarto/index.html#exercises",
-    "href": "1-1-hello-quarto/index.html#exercises",
-    "title": "Hello Quarto",
-    "section": "Exercises",
-    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd"
-  },
-  {
-    "objectID": "0-1-overview/index.html",
-    "href": "0-1-overview/index.html",
-    "title": "Course Overview",
-    "section": "",
-    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
-  },
-  {
-    "objectID": "0-1-overview/index.html#slides",
-    "href": "0-1-overview/index.html#slides",
-    "title": "Course Overview",
-    "section": " Slides",
-    "text": "Slides\nView slides in full screen | Download slides as PDF"
-  },
-  {
-    "objectID": "0-1-overview/index.html#suggested-readings",
-    "href": "0-1-overview/index.html#suggested-readings",
-    "title": "Course Overview",
-    "section": " Suggested readings",
-    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
-  },
-  {
-    "objectID": "2-6-wrap-up/index.html",
-    "href": "2-6-wrap-up/index.html",
-    "title": "Wrap-up",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-6-wrap-up/index.html#slides",
-    "href": "2-6-wrap-up/index.html#slides",
-    "title": "Wrap-up",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-6-wrap-up/index.html#exercises",
-    "href": "2-6-wrap-up/index.html#exercises",
-    "title": "Wrap-up",
-    "section": "Exercises",
-    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
-  },
-  {
-    "objectID": "2-5-develop/2-5-develop.html#add-pages",
-    "href": "2-5-develop/2-5-develop.html#add-pages",
-    "title": "Develop",
-    "section": "Add pages",
-    "text": "Add pages\n\nBlog\nSlides\nEvents\n…"
-  },
-  {
-    "objectID": "2-5-develop/2-5-develop.html#our-turn",
-    "href": "2-5-develop/2-5-develop.html#our-turn",
-    "title": "Develop",
+    "objectID": "2-4-publish/2-4-publish.html#our-turn",
+    "href": "2-4-publish/2-4-publish.html#our-turn",
+    "title": "Publish",
     "section": "Our turn",
-    "text": "Our turn\n\nLet’s now add a blog component to our website.\n\nAdd a folder called posts and create minimal blog post entry\nCollect posts from a blog page using the listings feature.\n\n\n\n\n\n−+\n20:00"
+    "text": "Our turn\n\nLet’s now publish our website to GitHub Pages.\n\nOpen your repository on GitHub and publish your website to GitHub Pages.\n\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "2-5-develop/2-5-develop.html#our-turn-1",
-    "href": "2-5-develop/2-5-develop.html#our-turn-1",
-    "title": "Develop",
+    "objectID": "2-4-publish/2-4-publish.html#learn-more",
+    "href": "2-4-publish/2-4-publish.html#learn-more",
+    "title": "Publish",
+    "section": "Learn more",
+    "text": "Learn more\n\nquarto.org/docs/publishing\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+  },
+  {
+    "objectID": "0-3-homework/0-3-about-page.html",
+    "href": "0-3-homework/0-3-about-page.html",
+    "title": "About",
+    "section": "",
+    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.\nHere is some guidance:"
+  },
+  {
+    "objectID": "0-3-homework/0-3-about-page.html#about-pages",
+    "href": "0-3-homework/0-3-about-page.html#about-pages",
+    "title": "About",
+    "section": "",
+    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.\nHere is some guidance:"
+  },
+  {
+    "objectID": "0-3-homework/0-3-about-page.html#step-1",
+    "href": "0-3-homework/0-3-about-page.html#step-1",
+    "title": "About",
+    "section": "Step 1",
+    "text": "Step 1\n\nCollect links to your online profiles (e.g. GitHub, LinkedIn, ORCID, etc.)\nWrite a short biography about yourself (1 paragraph, 2 two 3 sentences)\nFind a photo that you would like to show (can be portrait, can be a logo, can be an photo of something you like)"
+  },
+  {
+    "objectID": "0-3-homework/0-3-about-page.html#step-2",
+    "href": "0-3-homework/0-3-about-page.html#step-2",
+    "title": "About",
+    "section": "Step 2",
+    "text": "Step 2\nWrite up your About page using the Quarto file format.\n\nOpen your exercises in RStudio on Posit Cloud\nCreate a new Quarto Doc and name it about.qmd\nUse the Quarto documentation for About Pages to write up your page\n\n\n\n\n\n\n\nAdd profile photo\n\n\n\n\n\nIf you want to add your profile, then you can add it to your exercises repository on GitHub and then try the pull functionality in RStudio on Posit Cloud.\n\nUpload photo to GitHub\n\n\n\n\n\n\n\n\n\n\n\nPull from RStudio"
+  },
+  {
+    "objectID": "0-3-homework/0-2-bibliography.html",
+    "href": "0-3-homework/0-2-bibliography.html",
+    "title": "Bibliography",
+    "section": "",
+    "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ &gt; New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
+  },
+  {
+    "objectID": "0-3-homework/0-2-bibliography.html#literature-research",
+    "href": "0-3-homework/0-2-bibliography.html#literature-research",
+    "title": "Bibliography",
+    "section": "",
+    "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ &gt; New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
+  },
+  {
+    "objectID": "2-3-websites/2-3-websites.html#quarto-projects",
+    "href": "2-3-websites/2-3-websites.html#quarto-projects",
+    "title": "Websites",
+    "section": "Quarto projects",
+    "text": "Quarto projects\n\nQuarto projects have a _quarto.yml file\nThe type field in this file indicates the type of project:\n\ndefault: Collection of documents\nwebsite: Websites (and blogs)\nbooks: Books 😃"
+  },
+  {
+    "objectID": "2-3-websites/2-3-websites.html#quarto-websites",
+    "href": "2-3-websites/2-3-websites.html#quarto-websites",
+    "title": "Websites",
+    "section": "Quarto websites",
+    "text": "Quarto websites\n\nWebsites are essentially format: html + a Quarto Project\nBut a website is different than format: html in that it has multiple pages\nWebsites are our first exploration into Quarto Projects\nWebsites and books are very similar in that they associate multiple pages/resources into a connected resource"
+  },
+  {
+    "objectID": "2-3-websites/2-3-websites.html#our-turn",
+    "href": "2-3-websites/2-3-websites.html#our-turn",
+    "title": "Websites",
     "section": "Our turn",
-    "text": "Our turn\n\nLet’s now add a slides component to our website.\n\nAdd a folder called slides and create a minimal slide deck\nCollect the slide deck from a page using the listings feature.\n\n\n\n\n\n−+\n20:00"
+    "text": "Our turn\n\nLet’s build a website together from scratch. We will highlight the following feautures of Quarto websites:\n\n_quarto.yml\nindex.qmd & about.qmd / landing page / change landing page\nNavigation\nFreeze\nAn aspect of the workshop webpage that you fancy?"
   },
   {
-    "objectID": "2-5-develop/2-5-develop.html#your-turn",
-    "href": "2-5-develop/2-5-develop.html#your-turn",
-    "title": "Develop",
+    "objectID": "2-3-websites/2-3-websites.html#your-turn",
+    "href": "2-3-websites/2-3-websites.html#your-turn",
+    "title": "Websites",
     "section": "Your turn",
-    "text": "Your turn\n\n\nWork on your first blog post for the website and use the content you have prepared as part of your homework\n\n\n\n\n\n−+\n15:00"
+    "text": "Your turn\n\nPick up where we left off and\n\nAdd your details to the about page about page.\n\n\n\n\n\n−+\n10:00"
   },
   {
-    "objectID": "2-5-develop/2-5-develop.html#copy-from-others",
-    "href": "2-5-develop/2-5-develop.html#copy-from-others",
-    "title": "Develop",
-    "section": "Copy from others",
-    "text": "Copy from others\nBrowse websites built with Quarto and find the elements you like.\n\nquarto.org/docs/gallery"
+    "objectID": "2-3-websites/2-3-websites.html#learn-more",
+    "href": "2-3-websites/2-3-websites.html#learn-more",
+    "title": "Websites",
+    "section": "Learn more",
+    "text": "Learn more\n\nquarto.org/docs/websites\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
-    "objectID": "2-5-develop/2-5-develop.html#check-awesome-quarto-repository",
-    "href": "2-5-develop/2-5-develop.html#check-awesome-quarto-repository",
-    "title": "Develop",
-    "section": "Check Awesome Quarto repository",
-    "text": "Check Awesome Quarto repository\nGo through the entries in the Awesome Quarto repository and get inspired.\n\ngithub.com/mcanouil/awesome-quarto\n\n\n\n\n\n\n\n\n\n ost-hs23.github.io/website/"
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Open Science Tools",
-    "section": "",
-    "text": "Attribution 4.0 International\n=======================================================================\nCreative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.\nUsing Creative Commons Public Licenses\nCreative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\n Considerations for licensors: Our public licenses are\n intended for use by those authorized to give the public\n permission to use material in ways otherwise restricted by\n copyright and certain other rights. Our licenses are\n irrevocable. Licensors should read and understand the terms\n and conditions of the license they choose before applying it.\n Licensors should also secure all rights necessary before\n applying our licenses so that the public can reuse the\n material as expected. Licensors should clearly mark any\n material not subject to the license. This includes other CC-\n licensed material, or material used under an exception or\n limitation to copyright. More considerations for licensors:\nwiki.creativecommons.org/Considerations_for_licensors\n\n Considerations for the public: By using one of our public\n licenses, a licensor grants the public permission to use the\n licensed material under specified terms and conditions. If\n the licensor's permission is not necessary for any reason--for\n example, because of any applicable exception or limitation to\n copyright--then that use is not regulated by the license. Our\n licenses grant only permissions under copyright and certain\n other rights that a licensor has authority to grant. Use of\n the licensed material may still be restricted for other\n reasons, including because others have copyright or other\n rights in the material. A licensor may make special requests,\n such as asking that all changes be marked or described.\n Although not required by our licenses, you are encouraged to\n respect those requests where reasonable. More considerations\n for the public: \nwiki.creativecommons.org/Considerations_for_licensees\n=======================================================================\nCreative Commons Attribution 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)\n\nnever produces Adapted Material.\n\nDownstream recipients.\n\nOffer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nNo downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\n\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\nIf You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\nTO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n=======================================================================\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#components",
-    "href": "1-3-documents/1-3-documents.html#components",
-    "title": "Documents",
+    "objectID": "2-2-presentations/2-2-presentations.html#components",
+    "href": "2-2-presentations/2-2-presentations.html#components",
+    "title": "Presentations",
     "section": "Components",
-    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have beautiful, powerful, and useful outputs!"
+    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have a beautiful, functional slide deck!"
   },
   {
-    "objectID": "1-3-documents/1-3-documents.html#literate-programming",
-    "href": "1-3-documents/1-3-documents.html#literate-programming",
-    "title": "Documents",
-    "section": "Literate programming",
-    "text": "Literate programming\nLiterate programming is writing out the program logic in a human language with included (separated by a primitive markup) code snippets and macros.\n---\ntitle: \"ggplot2 demo\"\ndate: \"5/23/2023\"\nformat: html\n---\n\n## MPG\n\nThere is a relationship between city and highway mileage.\n\n```{r}\n#| label: fig-mpg\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(x = cty, y = hwy)) + \n  geom_point() + \n  geom_smooth(method = \"loess\")\n```\n\n\nSource: https://en.wikipedia.org/wiki/Literate_programming"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml",
-    "href": "1-3-documents/1-3-documents.html#yaml",
-    "title": "Documents",
-    "section": "YAML",
-    "text": "YAML\n“Yet Another Markup Language” or “YAML Ain’t Markup Language” is used to provide document level metadata.\n---\nkey: value\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#output-options",
-    "href": "1-3-documents/1-3-documents.html#output-options",
-    "title": "Documents",
-    "section": "Output options",
-    "text": "Output options\n---\nformat: something\n---\n\n\n---\nformat: html\n---\n---\nformat: pdf\n---\n---\nformat: revealjs\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#output-option-arguments",
-    "href": "1-3-documents/1-3-documents.html#output-option-arguments",
-    "title": "Documents",
-    "section": "Output option arguments",
-    "text": "Output option arguments\nIndentation matters!\n---\nformat: \n  html:\n    toc: true\n    code-fold: true\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml-validation",
-    "href": "1-3-documents/1-3-documents.html#yaml-validation",
-    "title": "Documents",
-    "section": "YAML validation",
-    "text": "YAML validation\n\nInvalid: No space after :\n\n---\nformat:html\n---\n\nInvalid: Read as missing\n\n---\nformat:\nhtml\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml-validation-1",
-    "href": "1-3-documents/1-3-documents.html#yaml-validation-1",
-    "title": "Documents",
-    "section": "YAML validation",
-    "text": "YAML validation\nThere are multiple ways of formatting valid YAML:\n\nValid: There’s a space after :\n\nformat: html\n\nValid: format: html with selections made with proper indentation\n\nformat: \n  html:\n    toc: true"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quarto-linting",
-    "href": "1-3-documents/1-3-documents.html#quarto-linting",
-    "title": "Documents",
-    "section": "Quarto linting",
-    "text": "Quarto linting\nLint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.\n\n\n\n\nSource: https://en.wikipedia.org/wiki/Lint_(software)"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
-    "href": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
-    "title": "Documents",
-    "section": "Quarto YAML Intelligence",
-    "text": "Quarto YAML Intelligence\nRStudio + VSCode provide rich tab-completion - start a word and tab to complete, or Ctrl + space to see all available options."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn",
-    "href": "1-3-documents/1-3-documents.html#your-turn",
-    "title": "Documents",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen hello-penguins.qmd in your exercises project in RStudio on Posit Cloud.\nIn the YAML header, try Ctrl + space to see the available YAML options.\nTry out the tab-completion of any options you remember.\nYou can use the HTML reference as needed.\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
-    "href": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
-    "title": "Documents",
-    "section": "List of valid YAML fields",
-    "text": "List of valid YAML fields\n\nMany YAML fields are common across various outputs\nBut also each output type has its own set of valid YAML fields and options\nDefinitive list: quarto.org/docs/reference/formats/html"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#text-formatting",
-    "href": "1-3-documents/1-3-documents.html#text-formatting",
-    "title": "Documents",
-    "section": "Text Formatting",
-    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* and **bold**\nitalics and bold\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\nstrikethrough\n\n\n`verbatim code`\nverbatim code"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#headings",
-    "href": "1-3-documents/1-3-documents.html#headings",
-    "title": "Documents",
-    "section": "Headings",
-    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#links",
-    "href": "1-3-documents/1-3-documents.html#links",
-    "title": "Documents",
-    "section": "Links",
-    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like &lt;https://quarto.org/&gt;, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: \n![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#lists",
-    "href": "1-3-documents/1-3-documents.html#lists",
-    "title": "Documents",
-    "section": "Lists",
-    "text": "Lists\nUnordered list:\n\n\nMarkdown:\n-   unordered list         \n    -   sub-item 1         \n    -   sub-item 1         \n        -   sub-sub-item 1 \n\nOutput\n\nunordered list\n\nsub-item 1\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\nOrdered list:\n\n\nMarkdown:\n1. ordered list            \n2. item 2                  \n    i. sub-item 1          \n         A.  sub-sub-item 1\n\nOutput\n\nordered list\n\nitem 2\n\nsub-item 1\n\nsub-sub-item 1"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quotes",
-    "href": "1-3-documents/1-3-documents.html#quotes",
-    "title": "Documents",
-    "section": "Quotes",
-    "text": "Quotes\nMarkdown:\n&gt; Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. \n&gt; - Donald Knuth, Literate Programming\n\nOutput:\n\nLet us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. - Donald Knuth, Literate Programming\n\n\n\n\nKnuth (1984)"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn-1",
-    "href": "1-3-documents/1-3-documents.html#your-turn-1",
-    "title": "Documents",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen markdown-syntax.qmd in RStudio.\nUse the source editor mode\nFollow the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#callouts",
-    "href": "1-3-documents/1-3-documents.html#callouts",
-    "title": "Documents",
-    "section": "Callouts",
-    "text": "Callouts\n::: callout-note\nNote that there are five types of callouts, including: \n`note`, `tip`, `warning`, `caution`, and `important`.\n:::\n\n\n\n\n\n\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#more-callouts",
-    "href": "1-3-documents/1-3-documents.html#more-callouts",
-    "title": "Documents",
-    "section": "More callouts",
-    "text": "More callouts\n\n\n\n\n\n\n\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\n\n\n\n\nDanger, callouts will really improve your writing.\n\n\n\n\n\n\n\n\n\n\n\n\nHere is something under construction.\n\n\n\n\n\n\n\n\n\nCaption\n\n\nTip with caption."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn-2",
-    "href": "1-3-documents/1-3-documents.html#your-turn-2",
-    "title": "Documents",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen callout-boxes.qmd and render the document.\nUsing the visual editor mode, change the type of the first callouts box and then re-render. Also play with the options to change its appearance.\nAdd a caption to the second callout box.\nMake the third callout box collapsible. Then, switch over to the source editor to inspect the markdown code.\nChange the format to PDF and re-render.\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#footnotes",
-    "href": "1-3-documents/1-3-documents.html#footnotes",
-    "title": "Documents",
-    "section": "Footnotes",
-    "text": "Footnotes\nPandoc supports numbering and formatting footnotes."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#inline-footnotes",
-    "href": "1-3-documents/1-3-documents.html#inline-footnotes",
-    "title": "Documents",
-    "section": "Inline footnotes",
-    "text": "Inline footnotes\nHere is an inline note.^[Inlines notes are easier to write,\nsince you don't have to pick an identifier and move down to\ntype the note.]\nHere is an inline note.1\nInline notes are easier to write, since you don’t have to pick an identifier and move down to type the note."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#inline-footnotes-1",
-    "href": "1-3-documents/1-3-documents.html#inline-footnotes-1",
-    "title": "Documents",
-    "section": "Inline footnotes",
-    "text": "Inline footnotes\nHere is a footnote reference[^1]\n\n[^1]: This can be easy in some situations when you have a really long note or\ndon't want to inline complex outputs.\n\nHere is a footnote reference1\n\n\nNotice in both situations that the footnote is placed at the bottom of the page in presentations, whereas in a document it would be hoverable or at the end of the document.\n\nThis can be easy in some situations when you have a really long note or don’t want to inline complex outputs."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#anatomy-of-a-code-chunk",
-    "href": "1-3-documents/1-3-documents.html#anatomy-of-a-code-chunk",
-    "title": "Documents",
-    "section": "Anatomy of a code chunk",
-    "text": "Anatomy of a code chunk\n\n\n\n```{r}\n#| label: car-stuff\n#| message: false\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n\npenguins |&gt; \n  distinct(species)\n```\n\n# A tibble: 3 × 1\n  species  \n  &lt;fct&gt;    \n1 Adelie   \n2 Gentoo   \n3 Chinstrap\n\n\n\n\nHas 3x backticks on each end\nEngine (r) is indicated between curly braces {r}\nOptions stated with the #| (hashpipe): #| option1: value"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#code-who-is-it-for",
-    "href": "1-3-documents/1-3-documents.html#code-who-is-it-for",
-    "title": "Documents",
-    "section": "Code, who is it for?",
-    "text": "Code, who is it for?\n\n\nThe way you display code is very different for different contexts.\nIn a teaching scenario like today, I really want to display code.\nIn a business, you may want to have a data-science facing output which displays the source code AND a stakeholder-facing output which hides the code."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#showing-and-hiding-code-with-echo",
-    "href": "1-3-documents/1-3-documents.html#showing-and-hiding-code-with-echo",
-    "title": "Documents",
-    "section": "Showing and hiding code with echo",
-    "text": "Showing and hiding code with echo\n\nThe echo option shows the code when set to true and hides it when set to false."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#tables-and-figures",
-    "href": "1-3-documents/1-3-documents.html#tables-and-figures",
-    "title": "Documents",
-    "section": "Tables and figures",
-    "text": "Tables and figures\n\nIn reproducible reports and manuscripts, the most commonly included code outputs are tables and figures.\nSo they get their own special sections in our deep dive!"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#markdown-tables",
-    "href": "1-3-documents/1-3-documents.html#markdown-tables",
-    "title": "Documents",
-    "section": "Markdown tables",
-    "text": "Markdown tables\nMarkdown:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\nOutput:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables",
-    "href": "1-3-documents/1-3-documents.html#grid-tables",
-    "title": "Documents",
-    "section": "Grid tables",
-    "text": "Grid tables\nMarkdown:\n+---------------+---------------+--------------------+\n| Fruit         | Price         | Advantages         |\n+===============+===============+====================+\n| Bananas       | $1.34         | - built-in wrapper |\n|               |               | - bright color     |\n+---------------+---------------+--------------------+\n| Oranges       | $2.10         | - cures scurvy     |\n|               |               | - tasty            |\n+---------------+---------------+--------------------+\n\n: Sample grid table."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables-1",
-    "href": "1-3-documents/1-3-documents.html#grid-tables-1",
-    "title": "Documents",
-    "section": "Grid tables",
-    "text": "Grid tables\nOutput:\n\nSample grid table.\n\n\n\n\n\n\n\nFruit\nPrice\nAdvantages\n\n\n\n\nBananas\n$1.34\n\nbuilt-in wrapper\nbright color\n\n\n\nOranges\n$2.10\n\ncures scurvy\ntasty"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables-alignment",
-    "href": "1-3-documents/1-3-documents.html#grid-tables-alignment",
-    "title": "Documents",
-    "section": "Grid tables: Alignment",
-    "text": "Grid tables: Alignment\n\nAlignments can be specified as with pipe tables, by putting colons at the boundaries of the separator line after the header:\n\n+---------------+---------------+--------------------+\n| Right         | Left          | Centered           |\n+==============:+:==============+:==================:+\n| Bananas       | $1.34         | built-in wrapper   |\n+---------------+---------------+--------------------+"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables-authoring",
-    "href": "1-3-documents/1-3-documents.html#grid-tables-authoring",
-    "title": "Documents",
-    "section": "Grid tables: Authoring",
-    "text": "Grid tables: Authoring\n\nNote that grid tables are quite awkward to write with a plain text editor because unlike pipe tables, the column indicators must align.\nThe Visual Editor can assist in making these tables!"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#tables-from-code",
-    "href": "1-3-documents/1-3-documents.html#tables-from-code",
-    "title": "Documents",
-    "section": "Tables from code",
-    "text": "Tables from code\nThe knitr package can turn data frames into tables with knitr::kable():\n\nlibrary(knitr)\n\nhead(penguins) |&gt; \n  kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#tables-from-code-1",
-    "href": "1-3-documents/1-3-documents.html#tables-from-code-1",
-    "title": "Documents",
-    "section": "Tables from code",
-    "text": "Tables from code\nIf you want fancier tables, try the gt package and all that it offers!\n\n\nlibrary(gt)\n\nhead(penguins) |&gt; \n  gt() |&gt;\n  tab_style(\n    style = list(\n      cell_fill(color = \"pink\"),\n      cell_text(style = \"italic\")\n      ),\n    locations = cells_body(\n      columns = bill_length_mm,\n      rows = bill_length_mm &gt; 40\n    )\n  )\n\n\n\n\n\n  \n    \n    \n      species\n      island\n      bill_length_mm\n      bill_depth_mm\n      flipper_length_mm\n      body_mass_g\n      sex\n      year\n    \n  \n  \n    Adelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n    Adelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n    Adelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n    Adelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n    Adelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n    Adelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#markdown-figures",
-    "href": "1-3-documents/1-3-documents.html#markdown-figures",
-    "title": "Documents",
-    "section": "Markdown figures",
-    "text": "Markdown figures\n![Penguins playing with a Quarto ball](images/penguins-quarto-ball.png)\n\nPenguins playing with a Quarto ball"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#subfigures",
-    "href": "1-3-documents/1-3-documents.html#subfigures",
-    "title": "Documents",
-    "section": "Subfigures",
-    "text": "Subfigures\nMarkdown:\n::: {#fig-penguins layout-ncol=2}\n\n![Blue penguin](images/blue-penguin.png){#fig-blue width=\"250px\"}\n\n![Orange penguin](images/orange-penguin.png){#fig-orange width=\"250px\"}\n\nTwo penguins\n\n:::"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#subfigures-1",
-    "href": "1-3-documents/1-3-documents.html#subfigures-1",
-    "title": "Documents",
-    "section": "Subfigures",
-    "text": "Subfigures\nOutput:\n\n\n\n\n\n\n\n(a) Blue penguin\n\n\n\n\n\n\n\n(b) Orange penguin\n\n\n\n\nFigure 1: Two penguins"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
-    "href": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
-    "title": "Documents",
-    "section": "Finding the figures to include",
-    "text": "Finding the figures to include\nIn places like markdown, YAML, or the command line/shell/terminal, you’ll need to use absolute or relative file paths:\n\n\nAbsolute = BAD: \"/Users/lars/exercises\" - Whose computer will this work on?\n\n\n\n\nRelative = BETTER:\n\n\"../ = up one directory, ../../ = up two directories, etc.\n/.. or / = start from root directory of your current computer"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#figures-with-code",
-    "href": "1-3-documents/1-3-documents.html#figures-with-code",
-    "title": "Documents",
-    "section": "Figures with code",
-    "text": "Figures with code\n\n```{r}\n#| fig-width: 4\n#| fig-align: right\n\nknitr::include_graphics(\"images/penguins-quarto-ball.png\")\n```"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#referencing-paths-in-r-code",
-    "href": "1-3-documents/1-3-documents.html#referencing-paths-in-r-code",
-    "title": "Documents",
-    "section": "Referencing paths in R code",
-    "text": "Referencing paths in R code\nUse the here package to reference the project root, as here::here() always starts at the top-level directory of a .Rproj:\n\nhere::here()\n\n[1] \"/Users/lschoebitz/Documents/gitrepos/gh-org-ost-hs23/website\""
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#figures-from-code",
-    "href": "1-3-documents/1-3-documents.html#figures-from-code",
-    "title": "Documents",
-    "section": "Figures from code",
-    "text": "Figures from code\n\n```{r}\n#| fig-width: 6\n#| fig-asp: 0.618\n\nggplot(penguins, aes(x = species, fill = species)) +\n  geom_bar(show.legend = FALSE)\n```"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#cross-references-1",
-    "href": "1-3-documents/1-3-documents.html#cross-references-1",
-    "title": "Documents",
-    "section": "Cross references",
-    "text": "Cross references\n\nHelp readers to navigate your document with numbered references and hyperlinks to entities like figures and tables.\nCross referencing steps:\n\nAdd a caption to your figure or table.\nGive an ID to your figure or table, starting with fig- or tbl-.\nRefer to it with @fig-... or @tbl-...."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#figure-cross-references",
-    "href": "1-3-documents/1-3-documents.html#figure-cross-references",
-    "title": "Documents",
-    "section": "Figure cross references",
-    "text": "Figure cross references\nThe presence of the caption (Blue penguin) and label (#fig-blue-penguin) make this figure referenceable:\n\n\nMarkdown:\nSee @fig-blue-penguin for a cute blue penguin.\n![Blue penguin](images/blue-penguin.png){#fig-blue-penguin}\n\nOutput:\nSee Figure 2 for a cute blue penguin.\n\n\n\nFigure 2: Blue penguin"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#table-cross-references",
-    "href": "1-3-documents/1-3-documents.html#table-cross-references",
-    "title": "Documents",
-    "section": "Table cross references",
-    "text": "Table cross references\nThe presence of the caption (A few penguins) and label (#tbl-penguins) make this table referenceable:\n\n\nMarkdown:\nSee @tbl-penguins for data on a few penguins.\n```{r}\n#| label: tbl-penguins\n#| tbl-cap: A few penguins\n\nhead(penguins) |&gt; \n  gt()\n```\n\nOutput:\nSee Table 1 for data on a few penguins.\n\nhead(penguins) |&gt; \n  gt()\n\n\n\n\nTable 1:  A few penguins \n  \n    \n    \n      species\n      island\n      bill_length_mm\n      bill_depth_mm\n      flipper_length_mm\n      body_mass_g\n      sex\n      year\n    \n  \n  \n    Adelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n    Adelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n    Adelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n    Adelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n    Adelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n    Adelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#our-turn",
-    "href": "1-3-documents/1-3-documents.html#our-turn",
-    "title": "Documents",
+    "objectID": "2-2-presentations/2-2-presentations.html#our-turn",
+    "href": "2-2-presentations/2-2-presentations.html#our-turn",
+    "title": "Presentations",
     "section": "Our turn",
-    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow along with me and the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
+    "text": "Our turn\n\nLet’s build a presentation together from hello-penguins-slides.qmd and showcase the following features of Quarto presentations:\n\nHierarchy, headers, and document outline\nIncremental lists\nColumns and tabsets\nCode, output location, code highlighting\nLogo and footer\nMaking things fit on a slide\nChalkboard"
   },
   {
-    "objectID": "1-3-documents/1-3-documents.html#learn-more",
-    "href": "1-3-documents/1-3-documents.html#learn-more",
-    "title": "Documents",
-    "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/authoring/markdown-basics.html"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#references",
-    "href": "1-3-documents/1-3-documents.html#references",
-    "title": "Documents",
-    "section": "References",
-    "text": "References\n\n\n\n ost-hs23.github.io/website/\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "1-2-github/index.html",
-    "href": "1-2-github/index.html",
-    "title": "GitHub",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-2-github/index.html#slides",
-    "href": "1-2-github/index.html#slides",
-    "title": "GitHub",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-2-github/index.html#exercises",
-    "href": "1-2-github/index.html#exercises",
-    "title": "GitHub",
-    "section": "Exercises",
-    "text": "Exercises\nThere are no starter files for the exercises in this module. You’ll create the files as part of the exercises."
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#version-control-with-git-and-github",
-    "href": "1-2-github/1-2-github.html#version-control-with-git-and-github",
-    "title": "GitHub",
-    "section": "Version Control with Git and GitHub",
-    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#why-is-it-useful",
-    "href": "1-2-github/1-2-github.html#why-is-it-useful",
-    "title": "GitHub",
-    "section": "Why is it useful?",
-    "text": "Why is it useful?"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#git-and-github",
-    "href": "1-2-github/1-2-github.html#git-and-github",
-    "title": "GitHub",
-    "section": "Git and GitHub",
-    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion\n100 million Users (20.5 in 2022 alone) (October 2023)"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#version-control---terminology",
-    "href": "1-2-github/1-2-github.html#version-control---terminology",
-    "title": "GitHub",
-    "section": "Version Control - Terminology",
-    "text": "Version Control - Terminology"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#our-turn",
-    "href": "1-2-github/1-2-github.html#our-turn",
-    "title": "GitHub",
-    "section": "Our turn",
-    "text": "Our turn\nStage -&gt; Commit -&gt; Push\n\n\nOpen your exercises repository in RStudio on Posit Cloud\nOpen the Git pane\nStage all files by clicking on the checkbox\nClick Commit button\nAdd a commit message\nClick Commit button\nClick Push button\nAdd GitHub username\nAdd GitHub Personal Access Token (PAT)\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#your-turn",
-    "href": "1-2-github/1-2-github.html#your-turn",
-    "title": "GitHub",
+    "objectID": "2-2-presentations/2-2-presentations.html#your-turn",
+    "href": "2-2-presentations/2-2-presentations.html#your-turn",
+    "title": "Presentations",
     "section": "Your turn",
-    "text": "Your turn\n\n\nExchange GitHub usernames with your neighbor\nOpen your exercises project in RStudio on Posit Cloud\nFind the issue tracker\nOpen an issue with the title “Prepare about.qmd for personal website”\nAdd yourself and your neighbor to the list of Assignees on the right panel\nAdd a comment to the issue and tag the course instructor (@larnsce) and the Assignee to ask for a review\nClick Submit new issue\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n🔗 ost-hs23.github.io/website/"
+    "text": "Your turn\n\nPick up where we left off and\n\nChange the transition style between slides (on quarto.org: search for “slide transitions” in  search bar)\nAdd slide numbers to your slides (on quarto.org: search for “slide numbers” in  search bar)\n\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "1-3-documents/index.html",
-    "href": "1-3-documents/index.html",
-    "title": "Documents",
-    "section": "",
-    "text": "View slides in full screen"
+    "objectID": "2-2-presentations/2-2-presentations.html#quarto-presentation-formats",
+    "href": "2-2-presentations/2-2-presentations.html#quarto-presentation-formats",
+    "title": "Presentations",
+    "section": "Quarto presentation formats",
+    "text": "Quarto presentation formats\n\nrevealjs for HTML slides\n\nEssentially the replacement for xaringan, but with Pandoc-native syntax\n\nbeamer for LaTeX slides\nPowerPoint for when you have to collaborate via MS Office"
   },
   {
-    "objectID": "1-3-documents/index.html#slides",
-    "href": "1-3-documents/index.html#slides",
-    "title": "Documents",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-3-documents/index.html#exercises",
-    "href": "1-3-documents/index.html#exercises",
-    "title": "Documents",
-    "section": "Exercises",
-    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd\n markdown-syntax.qmd\n callout-boxes.qmd\n tables-figures.qmd\n\n quarto-logo.png"
-  },
-  {
-    "objectID": "2-5-develop/index.html",
-    "href": "2-5-develop/index.html",
-    "title": "Develop",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-5-develop/index.html#slides",
-    "href": "2-5-develop/index.html#slides",
-    "title": "Develop",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "2-5-develop/index.html#exercises",
-    "href": "2-5-develop/index.html#exercises",
-    "title": "Develop",
-    "section": "Exercises",
-    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
-  },
-  {
-    "objectID": "2-6-wrap-up/2-6-wrap-up.html#learn-more",
-    "href": "2-6-wrap-up/2-6-wrap-up.html#learn-more",
-    "title": "Wrap-up",
+    "objectID": "2-2-presentations/2-2-presentations.html#learn-more",
+    "href": "2-2-presentations/2-2-presentations.html#learn-more",
+    "title": "Presentations",
     "section": "Learn more",
-    "text": "Learn more\n\nhttps://quarto.org"
+    "text": "Learn more\n\nquarto.org/docs/presentations\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
-    "objectID": "2-6-wrap-up/2-6-wrap-up.html#follow-up-with",
-    "href": "2-6-wrap-up/2-6-wrap-up.html#follow-up-with",
-    "title": "Wrap-up",
-    "section": "Follow up with…",
-    "text": "Follow up with…\n\nquarto.org/docs/blog"
-  },
-  {
-    "objectID": "2-6-wrap-up/2-6-wrap-up.html#creating-a-minimum-reproducible-example",
-    "href": "2-6-wrap-up/2-6-wrap-up.html#creating-a-minimum-reproducible-example",
-    "title": "Wrap-up",
-    "section": "Creating a minimum reproducible example",
-    "text": "Creating a minimum reproducible example\n\nFor any coding question, start by creating a minimum reproducible example (reprex)\nYou’ll find that this task is less than trivial for a complex Quarto project\nBut there’s a good chance you’ll solve your problem while creating the reprex"
-  },
-  {
-    "objectID": "2-6-wrap-up/2-6-wrap-up.html#getting-help",
-    "href": "2-6-wrap-up/2-6-wrap-up.html#getting-help",
-    "title": "Wrap-up",
-    "section": "Getting help",
-    "text": "Getting help\n\nJoin ghe-open room on Matrix Chat with Element: https://matrix.to/#/#ghe-open:staffchat.ethz.ch\nReview the Quarto FAQ: https://quarto.org/docs/faq\nHave a question, post on GitHub Discussion: https://github.com/quarto-dev/quarto-cli/discussions\nFound (or think you found) a bug or have a feature request, open an issue: https://github.com/quarto-dev/quarto-cli/issues"
-  },
-  {
-    "objectID": "2-6-wrap-up/2-6-wrap-up.html#thank-you",
-    "href": "2-6-wrap-up/2-6-wrap-up.html#thank-you",
-    "title": "Wrap-up",
-    "section": "Thank you!",
-    "text": "Thank you!\n🐘 https://fosstodon.org/@larnsce"
-  },
-  {
-    "objectID": "2-6-wrap-up/2-6-wrap-up.html#questions",
-    "href": "2-6-wrap-up/2-6-wrap-up.html#questions",
-    "title": "Wrap-up",
-    "section": "Questions",
-    "text": "Questions\n\nAny questions / anything you’d like to review or learn before we wrap up this course?\n\n\n\n\n ost-hs23.github.io/website/"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section",
-    "href": "0-1-overview/0-1-overview.html#section",
-    "title": "Overview",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
     "section": "",
-    "text": "Who has a LinkedIn account?"
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet on Zoom at the following times:\nPlease ensure you have the following available:\nThis course uses participatory live coding techniques and it is advantageous to have a second screen available. One screen can be used to watch the Zoom meeting and the other screen can be used to follow along with the live coding.\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#section-1",
-    "href": "0-1-overview/0-1-overview.html#section-1",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has an ORCID iD?"
+    "objectID": "index.html#what-do-i-need-to-prepare-before-day-1",
+    "href": "index.html#what-do-i-need-to-prepare-before-day-1",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
+    "section": " What do I need to prepare before Day 1?",
+    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Register your ORCID iD\nStep 2: Log into Posit Cloud and join the course workspace\nStep 3: Create an account for Quarto Pub\nStep 4: Fill out the pre-course survey by Tuesday, 2nd April\nStep 5: Read Wilson et al. (2017) and prepare for a discussion",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#section-2",
-    "href": "0-1-overview/0-1-overview.html#section-2",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has a GitHub account?"
+    "objectID": "index.html#day-1",
+    "href": "index.html#day-1",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
+    "section": "Day 1",
+    "text": "Day 1\n\n\n\n\n\nTime\nModule\n\n\n\n\n12:00 - 13:00\nHello Quarto\n\n\n13:00 - 13:10\nBreak\n\n\n13:10 - 14:00\nDocuments",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#section-3",
-    "href": "0-1-overview/0-1-overview.html#section-3",
-    "title": "Overview",
-    "section": "",
-    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
+    "objectID": "index.html#day-2",
+    "href": "index.html#day-2",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
+    "section": "Day 2",
+    "text": "Day 2\n\n\n\n\n\nTime\nModule\n\n\n\n\n12:00 - 13:00\nPresentations\n\n\n13:00 - 13:10\nBreak\n\n\n13:10 - 14:00\nPublish",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#section-4",
-    "href": "0-1-overview/0-1-overview.html#section-4",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has a personal homepage?"
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nLearn to use Quarto Pub to publish a website and share research with a broader audience.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#section-5",
-    "href": "0-1-overview/0-1-overview.html#section-5",
-    "title": "Overview",
-    "section": "",
-    "text": "Who has published a report, scientific article, or similar?"
+    "objectID": "index.html#thanks",
+    "href": "index.html#thanks",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
+    "section": "Thanks!",
+    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
-    "objectID": "0-1-overview/0-1-overview.html#your-turn",
-    "href": "0-1-overview/0-1-overview.html#your-turn",
-    "title": "Overview",
-    "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-6",
-    "href": "0-1-overview/0-1-overview.html#section-6",
-    "title": "Overview",
-    "section": "",
-    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-7",
-    "href": "0-1-overview/0-1-overview.html#section-7",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-15",
-    "href": "0-1-overview/0-1-overview.html#section-15",
-    "title": "Overview",
-    "section": "",
-    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-16",
-    "href": "0-1-overview/0-1-overview.html#section-16",
-    "title": "Overview",
-    "section": "",
-    "text": "ost-hs23.github.io/website"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#section-17",
-    "href": "0-1-overview/0-1-overview.html#section-17",
-    "title": "Overview",
-    "section": "",
-    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
-  },
-  {
-    "objectID": "0-1-overview/0-1-overview.html#thanks",
-    "href": "0-1-overview/0-1-overview.html#thanks",
-    "title": "Overview",
-    "section": "Thanks ",
-    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n ost-hs23.github.io/website"
+    "objectID": "index.html#attribution",
+    "href": "index.html#attribution",
+    "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
+    "section": "Attribution",
+    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "Pre-course work"
+    ]
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#email-from-github",
@@ -1110,294 +549,784 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-3",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\nIn your exercises project in RStudio on Posit Cloud, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "text": "Your turn\n\nIn your exercises project in RStudio on Posit Cloud, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pre-course work - Open Science Tools HS23",
+    "objectID": "0-1-overview/0-1-overview.html#section",
+    "href": "0-1-overview/0-1-overview.html#section",
+    "title": "Overview",
     "section": "",
-    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet in Room HG F 33.5 at the following times:\nPlease ensure you bring the following items to class:\nPrior to Day 1, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
-    "crumbs": [
-      "Pre-course work"
-    ]
+    "text": "Who has a LinkedIn account?"
   },
   {
-    "objectID": "index.html#what-do-i-need-to-prepare-before-day-1",
-    "href": "index.html#what-do-i-need-to-prepare-before-day-1",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": " What do I need to prepare before Day 1?",
-    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Get an account on GitHub and setup a GitHub Personal Access Token (PAT)\nStep 2: Register for an ORCID iD\nStep 3: Sign-up for Zotero and setup Zotero reference management software\nStep 4: Log into Posit Cloud and join the workspace for the course\nStep 5: Log into Element and join the room for our course\nStep 6: Fill out the pre-course survey by Friday, 13th October\nStep 7: Read Wilson et al. (2017) and prepare for a discussion",
-    "crumbs": [
-      "Pre-course work"
-    ]
+    "objectID": "0-1-overview/0-1-overview.html#section-1",
+    "href": "0-1-overview/0-1-overview.html#section-1",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has an ORCID iD?"
   },
   {
-    "objectID": "index.html#day-1",
-    "href": "index.html#day-1",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Day 1",
-    "text": "Day 1\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:35\nHello Quarto\n\n\n09:35 - 09:45\nBreak\n\n\n09:45 - 10:15\nGitHub\n\n\n10:15 - 10:55\nDocuments\n\n\n10:55 - 11:05\nBreak\n\n\n11:05 - 11:50\nDocuments",
-    "crumbs": [
-      "Pre-course work"
-    ]
+    "objectID": "0-1-overview/0-1-overview.html#section-2",
+    "href": "0-1-overview/0-1-overview.html#section-2",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a GitHub account?"
   },
   {
-    "objectID": "index.html#day-2",
-    "href": "index.html#day-2",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Day 2",
-    "text": "Day 2\n\n\n\n\n\nTime\nModule\n\n\n\n\n08:30 - 09:00\nScholarly Writing\n\n\n09:00 - 09:45\nPresentations\n\n\n09:45 - 10:00\nBreak\n\n\n10:00 - 10:45\nWebsites\n\n\n10:45 - 11:00\nPublish\n\n\n11:00 - 11:15\nBreak\n\n\n11:15 - 12:15\nDevelop\n\n\n12:15 - 12:30\nWrap-up",
-    "crumbs": [
-      "Pre-course work"
-    ]
+    "objectID": "0-1-overview/0-1-overview.html#section-3",
+    "href": "0-1-overview/0-1-overview.html#section-3",
+    "title": "Overview",
+    "section": "",
+    "text": "Who uses a reference management system? (e.g. Mendeley, EndNote, Zotero)"
   },
   {
-    "objectID": "index.html#thanks",
-    "href": "index.html#thanks",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. You will hear from us again a day before the start of the course.",
-    "crumbs": [
-      "Pre-course work"
-    ]
+    "objectID": "0-1-overview/0-1-overview.html#section-4",
+    "href": "0-1-overview/0-1-overview.html#section-4",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has a personal homepage?"
   },
   {
-    "objectID": "index.html#attribution",
-    "href": "index.html#attribution",
-    "title": "Pre-course work - Open Science Tools HS23",
-    "section": "Attribution",
-    "text": "Attribution\nContent was re-used from a workshop hosted by Mine Çetinkaya-Rundel at the 2023 Symposium on Data Science and Statistics and stored at https://github.com/mine-cetinkaya-rundel/quarto-sdss. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "Pre-course work"
-    ]
+    "objectID": "0-1-overview/0-1-overview.html#section-5",
+    "href": "0-1-overview/0-1-overview.html#section-5",
+    "title": "Overview",
+    "section": "",
+    "text": "Who has published a report, scientific article, or similar?"
   },
   {
-    "objectID": "2-2-presentations/2-2-presentations.html#components",
-    "href": "2-2-presentations/2-2-presentations.html#components",
-    "title": "Presentations",
+    "objectID": "0-1-overview/0-1-overview.html#your-turn",
+    "href": "0-1-overview/0-1-overview.html#your-turn",
+    "title": "Overview",
+    "section": "Your turn",
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-6",
+    "href": "0-1-overview/0-1-overview.html#section-6",
+    "title": "Overview",
+    "section": "",
+    "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-7",
+    "href": "0-1-overview/0-1-overview.html#section-7",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto\nRStudio IDE\nZotero\nGit\nGitHub\nMatrix"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-15",
+    "href": "0-1-overview/0-1-overview.html#section-15",
+    "title": "Overview",
+    "section": "",
+    "text": "Quarto is a new, open-source, scientific and technical publishing system\n\nthe goal is to make the process of creating and collaborating dramatically better\n\n\n\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-16",
+    "href": "0-1-overview/0-1-overview.html#section-16",
+    "title": "Overview",
+    "section": "",
+    "text": "ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#section-17",
+    "href": "0-1-overview/0-1-overview.html#section-17",
+    "title": "Overview",
+    "section": "",
+    "text": "matrix.to/#/#ghe-open:staffchat.ethz.ch\n\n\nInstructions on openwashdata.org (under Get Started -&gt; Chat)"
+  },
+  {
+    "objectID": "0-1-overview/0-1-overview.html#thanks",
+    "href": "0-1-overview/0-1-overview.html#thanks",
+    "title": "Overview",
+    "section": "Thanks ",
+    "text": "Thanks \n\nContact: lschoebitz@ethz.ch\nDownload slides as PDF\n\n\n\n\n\n ost-hs23.github.io/website"
+  },
+  {
+    "objectID": "2-6-wrap-up/2-6-wrap-up.html#learn-more",
+    "href": "2-6-wrap-up/2-6-wrap-up.html#learn-more",
+    "title": "Wrap-up",
+    "section": "Learn more",
+    "text": "Learn more\n\nhttps://quarto.org"
+  },
+  {
+    "objectID": "2-6-wrap-up/2-6-wrap-up.html#follow-up-with",
+    "href": "2-6-wrap-up/2-6-wrap-up.html#follow-up-with",
+    "title": "Wrap-up",
+    "section": "Follow up with…",
+    "text": "Follow up with…\n\nquarto.org/docs/blog"
+  },
+  {
+    "objectID": "2-6-wrap-up/2-6-wrap-up.html#creating-a-minimum-reproducible-example",
+    "href": "2-6-wrap-up/2-6-wrap-up.html#creating-a-minimum-reproducible-example",
+    "title": "Wrap-up",
+    "section": "Creating a minimum reproducible example",
+    "text": "Creating a minimum reproducible example\n\nFor any coding question, start by creating a minimum reproducible example (reprex)\nYou’ll find that this task is less than trivial for a complex Quarto project\nBut there’s a good chance you’ll solve your problem while creating the reprex"
+  },
+  {
+    "objectID": "2-6-wrap-up/2-6-wrap-up.html#getting-help",
+    "href": "2-6-wrap-up/2-6-wrap-up.html#getting-help",
+    "title": "Wrap-up",
+    "section": "Getting help",
+    "text": "Getting help\n\nJoin ghe-open room on Matrix Chat with Element: https://matrix.to/#/#ghe-open:staffchat.ethz.ch\nReview the Quarto FAQ: https://quarto.org/docs/faq\nHave a question, post on GitHub Discussion: https://github.com/quarto-dev/quarto-cli/discussions\nFound (or think you found) a bug or have a feature request, open an issue: https://github.com/quarto-dev/quarto-cli/issues"
+  },
+  {
+    "objectID": "2-6-wrap-up/2-6-wrap-up.html#thank-you",
+    "href": "2-6-wrap-up/2-6-wrap-up.html#thank-you",
+    "title": "Wrap-up",
+    "section": "Thank you!",
+    "text": "Thank you!\n🐘 https://fosstodon.org/@larnsce"
+  },
+  {
+    "objectID": "2-6-wrap-up/2-6-wrap-up.html#questions",
+    "href": "2-6-wrap-up/2-6-wrap-up.html#questions",
+    "title": "Wrap-up",
+    "section": "Questions",
+    "text": "Questions\n\nAny questions / anything you’d like to review or learn before we wrap up this course?\n\n\n\n\n\n ost-hs23.github.io/website/"
+  },
+  {
+    "objectID": "2-5-develop/index.html",
+    "href": "2-5-develop/index.html",
+    "title": "Develop",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-5-develop/index.html#slides",
+    "href": "2-5-develop/index.html#slides",
+    "title": "Develop",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-5-develop/index.html#exercises",
+    "href": "2-5-develop/index.html#exercises",
+    "title": "Develop",
+    "section": "Exercises",
+    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
+  },
+  {
+    "objectID": "1-3-documents/index.html",
+    "href": "1-3-documents/index.html",
+    "title": "Documents",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "1-3-documents/index.html#slides",
+    "href": "1-3-documents/index.html#slides",
+    "title": "Documents",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "1-3-documents/index.html#exercises",
+    "href": "1-3-documents/index.html#exercises",
+    "title": "Documents",
+    "section": "Exercises",
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd\n markdown-syntax.qmd\n callout-boxes.qmd\n tables-figures.qmd\n\n quarto-logo.png"
+  },
+  {
+    "objectID": "1-2-github/1-2-github.html#version-control-with-git-and-github",
+    "href": "1-2-github/1-2-github.html#version-control-with-git-and-github",
+    "title": "GitHub",
+    "section": "Version Control with Git and GitHub",
+    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
+  },
+  {
+    "objectID": "1-2-github/1-2-github.html#why-is-it-useful",
+    "href": "1-2-github/1-2-github.html#why-is-it-useful",
+    "title": "GitHub",
+    "section": "Why is it useful?",
+    "text": "Why is it useful?"
+  },
+  {
+    "objectID": "1-2-github/1-2-github.html#git-and-github",
+    "href": "1-2-github/1-2-github.html#git-and-github",
+    "title": "GitHub",
+    "section": "Git and GitHub",
+    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion\n100 million Users (20.5 in 2022 alone) (October 2023)"
+  },
+  {
+    "objectID": "1-2-github/1-2-github.html#version-control---terminology",
+    "href": "1-2-github/1-2-github.html#version-control---terminology",
+    "title": "GitHub",
+    "section": "Version Control - Terminology",
+    "text": "Version Control - Terminology"
+  },
+  {
+    "objectID": "1-2-github/1-2-github.html#our-turn",
+    "href": "1-2-github/1-2-github.html#our-turn",
+    "title": "GitHub",
+    "section": "Our turn",
+    "text": "Our turn\nStage -&gt; Commit -&gt; Push\n\n\nOpen your exercises repository in RStudio on Posit Cloud\nOpen the Git pane\nStage all files by clicking on the checkbox\nClick Commit button\nAdd a commit message\nClick Commit button\nClick Push button\nAdd GitHub username\nAdd GitHub Personal Access Token (PAT)\n\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "1-2-github/1-2-github.html#your-turn",
+    "href": "1-2-github/1-2-github.html#your-turn",
+    "title": "GitHub",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nExchange GitHub usernames with your neighbor\nOpen your exercises project in RStudio on Posit Cloud\nFind the issue tracker\nOpen an issue with the title “Prepare about.qmd for personal website”\nAdd yourself and your neighbor to the list of Assignees on the right panel\nAdd a comment to the issue and tag the course instructor (@larnsce) and the Assignee to ask for a review\nClick Submit new issue\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n\n🔗 ost-hs23.github.io/website/"
+  },
+  {
+    "objectID": "1-2-github/index.html",
+    "href": "1-2-github/index.html",
+    "title": "GitHub",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "1-2-github/index.html#slides",
+    "href": "1-2-github/index.html#slides",
+    "title": "GitHub",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "1-2-github/index.html#exercises",
+    "href": "1-2-github/index.html#exercises",
+    "title": "GitHub",
+    "section": "Exercises",
+    "text": "Exercises\nThere are no starter files for the exercises in this module. You’ll create the files as part of the exercises."
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#components",
+    "href": "1-3-documents/1-3-documents.html#components",
+    "title": "Documents",
     "section": "Components",
-    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have a beautiful, functional slide deck!"
+    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have beautiful, powerful, and useful outputs!"
   },
   {
-    "objectID": "2-2-presentations/2-2-presentations.html#our-turn",
-    "href": "2-2-presentations/2-2-presentations.html#our-turn",
-    "title": "Presentations",
-    "section": "Our turn",
-    "text": "Our turn\n\nLet’s build a presentation together from hello-penguins-slides.qmd and showcase the following features of Quarto presentations:\n\nHierarchy, headers, and document outline\nIncremental lists\nColumns and tabsets\nCode, output location, code highlighting\nLogo and footer\nMaking things fit on a slide\nChalkboard"
+    "objectID": "1-3-documents/1-3-documents.html#literate-programming",
+    "href": "1-3-documents/1-3-documents.html#literate-programming",
+    "title": "Documents",
+    "section": "Literate programming",
+    "text": "Literate programming\nLiterate programming is writing out the program logic in a human language with included (separated by a primitive markup) code snippets and macros.\n---\ntitle: \"ggplot2 demo\"\ndate: \"5/23/2023\"\nformat: html\n---\n\n## MPG\n\nThere is a relationship between city and highway mileage.\n\n```{r}\n#| label: fig-mpg\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(x = cty, y = hwy)) + \n  geom_point() + \n  geom_smooth(method = \"loess\")\n```\n\n\nSource: https://en.wikipedia.org/wiki/Literate_programming"
   },
   {
-    "objectID": "2-2-presentations/2-2-presentations.html#your-turn",
-    "href": "2-2-presentations/2-2-presentations.html#your-turn",
-    "title": "Presentations",
+    "objectID": "1-3-documents/1-3-documents.html#yaml",
+    "href": "1-3-documents/1-3-documents.html#yaml",
+    "title": "Documents",
+    "section": "YAML",
+    "text": "YAML\n“Yet Another Markup Language” or “YAML Ain’t Markup Language” is used to provide document level metadata.\n---\nkey: value\n---"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#output-options",
+    "href": "1-3-documents/1-3-documents.html#output-options",
+    "title": "Documents",
+    "section": "Output options",
+    "text": "Output options\n---\nformat: something\n---\n\n\n---\nformat: html\n---\n---\nformat: pdf\n---\n---\nformat: revealjs\n---"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#output-option-arguments",
+    "href": "1-3-documents/1-3-documents.html#output-option-arguments",
+    "title": "Documents",
+    "section": "Output option arguments",
+    "text": "Output option arguments\nIndentation matters!\n---\nformat: \n  html:\n    toc: true\n    code-fold: true\n---"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#yaml-validation",
+    "href": "1-3-documents/1-3-documents.html#yaml-validation",
+    "title": "Documents",
+    "section": "YAML validation",
+    "text": "YAML validation\n\nInvalid: No space after :\n\n---\nformat:html\n---\n\nInvalid: Read as missing\n\n---\nformat:\nhtml\n---"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#yaml-validation-1",
+    "href": "1-3-documents/1-3-documents.html#yaml-validation-1",
+    "title": "Documents",
+    "section": "YAML validation",
+    "text": "YAML validation\nThere are multiple ways of formatting valid YAML:\n\nValid: There’s a space after :\n\nformat: html\n\nValid: format: html with selections made with proper indentation\n\nformat: \n  html:\n    toc: true"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#quarto-linting",
+    "href": "1-3-documents/1-3-documents.html#quarto-linting",
+    "title": "Documents",
+    "section": "Quarto linting",
+    "text": "Quarto linting\nLint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.\n\n\n\n\nSource: https://en.wikipedia.org/wiki/Lint_(software)"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
+    "href": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
+    "title": "Documents",
+    "section": "Quarto YAML Intelligence",
+    "text": "Quarto YAML Intelligence\nRStudio + VSCode provide rich tab-completion - start a word and tab to complete, or Ctrl + space to see all available options."
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#your-turn",
+    "href": "1-3-documents/1-3-documents.html#your-turn",
+    "title": "Documents",
     "section": "Your turn",
-    "text": "Your turn\n\nPick up where we left off and\n\nChange the transition style between slides (on quarto.org: search for “slide transitions” in  search bar)\nAdd slide numbers to your slides (on quarto.org: search for “slide numbers” in  search bar)\n\n\n\n\n\n−+\n05:00"
+    "text": "Your turn\n\n\nOpen hello-penguins.qmd in your exercises project in RStudio on Posit Cloud.\nIn the YAML header, try Ctrl + space to see the available YAML options.\nTry out the tab-completion of any options you remember.\nYou can use the HTML reference as needed.\n\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "2-2-presentations/2-2-presentations.html#quarto-presentation-formats",
-    "href": "2-2-presentations/2-2-presentations.html#quarto-presentation-formats",
-    "title": "Presentations",
-    "section": "Quarto presentation formats",
-    "text": "Quarto presentation formats\n\nrevealjs for HTML slides\n\nEssentially the replacement for xaringan, but with Pandoc-native syntax\n\nbeamer for LaTeX slides\nPowerPoint for when you have to collaborate via MS Office"
+    "objectID": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
+    "href": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
+    "title": "Documents",
+    "section": "List of valid YAML fields",
+    "text": "List of valid YAML fields\n\nMany YAML fields are common across various outputs\nBut also each output type has its own set of valid YAML fields and options\nDefinitive list: quarto.org/docs/reference/formats/html"
   },
   {
-    "objectID": "2-2-presentations/2-2-presentations.html#learn-more",
-    "href": "2-2-presentations/2-2-presentations.html#learn-more",
-    "title": "Presentations",
-    "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/presentations\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "objectID": "1-3-documents/1-3-documents.html#text-formatting",
+    "href": "1-3-documents/1-3-documents.html#text-formatting",
+    "title": "Documents",
+    "section": "Text Formatting",
+    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* and **bold**\nitalics and bold\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\nstrikethrough\n\n\n`verbatim code`\nverbatim code"
   },
   {
-    "objectID": "2-3-websites/2-3-websites.html#quarto-projects",
-    "href": "2-3-websites/2-3-websites.html#quarto-projects",
-    "title": "Websites",
-    "section": "Quarto projects",
-    "text": "Quarto projects\n\nQuarto projects have a _quarto.yml file\nThe type field in this file indicates the type of project:\n\ndefault: Collection of documents\nwebsite: Websites (and blogs)\nbooks: Books 😃"
+    "objectID": "1-3-documents/1-3-documents.html#headings",
+    "href": "1-3-documents/1-3-documents.html#headings",
+    "title": "Documents",
+    "section": "Headings",
+    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6"
   },
   {
-    "objectID": "2-3-websites/2-3-websites.html#quarto-websites",
-    "href": "2-3-websites/2-3-websites.html#quarto-websites",
-    "title": "Websites",
-    "section": "Quarto websites",
-    "text": "Quarto websites\n\nWebsites are essentially format: html + a Quarto Project\nBut a website is different than format: html in that it has multiple pages\nWebsites are our first exploration into Quarto Projects\nWebsites and books are very similar in that they associate multiple pages/resources into a connected resource"
+    "objectID": "1-3-documents/1-3-documents.html#links",
+    "href": "1-3-documents/1-3-documents.html#links",
+    "title": "Documents",
+    "section": "Links",
+    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like &lt;https://quarto.org/&gt;, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: \n![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
   },
   {
-    "objectID": "2-3-websites/2-3-websites.html#our-turn",
-    "href": "2-3-websites/2-3-websites.html#our-turn",
-    "title": "Websites",
-    "section": "Our turn",
-    "text": "Our turn\n\nLet’s build a website together from scratch. We will highlight the following feautures of Quarto websites:\n\n_quarto.yml\nindex.qmd & about.qmd / landing page / change landing page\nNavigation\nFreeze\nAn aspect of the workshop webpage that you fancy?"
+    "objectID": "1-3-documents/1-3-documents.html#lists",
+    "href": "1-3-documents/1-3-documents.html#lists",
+    "title": "Documents",
+    "section": "Lists",
+    "text": "Lists\nUnordered list:\n\n\nMarkdown:\n-   unordered list         \n    -   sub-item 1         \n    -   sub-item 1         \n        -   sub-sub-item 1 \n\nOutput\n\nunordered list\n\nsub-item 1\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\nOrdered list:\n\n\nMarkdown:\n1. ordered list            \n2. item 2                  \n    i. sub-item 1          \n         A.  sub-sub-item 1\n\nOutput\n\nordered list\n\nitem 2\n\nsub-item 1\n\nsub-sub-item 1"
   },
   {
-    "objectID": "2-3-websites/2-3-websites.html#your-turn",
-    "href": "2-3-websites/2-3-websites.html#your-turn",
-    "title": "Websites",
+    "objectID": "1-3-documents/1-3-documents.html#quotes",
+    "href": "1-3-documents/1-3-documents.html#quotes",
+    "title": "Documents",
+    "section": "Quotes",
+    "text": "Quotes\nMarkdown:\n&gt; Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. \n&gt; - Donald Knuth, Literate Programming\n\nOutput:\n\nLet us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. - Donald Knuth, Literate Programming\n\n\n\n\nKnuth (1984)"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#your-turn-1",
+    "href": "1-3-documents/1-3-documents.html#your-turn-1",
+    "title": "Documents",
     "section": "Your turn",
-    "text": "Your turn\n\nPick up where we left off and\n\nAdd your details to the about page about page.\n\n\n\n\n\n−+\n10:00"
+    "text": "Your turn\n\n\nOpen markdown-syntax.qmd in RStudio.\nUse the source editor mode\nFollow the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "2-3-websites/2-3-websites.html#learn-more",
-    "href": "2-3-websites/2-3-websites.html#learn-more",
-    "title": "Websites",
-    "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/websites\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "objectID": "1-3-documents/1-3-documents.html#callouts",
+    "href": "1-3-documents/1-3-documents.html#callouts",
+    "title": "Documents",
+    "section": "Callouts",
+    "text": "Callouts\n::: callout-note\nNote that there are five types of callouts, including: \n`note`, `tip`, `warning`, `caution`, and `important`.\n:::\n\n\n\n\n\n\nNote\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important."
   },
   {
-    "objectID": "0-3-homework/0-2-bibliography.html",
-    "href": "0-3-homework/0-2-bibliography.html",
-    "title": "Bibliography",
-    "section": "",
-    "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ &gt; New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
+    "objectID": "1-3-documents/1-3-documents.html#more-callouts",
+    "href": "1-3-documents/1-3-documents.html#more-callouts",
+    "title": "Documents",
+    "section": "More callouts",
+    "text": "More callouts\n\n\n\n\n\n\nWarning\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\n\nImportant\n\n\nDanger, callouts will really improve your writing.\n\n\n\n\n\n\n\n\n\nCaution\n\n\nHere is something under construction.\n\n\n\n\n\n\n\n\n\nCaption\n\n\nTip with caption."
   },
   {
-    "objectID": "0-3-homework/0-2-bibliography.html#literature-research",
-    "href": "0-3-homework/0-2-bibliography.html#literature-research",
-    "title": "Bibliography",
-    "section": "",
-    "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ &gt; New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
+    "objectID": "1-3-documents/1-3-documents.html#your-turn-2",
+    "href": "1-3-documents/1-3-documents.html#your-turn-2",
+    "title": "Documents",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen callout-boxes.qmd and render the document.\nUsing the visual editor mode, change the type of the first callouts box and then re-render. Also play with the options to change its appearance.\nAdd a caption to the second callout box.\nMake the third callout box collapsible. Then, switch over to the source editor to inspect the markdown code.\nChange the format to PDF and re-render.\n\n\n\n\n\n−+\n10:00"
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html",
-    "href": "0-3-homework/0-3-about-page.html",
-    "title": "About",
-    "section": "",
-    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.\nHere is some guidance:"
+    "objectID": "1-3-documents/1-3-documents.html#footnotes",
+    "href": "1-3-documents/1-3-documents.html#footnotes",
+    "title": "Documents",
+    "section": "Footnotes",
+    "text": "Footnotes\nPandoc supports numbering and formatting footnotes."
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html#about-pages",
-    "href": "0-3-homework/0-3-about-page.html#about-pages",
-    "title": "About",
-    "section": "",
-    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.\nHere is some guidance:"
+    "objectID": "1-3-documents/1-3-documents.html#inline-footnotes",
+    "href": "1-3-documents/1-3-documents.html#inline-footnotes",
+    "title": "Documents",
+    "section": "Inline footnotes",
+    "text": "Inline footnotes\nHere is an inline note.^[Inlines notes are easier to write,\nsince you don't have to pick an identifier and move down to\ntype the note.]\nHere is an inline note.1\nInline notes are easier to write, since you don’t have to pick an identifier and move down to type the note."
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html#step-1",
-    "href": "0-3-homework/0-3-about-page.html#step-1",
-    "title": "About",
-    "section": "Step 1",
-    "text": "Step 1\n\nCollect links to your online profiles (e.g. GitHub, LinkedIn, ORCID, etc.)\nWrite a short biography about yourself (1 paragraph, 2 two 3 sentences)\nFind a photo that you would like to show (can be portrait, can be a logo, can be an photo of something you like)"
+    "objectID": "1-3-documents/1-3-documents.html#inline-footnotes-1",
+    "href": "1-3-documents/1-3-documents.html#inline-footnotes-1",
+    "title": "Documents",
+    "section": "Inline footnotes",
+    "text": "Inline footnotes\nHere is a footnote reference[^1]\n\n[^1]: This can be easy in some situations when you have a really long note or\ndon't want to inline complex outputs.\n\nHere is a footnote reference1\n\n\nNotice in both situations that the footnote is placed at the bottom of the page in presentations, whereas in a document it would be hoverable or at the end of the document.\n\nThis can be easy in some situations when you have a really long note or don’t want to inline complex outputs."
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html#step-2",
-    "href": "0-3-homework/0-3-about-page.html#step-2",
-    "title": "About",
-    "section": "Step 2",
-    "text": "Step 2\nWrite up your About page using the Quarto file format.\n\nOpen your exercises in RStudio on Posit Cloud\nCreate a new Quarto Doc and name it about.qmd\nUse the Quarto documentation for About Pages to write up your page\n\n\n\n\n\n\n\nAdd profile photo\n\n\n\n\n\nIf you want to add your profile, then you can add it to your exercises repository on GitHub and then try the pull functionality in RStudio on Posit Cloud.\n\nUpload photo to GitHub\n\n\n\n\n\n\n\nPull from RStudio"
+    "objectID": "1-3-documents/1-3-documents.html#anatomy-of-a-code-chunk",
+    "href": "1-3-documents/1-3-documents.html#anatomy-of-a-code-chunk",
+    "title": "Documents",
+    "section": "Anatomy of a code chunk",
+    "text": "Anatomy of a code chunk\n\n\n\n```{r}\n#| label: car-stuff\n#| message: false\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n\npenguins |&gt; \n  distinct(species)\n```\n\n# A tibble: 3 × 1\n  species  \n  &lt;fct&gt;    \n1 Adelie   \n2 Gentoo   \n3 Chinstrap\n\n\n\n\nHas 3x backticks on each end\nEngine (r) is indicated between curly braces {r}\nOptions stated with the #| (hashpipe): #| option1: value"
   },
   {
-    "objectID": "2-4-publish/2-4-publish.html#github-pages",
-    "href": "2-4-publish/2-4-publish.html#github-pages",
-    "title": "Publish",
-    "section": "GitHub Pages",
-    "text": "GitHub Pages\n\nGitHub Pages is a free service for hosting static websites. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
+    "objectID": "1-3-documents/1-3-documents.html#code-who-is-it-for",
+    "href": "1-3-documents/1-3-documents.html#code-who-is-it-for",
+    "title": "Documents",
+    "section": "Code, who is it for?",
+    "text": "Code, who is it for?\n\n\nThe way you display code is very different for different contexts.\nIn a teaching scenario like today, I really want to display code.\nIn a business, you may want to have a data-science facing output which displays the source code AND a stakeholder-facing output which hides the code."
   },
   {
-    "objectID": "2-4-publish/2-4-publish.html#quartopub",
-    "href": "2-4-publish/2-4-publish.html#quartopub",
-    "title": "Publish",
-    "section": "QuartoPub",
-    "text": "QuartoPub\n\nQuarto Pub is a free publishing service for content created with Quarto. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites.\nPublish with quarto publish:\n\n\n\nTerminal\n\nquarto publish quarto-pub\n\n\nGain a _publish.yml that is safe to check into version control."
+    "objectID": "1-3-documents/1-3-documents.html#showing-and-hiding-code-with-echo",
+    "href": "1-3-documents/1-3-documents.html#showing-and-hiding-code-with-echo",
+    "title": "Documents",
+    "section": "Showing and hiding code with echo",
+    "text": "Showing and hiding code with echo\n\nThe echo option shows the code when set to true and hides it when set to false."
   },
   {
-    "objectID": "2-4-publish/2-4-publish.html#other-venues",
-    "href": "2-4-publish/2-4-publish.html#other-venues",
-    "title": "Publish",
-    "section": "Other venues",
-    "text": "Other venues\n\nPosit Connect\nNetlify\nConfluence\nMore venues"
+    "objectID": "1-3-documents/1-3-documents.html#tables-and-figures",
+    "href": "1-3-documents/1-3-documents.html#tables-and-figures",
+    "title": "Documents",
+    "section": "Tables and figures",
+    "text": "Tables and figures\n\nIn reproducible reports and manuscripts, the most commonly included code outputs are tables and figures.\nSo they get their own special sections in our deep dive!"
   },
   {
-    "objectID": "2-4-publish/2-4-publish.html#our-turn",
-    "href": "2-4-publish/2-4-publish.html#our-turn",
-    "title": "Publish",
+    "objectID": "1-3-documents/1-3-documents.html#markdown-tables",
+    "href": "1-3-documents/1-3-documents.html#markdown-tables",
+    "title": "Documents",
+    "section": "Markdown tables",
+    "text": "Markdown tables\nMarkdown:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\nOutput:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#grid-tables",
+    "href": "1-3-documents/1-3-documents.html#grid-tables",
+    "title": "Documents",
+    "section": "Grid tables",
+    "text": "Grid tables\nMarkdown:\n+---------------+---------------+--------------------+\n| Fruit         | Price         | Advantages         |\n+===============+===============+====================+\n| Bananas       | $1.34         | - built-in wrapper |\n|               |               | - bright color     |\n+---------------+---------------+--------------------+\n| Oranges       | $2.10         | - cures scurvy     |\n|               |               | - tasty            |\n+---------------+---------------+--------------------+\n\n: Sample grid table."
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#grid-tables-1",
+    "href": "1-3-documents/1-3-documents.html#grid-tables-1",
+    "title": "Documents",
+    "section": "Grid tables",
+    "text": "Grid tables\nOutput:\n\nSample grid table.\n\n\n\n\n\n\n\nFruit\nPrice\nAdvantages\n\n\n\n\nBananas\n$1.34\n\nbuilt-in wrapper\nbright color\n\n\n\nOranges\n$2.10\n\ncures scurvy\ntasty"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#grid-tables-alignment",
+    "href": "1-3-documents/1-3-documents.html#grid-tables-alignment",
+    "title": "Documents",
+    "section": "Grid tables: Alignment",
+    "text": "Grid tables: Alignment\n\nAlignments can be specified as with pipe tables, by putting colons at the boundaries of the separator line after the header:\n\n+---------------+---------------+--------------------+\n| Right         | Left          | Centered           |\n+==============:+:==============+:==================:+\n| Bananas       | $1.34         | built-in wrapper   |\n+---------------+---------------+--------------------+"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#grid-tables-authoring",
+    "href": "1-3-documents/1-3-documents.html#grid-tables-authoring",
+    "title": "Documents",
+    "section": "Grid tables: Authoring",
+    "text": "Grid tables: Authoring\n\nNote that grid tables are quite awkward to write with a plain text editor because unlike pipe tables, the column indicators must align.\nThe Visual Editor can assist in making these tables!"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#tables-from-code",
+    "href": "1-3-documents/1-3-documents.html#tables-from-code",
+    "title": "Documents",
+    "section": "Tables from code",
+    "text": "Tables from code\nThe knitr package can turn data frames into tables with knitr::kable():\n\nlibrary(knitr)\n\nhead(penguins) |&gt; \n  kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#tables-from-code-1",
+    "href": "1-3-documents/1-3-documents.html#tables-from-code-1",
+    "title": "Documents",
+    "section": "Tables from code",
+    "text": "Tables from code\nIf you want fancier tables, try the gt package and all that it offers!\n\n\nlibrary(gt)\n\nhead(penguins) |&gt; \n  gt() |&gt;\n  tab_style(\n    style = list(\n      cell_fill(color = \"pink\"),\n      cell_text(style = \"italic\")\n      ),\n    locations = cells_body(\n      columns = bill_length_mm,\n      rows = bill_length_mm &gt; 40\n    )\n  )\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#markdown-figures",
+    "href": "1-3-documents/1-3-documents.html#markdown-figures",
+    "title": "Documents",
+    "section": "Markdown figures",
+    "text": "Markdown figures\n![Penguins playing with a Quarto ball](images/penguins-quarto-ball.png)\n\nPenguins playing with a Quarto ball"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#subfigures",
+    "href": "1-3-documents/1-3-documents.html#subfigures",
+    "title": "Documents",
+    "section": "Subfigures",
+    "text": "Subfigures\nMarkdown:\n::: {#fig-penguins layout-ncol=2}\n\n![Blue penguin](images/blue-penguin.png){#fig-blue width=\"250px\"}\n\n![Orange penguin](images/orange-penguin.png){#fig-orange width=\"250px\"}\n\nTwo penguins\n\n:::"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#subfigures-1",
+    "href": "1-3-documents/1-3-documents.html#subfigures-1",
+    "title": "Documents",
+    "section": "Subfigures",
+    "text": "Subfigures\nOutput:\n\n\n\n\n\n\n\n\n\n\n\n(a) Blue penguin\n\n\n\n\n\n\n\n\n\n\n\n(b) Orange penguin\n\n\n\n\n\n\n\nFigure 1: Two penguins"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
+    "href": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
+    "title": "Documents",
+    "section": "Finding the figures to include",
+    "text": "Finding the figures to include\nIn places like markdown, YAML, or the command line/shell/terminal, you’ll need to use absolute or relative file paths:\n\n\nAbsolute = BAD: \"/Users/lars/exercises\" - Whose computer will this work on?\n\n\n\n\nRelative = BETTER:\n\n\"../ = up one directory, ../../ = up two directories, etc.\n/.. or / = start from root directory of your current computer"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#figures-with-code",
+    "href": "1-3-documents/1-3-documents.html#figures-with-code",
+    "title": "Documents",
+    "section": "Figures with code",
+    "text": "Figures with code\n\n```{r}\n#| fig-width: 4\n#| fig-align: right\n\nknitr::include_graphics(\"images/penguins-quarto-ball.png\")\n```"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#referencing-paths-in-r-code",
+    "href": "1-3-documents/1-3-documents.html#referencing-paths-in-r-code",
+    "title": "Documents",
+    "section": "Referencing paths in R code",
+    "text": "Referencing paths in R code\nUse the here package to reference the project root, as here::here() always starts at the top-level directory of a .Rproj:\n\nhere::here()\n\n[1] \"/Users/lschoebitz/Documents/gitrepos/gh-org-ost-hs23/website\""
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#figures-from-code",
+    "href": "1-3-documents/1-3-documents.html#figures-from-code",
+    "title": "Documents",
+    "section": "Figures from code",
+    "text": "Figures from code\n\n```{r}\n#| fig-width: 6\n#| fig-asp: 0.618\n\nggplot(penguins, aes(x = species, fill = species)) +\n  geom_bar(show.legend = FALSE)\n```"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#cross-references-1",
+    "href": "1-3-documents/1-3-documents.html#cross-references-1",
+    "title": "Documents",
+    "section": "Cross references",
+    "text": "Cross references\n\nHelp readers to navigate your document with numbered references and hyperlinks to entities like figures and tables.\nCross referencing steps:\n\nAdd a caption to your figure or table.\nGive an ID to your figure or table, starting with fig- or tbl-.\nRefer to it with @fig-... or @tbl-...."
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#figure-cross-references",
+    "href": "1-3-documents/1-3-documents.html#figure-cross-references",
+    "title": "Documents",
+    "section": "Figure cross references",
+    "text": "Figure cross references\nThe presence of the caption (Blue penguin) and label (#fig-blue-penguin) make this figure referenceable:\n\n\nMarkdown:\nSee @fig-blue-penguin for a cute blue penguin.\n![Blue penguin](images/blue-penguin.png){#fig-blue-penguin}\n\nOutput:\nSee Figure 2 for a cute blue penguin.\n\n\n\n\n\n\nFigure 2: Blue penguin"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#table-cross-references",
+    "href": "1-3-documents/1-3-documents.html#table-cross-references",
+    "title": "Documents",
+    "section": "Table cross references",
+    "text": "Table cross references\nThe presence of the caption (A few penguins) and label (#tbl-penguins) make this table referenceable:\n\n\nMarkdown:\nSee @tbl-penguins for data on a few penguins.\n```{r}\n#| label: tbl-penguins\n#| tbl-cap: A few penguins\n\nhead(penguins) |&gt; \n  gt()\n```\n\nOutput:\nSee Table 1 for data on a few penguins.\n\nhead(penguins) |&gt; \n  gt()\n\n\n\nTable 1: A few penguins\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
+  },
+  {
+    "objectID": "1-3-documents/1-3-documents.html#our-turn",
+    "href": "1-3-documents/1-3-documents.html#our-turn",
+    "title": "Documents",
     "section": "Our turn",
-    "text": "Our turn\n\nLet’s now publish our website to GitHub Pages.\n\nOpen your repository on GitHub and publish your website to GitHub Pages.\n\n\n\n\n\n−+\n05:00"
+    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow along with me and the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
   },
   {
-    "objectID": "2-4-publish/2-4-publish.html#learn-more",
-    "href": "2-4-publish/2-4-publish.html#learn-more",
-    "title": "Publish",
+    "objectID": "1-3-documents/1-3-documents.html#learn-more",
+    "href": "1-3-documents/1-3-documents.html#learn-more",
+    "title": "Documents",
     "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/publishing\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "text": "Learn more\n\nquarto.org/docs/authoring/markdown-basics.html"
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
+    "objectID": "1-3-documents/1-3-documents.html#references",
+    "href": "1-3-documents/1-3-documents.html#references",
+    "title": "Documents",
+    "section": "References",
+    "text": "References\n\n\n\n\n ost-hs23.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Open Science Tools",
+    "section": "",
+    "text": "Attribution 4.0 International\n=======================================================================\nCreative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.\nUsing Creative Commons Public Licenses\nCreative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\n Considerations for licensors: Our public licenses are\n intended for use by those authorized to give the public\n permission to use material in ways otherwise restricted by\n copyright and certain other rights. Our licenses are\n irrevocable. Licensors should read and understand the terms\n and conditions of the license they choose before applying it.\n Licensors should also secure all rights necessary before\n applying our licenses so that the public can reuse the\n material as expected. Licensors should clearly mark any\n material not subject to the license. This includes other CC-\n licensed material, or material used under an exception or\n limitation to copyright. More considerations for licensors:\nwiki.creativecommons.org/Considerations_for_licensors\n\n Considerations for the public: By using one of our public\n licenses, a licensor grants the public permission to use the\n licensed material under specified terms and conditions. If\n the licensor's permission is not necessary for any reason--for\n example, because of any applicable exception or limitation to\n copyright--then that use is not regulated by the license. Our\n licenses grant only permissions under copyright and certain\n other rights that a licensor has authority to grant. Use of\n the licensed material may still be restricted for other\n reasons, including because others have copyright or other\n rights in the material. A licensor may make special requests,\n such as asking that all changes be marked or described.\n Although not required by our licenses, you are encouraged to\n respect those requests where reasonable. More considerations\n for the public: \nwiki.creativecommons.org/Considerations_for_licensees\n=======================================================================\nCreative Commons Attribution 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)\n\nnever produces Adapted Material.\n\nDownstream recipients.\n\nOffer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nNo downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\n\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\nIf You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\nTO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n=======================================================================\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "2-5-develop/2-5-develop.html#add-pages",
+    "href": "2-5-develop/2-5-develop.html#add-pages",
+    "title": "Develop",
+    "section": "Add pages",
+    "text": "Add pages\n\nBlog\nSlides\nEvents\n…"
+  },
+  {
+    "objectID": "2-5-develop/2-5-develop.html#our-turn",
+    "href": "2-5-develop/2-5-develop.html#our-turn",
+    "title": "Develop",
+    "section": "Our turn",
+    "text": "Our turn\n\nLet’s now add a blog component to our website.\n\nAdd a folder called posts and create minimal blog post entry\nCollect posts from a blog page using the listings feature.\n\n\n\n\n\n−+\n20:00"
+  },
+  {
+    "objectID": "2-5-develop/2-5-develop.html#our-turn-1",
+    "href": "2-5-develop/2-5-develop.html#our-turn-1",
+    "title": "Develop",
+    "section": "Our turn",
+    "text": "Our turn\n\nLet’s now add a slides component to our website.\n\nAdd a folder called slides and create a minimal slide deck\nCollect the slide deck from a page using the listings feature.\n\n\n\n\n\n−+\n20:00"
+  },
+  {
+    "objectID": "2-5-develop/2-5-develop.html#your-turn",
+    "href": "2-5-develop/2-5-develop.html#your-turn",
+    "title": "Develop",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nWork on your first blog post for the website and use the content you have prepared as part of your homework\n\n\n\n\n\n−+\n15:00"
+  },
+  {
+    "objectID": "2-5-develop/2-5-develop.html#copy-from-others",
+    "href": "2-5-develop/2-5-develop.html#copy-from-others",
+    "title": "Develop",
+    "section": "Copy from others",
+    "text": "Copy from others\nBrowse websites built with Quarto and find the elements you like.\n\nquarto.org/docs/gallery"
+  },
+  {
+    "objectID": "2-5-develop/2-5-develop.html#check-awesome-quarto-repository",
+    "href": "2-5-develop/2-5-develop.html#check-awesome-quarto-repository",
+    "title": "Develop",
+    "section": "Check Awesome Quarto repository",
+    "text": "Check Awesome Quarto repository\nGo through the entries in the Awesome Quarto repository and get inspired.\n\ngithub.com/mcanouil/awesome-quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+  },
+  {
+    "objectID": "2-6-wrap-up/index.html",
+    "href": "2-6-wrap-up/index.html",
+    "title": "Wrap-up",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-6-wrap-up/index.html#slides",
+    "href": "2-6-wrap-up/index.html#slides",
+    "title": "Wrap-up",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-6-wrap-up/index.html#exercises",
+    "href": "2-6-wrap-up/index.html#exercises",
+    "title": "Wrap-up",
+    "section": "Exercises",
+    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
+  },
+  {
+    "objectID": "0-1-overview/index.html",
+    "href": "0-1-overview/index.html",
     "title": "Course Overview",
     "section": "",
-    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "text": "This overview was prepared as a 10-minute presentation for the ETH4D lunch on 7th August 2023."
   },
   {
-    "objectID": "syllabus.html#details",
-    "href": "syllabus.html#details",
+    "objectID": "0-1-overview/index.html#slides",
+    "href": "0-1-overview/index.html#slides",
     "title": "Course Overview",
+    "section": " Slides",
+    "text": "Slides\nView slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "0-1-overview/index.html#suggested-readings",
+    "href": "0-1-overview/index.html#suggested-readings",
+    "title": "Course Overview",
+    "section": " Suggested readings",
+    "text": "Suggested readings\nIf you are interested to learn more about the concepts behind this course:\n\nread Good enough practices in scientific computing.\nread Excuse Me, Do You Have a Moment to Talk About Version Control?."
+  },
+  {
+    "objectID": "1-1-hello-quarto/index.html",
+    "href": "1-1-hello-quarto/index.html",
+    "title": "Hello Quarto",
     "section": "",
-    "text": "Sign-up\n\n851-0623-00L - Course Catalogue\n\nDates\n\n17th October 2023, 08:30 am to 12:30 pm\n24th October 2023, 08:30 am to 12:30 pm\n\nInstructor\n\nLars Schöbitz - Global Health Engineering - ETH Zurich",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "text": "View slides in full screen"
   },
   {
-    "objectID": "syllabus.html#abstract",
-    "href": "syllabus.html#abstract",
-    "title": "Course Overview",
-    "section": "Abstract",
-    "text": "Abstract\nAs the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing.",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "objectID": "1-1-hello-quarto/index.html#slides",
+    "href": "1-1-hello-quarto/index.html#slides",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "View slides in full screen"
   },
   {
-    "objectID": "syllabus.html#objective",
-    "href": "syllabus.html#objective",
-    "title": "Course Overview",
-    "section": "Objective",
-    "text": "Objective\nThis course has the following learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nExplain the differences between files written in markup languages like markdown (.md) and those in proprietary file formats like .docx.\nUtilize an exported library from Zotero in Better BibTex Format to create an automated reference list in your scientific documents.\nInteract with Git version control and GitHub through the RStudio IDE.\nCollaborate with other researchers using the GitHub issue tracker and project management board to organize tasks and streamline communication.\nPublish a public website using GitHub Pages to share research with a broader audience.",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "objectID": "1-1-hello-quarto/index.html#exercises",
+    "href": "1-1-hello-quarto/index.html#exercises",
+    "title": "Hello Quarto",
+    "section": "Exercises",
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd"
   },
   {
-    "objectID": "syllabus.html#content",
-    "href": "syllabus.html#content",
-    "title": "Course Overview",
-    "section": "Content",
-    "text": "Content\nThis course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.\nTopics covered include:\n\nScientific communication.\nReproducible research (open research, version control, licensing).\nCollaboration through Git and GitHub.\n\nDuring the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.\nWhile the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas.",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "objectID": "2-2-presentations/index.html",
+    "href": "2-2-presentations/index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "View slides in full screen"
   },
   {
-    "objectID": "syllabus.html#lecture-notes",
-    "href": "syllabus.html#lecture-notes",
-    "title": "Course Overview",
-    "section": "Lecture notes",
-    "text": "Lecture notes\nAll lecture notes are on this public website.",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "objectID": "2-2-presentations/index.html#slides",
+    "href": "2-2-presentations/index.html#slides",
+    "title": "Presentations",
+    "section": "",
+    "text": "View slides in full screen"
   },
   {
-    "objectID": "syllabus.html#prerequisites-notice",
-    "href": "syllabus.html#prerequisites-notice",
-    "title": "Course Overview",
-    "section": "Prerequisites / Notice",
-    "text": "Prerequisites / Notice\nThe pre-course assignments can be found at Pre-course assignments.\nPrior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.\nPrior to the course, learners are expected to have:\n\nA laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)\nA registered account on GitHub: https://github.com/\nA registered ORCID iD: https://orcid.org/\nA registered account on Zotero: https://www.zotero.org/user/register\nRead the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510\n\nTwo weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites.",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "objectID": "2-2-presentations/index.html#exercises",
+    "href": "2-2-presentations/index.html#exercises",
+    "title": "Presentations",
+    "section": "Exercises",
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins-slides.qmd\n hello-penguins-slides-solutions.qmd"
   },
   {
-    "objectID": "syllabus.html#performance-assessment",
-    "href": "syllabus.html#performance-assessment",
-    "title": "Course Overview",
-    "section": "Performance Assessment",
-    "text": "Performance Assessment\nSuccessful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.\n\nGrading scheme\nUngraded semester performance with pass/fail. A pass is achieved if students actively participate in both modules and complete the exercises between the two modules.",
-    "crumbs": [
-      "Syllabus"
-    ]
+    "objectID": "2-3-websites/index.html",
+    "href": "2-3-websites/index.html",
+    "title": "Websites",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-3-websites/index.html#slides",
+    "href": "2-3-websites/index.html#slides",
+    "title": "Websites",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-3-websites/index.html#exercises",
+    "href": "2-3-websites/index.html#exercises",
+    "title": "Websites",
+    "section": "Exercises",
+    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
+  },
+  {
+    "objectID": "0-3-homework/0-4-scholarly-document.html",
+    "href": "0-3-homework/0-4-scholarly-document.html",
+    "title": "Scholarly document",
+    "section": "",
+    "text": "You will write a paragraph about your research. You will reference the three scientific articles that you stored in your Bibliography. This task is only about writing the text for your paragraph. You do not yet need to prepare the actual Quarto Document, neither do you have to add in the references as citations. That’s what we will practic together next week.\n\nWrite up a 100 word paragraph about your research using placeholders for citations to the three scientific articles you stored in your Bibliography."
+  },
+  {
+    "objectID": "0-3-homework/0-4-scholarly-document.html#blog-post",
+    "href": "0-3-homework/0-4-scholarly-document.html#blog-post",
+    "title": "Scholarly document",
+    "section": "",
+    "text": "You will write a paragraph about your research. You will reference the three scientific articles that you stored in your Bibliography. This task is only about writing the text for your paragraph. You do not yet need to prepare the actual Quarto Document, neither do you have to add in the references as citations. That’s what we will practic together next week.\n\nWrite up a 100 word paragraph about your research using placeholders for citations to the three scientific articles you stored in your Bibliography."
+  },
+  {
+    "objectID": "0-3-homework/index.html",
+    "href": "0-3-homework/index.html",
+    "title": "Homework",
+    "section": "",
+    "text": "Prior to Day 2, please complete the four homework assignments\n\nAssignment 1: Tables & Figures: Cross-references tables and figures in a document\nAssignment 2: Bibliography: Prepare a bibliography using Zotero\nAssignment 3: About page: Write up content for an About page on your website\nAssignment 4: Scholarly document: Prepare a paragraph of 100 words about your research"
+  },
+  {
+    "objectID": "0-3-homework/0-1-tables-figures.html",
+    "href": "0-3-homework/0-1-tables-figures.html",
+    "title": "Tables and figures",
+    "section": "",
+    "text": "This exercise is in your exercises repository and has the title: tables-figures.qmd."
+  },
+  {
+    "objectID": "0-3-homework/0-1-tables-figures.html#tips",
+    "href": "0-3-homework/0-1-tables-figures.html#tips",
+    "title": "Tables and figures",
+    "section": "Tips",
+    "text": "Tips\n\nTask 1\n\nUse the visual editing mode\nTo cross-reference the table, you need a caption and additionally an ID starting with tbl-. That ID is added to the Caption below the table as: Caption {#tbl-label}\n\n\n\nTask 2\n\nCheck this slide: https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/figure-cross-references\n\n\n\nTask 3\n\nCheck the following slide, but consider what is different for figures compared to tables: https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/table-cross-references"
+  },
+  {
+    "objectID": "2-4-publish/index.html",
+    "href": "2-4-publish/index.html",
+    "title": "Publish",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-4-publish/index.html#slides",
+    "href": "2-4-publish/index.html#slides",
+    "title": "Publish",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "2-4-publish/index.html#exercises",
+    "href": "2-4-publish/index.html#exercises",
+    "title": "Publish",
+    "section": "Exercises",
+    "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
   },
   {
     "objectID": "2-1-scholarly-writing/index.html",
@@ -1421,121 +1350,36 @@
     "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n scholarly-writing.qmd"
   },
   {
-    "objectID": "0-2-pre-work/07-reading.html",
-    "href": "0-2-pre-work/07-reading.html",
-    "title": "Good enough practices in scientific computing",
-    "section": "",
-    "text": "This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.\nThe following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.\n\nUse your browser, the Zotero Connector and Zotero to store the following paper in your personal Zotero library (My Library or a sub-folder at the top left): https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510.\nRead Wilson et al. (2017).\nChose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:\nCome up with a real-world example or scenario where the recommended practice could be applied in your research or academic work.\nBe prepared to explain how the recommended practices would improve your research process. This will be in the class setting as part of small discussion group (max 3 people).\n\n\n\n\n\nReferences\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510."
-  },
-  {
-    "objectID": "0-2-pre-work/02-orcid.html",
-    "href": "0-2-pre-work/02-orcid.html",
-    "title": "Your personal unique ORCID iD",
-    "section": "",
-    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
-  },
-  {
-    "objectID": "0-2-pre-work/02-orcid.html#create-your-orcid-id",
-    "href": "0-2-pre-work/02-orcid.html#create-your-orcid-id",
-    "title": "Your personal unique ORCID iD",
-    "section": "",
-    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid"
-  },
-  {
-    "objectID": "0-2-pre-work/01-github.html",
-    "href": "0-2-pre-work/01-github.html",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
-  },
-  {
-    "objectID": "0-2-pre-work/01-github.html#get-an-account-on-github",
-    "href": "0-2-pre-work/01-github.html#get-an-account-on-github",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/"
-  },
-  {
-    "objectID": "0-2-pre-work/01-github.html#setup-a-github-personal-access-token-pat",
-    "href": "0-2-pre-work/01-github.html#setup-a-github-personal-access-token-pat",
-    "title": "Interaction with GitHub",
-    "section": "Setup a GitHub Personal Access Token (PAT)",
-    "text": "Setup a GitHub Personal Access Token (PAT)\nHere are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nWarning\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place."
-  },
-  {
     "objectID": "0-2-pre-work/02-posit-cloud.html",
     "href": "0-2-pre-work/02-posit-cloud.html",
     "title": "Create an account for Posit Cloud",
     "section": "",
-    "text": "For this workshop, we will be using Posit Cloud to run the code examples and exercises. Posit Cloud is a cloud-based platform that allows you to run code in the cloud without having to install any software on your local machine. This makes it easier for course instructors as the required software infrastructure is in place before the course starts."
+    "text": "For this workshop, we will be using Posit Cloud to run the code examples and exercises. Posit Cloud is a cloud-based platform that allows you to run code in the cloud without having to install any software on your local machine. This makes it easier for course instructors as the required software infrastructure is in place before the course starts.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 2: Posit Cloud"
+    ]
   },
   {
     "objectID": "0-2-pre-work/02-posit-cloud.html#step-1-get-an-account-for-posit-cloud",
     "href": "0-2-pre-work/02-posit-cloud.html#step-1-get-an-account-for-posit-cloud",
     "title": "Create an account for Posit Cloud",
     "section": "Step 1: Get an account for Posit Cloud",
-    "text": "Step 1: Get an account for Posit Cloud\n\nSign up for a free account on Posit Cloud: https://posit.cloud/plans/free"
+    "text": "Step 1: Get an account for Posit Cloud\n\nSign up for a free account on Posit Cloud: https://posit.cloud/plans/free",
+    "crumbs": [
+      "Pre-course work",
+      "Step 2: Posit Cloud"
+    ]
   },
   {
     "objectID": "0-2-pre-work/02-posit-cloud.html#step-2-join-the-workspace-for-the-course",
     "href": "0-2-pre-work/02-posit-cloud.html#step-2-join-the-workspace-for-the-course",
     "title": "Create an account for Posit Cloud",
     "section": "Step 2: Join the workspace for the course",
-    "text": "Step 2: Join the workspace for the course\n\nOpen this link: https://posit.cloud/spaces/497061/join?access_code=RhYpegUJir7xPPP0O_diSjdb3QbbAoMHUaFEVaBc"
-  },
-  {
-    "objectID": "0-2-pre-work/04-survey.html",
-    "href": "0-2-pre-work/04-survey.html",
-    "title": "Learning more about your prior knowledge",
-    "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6",
+    "text": "Step 2: Join the workspace for the course\n\nOpen this link: https://posit.cloud/spaces/497061/join?access_code=RhYpegUJir7xPPP0O_diSjdb3QbbAoMHUaFEVaBc",
     "crumbs": [
       "Pre-course work",
-      "Step 4: Survey"
-    ]
-  },
-  {
-    "objectID": "0-2-pre-work/04-survey.html#please-fill-out-our-pre-course-survey",
-    "href": "0-2-pre-work/04-survey.html#please-fill-out-our-pre-course-survey",
-    "title": "Learning more about your prior knowledge",
-    "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/ofwuMPkdMkH4qGxs6",
-    "crumbs": [
-      "Pre-course work",
-      "Step 4: Survey"
-    ]
-  },
-  {
-    "objectID": "0-2-pre-work/05-reading.html",
-    "href": "0-2-pre-work/05-reading.html",
-    "title": "Good enough practices in scientific computing",
-    "section": "",
-    "text": "This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.\nThe following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.\n\nRead Wilson et al. (2017).\nChose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:\nCome up with a real-world example or scenario where the recommended practice could be applied in your research or academic work.\nBe prepared to explain how the recommended practices would improve your research process. This will be in the class setting as part of small discussion group (max 3 people).\n\n\n\n\n\nReferences\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
-    "crumbs": [
-      "Pre-course work",
-      "Step 5: Reading"
-    ]
-  },
-  {
-    "objectID": "0-2-pre-work/01-orcid.html",
-    "href": "0-2-pre-work/01-orcid.html",
-    "title": "Your personal unique ORCID iD",
-    "section": "",
-    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid",
-    "crumbs": [
-      "Pre-course work",
-      "Step 1: ORCID"
-    ]
-  },
-  {
-    "objectID": "0-2-pre-work/01-orcid.html#create-your-orcid-id",
-    "href": "0-2-pre-work/01-orcid.html#create-your-orcid-id",
-    "title": "Your personal unique ORCID iD",
-    "section": "",
-    "text": "Create your ORCID iD at: https://orcid.org/register\nLearn more about ORCID and why you should get one: https://the-turing-way.netlify.app/communication/citable/citable-orcid.html?highlight=orcid",
-    "crumbs": [
-      "Pre-course work",
-      "Step 1: ORCID"
+      "Step 2: Posit Cloud"
     ]
   },
   {
@@ -1543,13 +1387,21 @@
     "href": "0-2-pre-work/03-quarto-pub.html",
     "title": "Create an account for Quarto Pub",
     "section": "",
-    "text": "We will use Quarto Pub, which is a free publishing service for content created with Quarto. Quarto Pub is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
+    "text": "We will use Quarto Pub, which is a free publishing service for content created with Quarto. Quarto Pub is ideal for blogs, course or project websites, books, presentations, and personal hobby sites.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 3: Quarto Pub"
+    ]
   },
   {
     "objectID": "0-2-pre-work/03-quarto-pub.html#step-1-create-an-account",
     "href": "0-2-pre-work/03-quarto-pub.html#step-1-create-an-account",
     "title": "Create an account for Quarto Pub",
     "section": "Step 1: Create an account",
-    "text": "Step 1: Create an account\n\nCreate an account on: https://quartopub.com/\n\n\n\n\n\n\n\nUsername advice\n\n\n\n\n\nYour username will be part of the URL for your Quarto Pub site. Here are some tips for choosing a username:\n\nincorporate your actual name\nreuse your username from other contexts, e.g. GitHub\npick a username you will be comfortable revealing to your future boss\nshorter is better than longer\nwe highly recommend all lowercase\nif you use more than one word, use the hyphen - as a separator"
+    "text": "Step 1: Create an account\n\nCreate an account on: https://quartopub.com/\n\n\n\n\n\n\n\nUsername advice\n\n\n\n\n\nYour username will be part of the URL for your Quarto Pub site. Here are some tips for choosing a username:\n\nincorporate your actual name\nreuse your username from other contexts, e.g. GitHub\npick a username you will be comfortable revealing to your future boss\nshorter is better than longer\nwe highly recommend all lowercase\nif you use more than one word, use the hyphen - as a separator",
+    "crumbs": [
+      "Pre-course work",
+      "Step 3: Quarto Pub"
+    ]
   }
 ]
