@@ -395,21 +395,21 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#lars-schöbitz",
     "title": "Hello Quarto",
     "section": "Lars Schöbitz",
-    "text": "Lars Schöbitz\n\n\n\n\n\n\n\n\n\nEnvironmental Engineer\n\nOpen Science Specialist at Global Health Engineering\nRStudio certified instructor for Data Science with R"
+    "text": "Lars Schöbitz\n\n\n\n\n\n\n\n\n\nEnvironmental Engineer 🔨\nRetired researcher 🛏\nRStudio certified instructor\nData steward at ETHZ"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#section",
     "title": "Hello Quarto",
     "section": "",
-    "text": "Who has a LinkedIn account?"
+    "text": "Every student will have a personal, published, free [website]{highlight-yellow} that links to their (academic) [profiles]]{highlight-yellow}, shows [slides]{highlight-yellow}, and has the potential to be used as a (scientific) [blog]]{highlight-yellow}."
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
     "title": "Hello Quarto",
     "section": "",
-    "text": "Who already had ORCID iD?"
+    "text": "Quarto\nRStudio IDE on Posit Cloud\nQuarto Pub"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-2",
@@ -444,7 +444,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes on the provided paper.\n\n\n\n\n\n−+\n02:00"
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#about-you",
@@ -479,14 +479,14 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#getting-help",
     "title": "Hello Quarto",
     "section": "Getting help",
-    "text": "Getting help\n\nDuring my turn and our turn segments – raise your hand \nDuring your turn segments – also feel free to raise your hand  for questions but use the yellow sticky to signal: I’m done"
+    "text": "Getting help\n\nDuring my turn and our turn segments: Please keep your microphone on mute. Send message to the Zoom chat and we will try to support you.\nDuring your turn segments: Due to the large number of participants, it will not be feasible to join individual break-out rooms, but you will always be working in pairs."
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
     "title": "Hello Quarto",
     "section": "Meeting you where you are",
-    "text": "Meeting you where you are\n\n\n\nI’ll assume you\n\nknow do not have R or git experience\nhave not worked in an IDE before (e.g. RStudio IDE)\nwant to learn about Quarto\nwant to learn about project management with GitHub\n\n\n\n\nI’ll teach you\n\nQuarto syntax and formats\nMarkdown\nGitHub issues, project management, and publishing\nReference managemen with Zotero\nSome R along the way!"
+    "text": "Meeting you where you are\n\n\n\nI’ll assume you\n\ndo not have R experience\nhave not worked in an IDE before (e.g. RStudio IDE)\nwant to learn about Quarto\n\n\n\n\nI’ll teach you\n\nQuarto syntax and formats\nMarkdown\nSome R along the way!"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto",
@@ -507,14 +507,14 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course ost-hs23.\nUnder Repositories, use search dialogue  to search for your GitHub username.\nClick on the repository with your username (exercises-USERNAME).\nClick on the green Code button and copy the URL.\nOpen the workspace for the course on Posit Cloud.\nUnder Content, Click New Project &gt; New Project from Git Repository.\nPaste the URL you copied into the field.\nClick OK.\n\n\n\n\n\n−+\n05:00"
+    "text": "Your turn\n\n\nOpen posit.cloud\nLogin with your details\nOpen the workspace for the course: https://posit.cloud/spaces/497061/content/all?sort=name_asc\nClick “Start” next to Exercises\nWait until the projeczt has deployed\nOpen hello-penguins.qmd in RStudio and in visual editing mode\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\nCompare notes with neighbors about updates you’ve made and note any aspects of the document that are not clear after the tour and your first interaction with it.\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-2",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen hello-penguins.qmd in RStudio and in visual editing mode\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\nCompare notes with neighbors about updates you’ve made and note any aspects of the document that are not clear after the tour and your first interaction with it.\n\n\n\n\n\n−+\n10:00"
+    "text": "Your turn\n\nIn your exercises project in RStudio on Posit Cloud, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#from-the-comfort-of-your-own-workspace",
@@ -549,7 +549,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-3",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\nIn your exercises project in RStudio on Posit Cloud, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+    "text": "Your turn\n\nIn your exercises project in RStudio on Posit Cloud, go to File &gt; New File &gt; Quarto document to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use my-first-document.qmd.\nUse the visual editor for the next steps.\n\nAdd a title and your name as the author.\nWith reference to writing and publishing: Create three sections,\n\none with a task that gave you joy,\none with a task you found challenging,\nand one with a fact you want to learn,\n\nAdd a table of contents.\nStretch goal: Change the html theme to sketchy. Tipp: Check quarto.org and use search function  with “HTML theming”\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n\n https://quarto-ambition.github.io/website/"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section",
@@ -1403,5 +1403,54 @@
       "Pre-course work",
       "Step 3: Quarto Pub"
     ]
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#learning-objectives",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#learning-objectives",
+    "title": "Hello Quarto",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nLearn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with citations, footnotes, cross-references, figures, and tables.\nLearn to use Quarto Pub to publish a website and share research with a broader audience."
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#in-break-out-rooms",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#in-break-out-rooms",
+    "title": "Hello Quarto",
+    "section": "In break-out rooms",
+    "text": "In break-out rooms\n\nTake 2 minutes each to share with your room partner:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#course-structure",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#course-structure",
+    "title": "Hello Quarto",
+    "section": "Course structure",
+    "text": "Course structure\n\nMy turn: Lecture segments + live coding\nOur turn: Live coding + follow along\nYour turn: Exercises in break-out rooms"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#screen-setup---poll",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#screen-setup---poll",
+    "title": "Hello Quarto",
+    "section": "Screen setup - Poll",
+    "text": "Screen setup - Poll\n\n\nOne screen \n\nTwo screens or more"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#take-a-break",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#take-a-break",
+    "title": "Hello Quarto",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\ncountdown(minutes = 10)\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#thanks",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#thanks",
+    "title": "Hello Quarto",
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-ambition.github.io/website/"
+  },
+  {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-1",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#quarto-1",
+    "title": "Hello Quarto",
+    "section": "Quarto …",
+    "text": "Quarto …\n\nis a new, open-source, scientific, and technical publishing system\naims to make the process of creating and collaborating dramatically better\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
   }
 ]

@@ -1,10 +1,10 @@
 ---
-title: "Hello Quarto"
-subtitle: "OST-HS23: Open Science Tools <br> authoring and publishing workflows for collaborative scientific writing"
+title: "{{< var md-01.title >}}"
+subtitle: "{{< var course.long-title >}}"
 author: "Lars Schöbitz"
-date: "2023-10-17"
+date: "2024-04-03"
 date-format: long
-footer: "[{{< fa link >}} ost-hs23.github.io/website/](https://ost-hs23.github.io/website/)"
+footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
 logo: "../images/ghe-square-logo-vector.svg"
 format:
   revealjs:
@@ -29,13 +29,6 @@ options(width = 65)
 library(countdown)
 ```
 
-## Email from GitHub? {.center-align}
-
-While we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course.
-
-![](images/github-invitation.png)
-
-
 
 # Welcome! `r emo::ji("wave")` {background-color="#5b195b"}
 
@@ -47,47 +40,21 @@ While we are getting ready, please check for this email from GitHub and accept t
 :::
 
 ::: {.column width="50%"}
--   Environmental Engineer\
--   Open Science Specialist at Global Health Engineering
--   [RStudio certified instructor](https://education.rstudio.com/trainers/) for Data Science with R
+-   Environmental Engineer `r emo::ji("hammer")`
+-   Retired researcher `r emo::ji("bed")`
+-   [RStudio certified instructor](https://education.rstudio.com/trainers/)
+-   [Data steward at ETHZ](https://ghe.ethz.ch/ghe-blog-news/2024/02/blog-attention-prof-you-need-a-data-steward-for-your-team.html)
+
 :::
 :::
 
-## {{< fa hand >}} {.center-align auto-animate="true"}
+## Learning objectives
 
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has a LinkedIn account?
-:::
+1.  Learn to use the Quarto file format and the RStudio IDE visual
+    editing mode to produce scholarly documents with citations,
+    footnotes, cross-references, figures, and tables.
 
-## {{< fa hand >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who already had ORCID iD?
-:::
-
-## {{< fa hand >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who already had a GitHub account?
-:::
-
-## {{< fa hand >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who already uses a reference management system? (e.g. Mendeley, EndNote, Zotero)
-:::
-
-## {{< fa hand >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has a personal homepage?
-:::
-
-## {{< fa hand >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-Who has published a report, scientific article, or similar?
-:::
+2.  Learn to use Quarto Pub to publish a website and share research with a broader audience.
 
 ## Your turn
 
@@ -98,7 +65,7 @@ Think about the last time you published a written document:
 -   Which tasks were challenging or frustrating?
 
 ::: hand
-Take some written notes on the provided paper.
+Take some written notes.
 :::
 :::
 
@@ -126,7 +93,23 @@ What does the item you have picked have to do with the reason for you being here
 countdown(minutes = 1)
 ```
 
-# OST-HS23 {.center-align background-color="#461a52"}
+## In break-out rooms
+
+::: task
+**Take 2 minutes each to share with your room partner:**
+
+What does the item you have picked have to do with the reason for you being here?
+:::
+
+![](images/items-slide/items-slide.001.png)
+
+```{r}
+#| echo: false
+
+countdown(minutes = 5)
+```
+
+# Quarto {.center-align background-color="#461a52"}
 
 ::: hand
 authoring and publishing workflows for collaborative scientific writing
@@ -135,18 +118,15 @@ authoring and publishing workflows for collaborative scientific writing
 ## {{< fa bullseye >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Every student will have a personal, published, free **website** that links to their (academic) **profiles**, shows **slides**, and has the potential to be used as a (scientific) **blog**.
+Every student will have a personal, published, free [website]{highlight-yellow} that links to their (academic) [profiles]]{highlight-yellow}, shows [slides]{highlight-yellow}, and has the potential to be used as a (scientific) [blog]]{highlight-yellow}.
 :::
 
 ## {{< fa toolbox >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
 Quarto\
-RStudio IDE\
-Zotero\
-Git\
-GitHub\
-Matrix / Element
+RStudio IDE on Posit Cloud\
+Quarto Pub
 :::
 
 # Why? -\> Reproduciblity {.center-align background-color="#461a52"}
@@ -180,19 +160,29 @@ Matrix / Element
 ![](../0-1-overview/images/publisher-policies-07.drawio.svg)
 
 
-## Workshop structure
+## Course structure
 
--   **My turn:** Lecture segments + live coding
-
--   **Our turn:** Live coding + follow along
-
--   **Your turn:** Exercises
+-   [My turn]{.highlight-yellow}: Lecture segments + live coding
+-   [Our turn]{.highlight-yellow}: Live coding + follow along
+-   [Your turn]{.highlight-yellow}: Exercises in break-out rooms
 
 ## Getting help
 
--   During **my turn** and **our turn** segments -- raise your hand {{< fa hand >}}
+-   During [my turn]{.highlight-yellow} and [our turn]{.highlight-yellow} segments: Please keep your microphone on mute. Send message to the [Zoom chat]{.highlight-yellow} and we will try to support you. 
 
--   During **your turn** segments -- also feel free to raise your hand {{< fa hand >}} for questions but use the [yellow]{.highlight-yellow} sticky to signal: [I'm done]{.highlight-yellow}
+-   During [your turn]{.highlight-yellow} segments: Due to the large number of participants, it will not be feasible to join individual break-out rooms, but you will always be working in pairs. 
+
+## Screen setup - Poll
+
+::: columns
+::: {.column width="50%"}
+One screen ![](img/lec-01/bram-naus-N1gUD_dCvJE-unsplash.jpg)
+:::
+
+::: {.column width="50%"}
+Two screens or more ![](img/lec-01/daniel-korpai-vHVfpi3h5xk-unsplash.jpg)
+:::
+:::
 
 # Hello Quarto
 
@@ -203,13 +193,11 @@ Matrix / Element
 ::: {.fragment .fade-in-then-semi-out}
 I'll **assume** you
 
--   know do [not]{.highlight-yellow} have R or git experience
+-   do [not]{.highlight-yellow} have R experience
 
 -   have [not]{.highlight-yellow} worked in an IDE before (e.g. RStudio IDE)
 
 -   want to learn about Quarto
-
--   want to learn about project management with GitHub
 :::
 :::
 
@@ -220,10 +208,6 @@ I'll **teach** you
 -   Quarto syntax and formats
 
 -   Markdown
-
--   GitHub issues, project management, and publishing
-
--   Reference managemen with Zotero
 
 -   Some R along the way!
 :::
@@ -250,26 +234,11 @@ Sit back and enjoy!
 ## Your turn
 
 ::: task
-1. Open [github.com](https://github.com) in your browser.
-2. Navigate to the GitHub organisation for the course [ost-hs23](https://github.com/ost-hs23).
-3. Under Repositories, use search dialogue {{< fa magnifying-glass >}} to search for your GitHub username.
-4. Click on the repository with your username (exercises-USERNAME).
-5. Click on the green Code button and copy the URL.
-6. Open the workspace for the course on Posit Cloud. 
-7. Under Content, Click New Project > New Project from Git Repository.
-8. Paste the URL you copied into the field.
-9. Click OK.
-:::
-
-```{r}
-#| echo: false
-
-countdown(minutes = 5)
-```
-
-## Your turn
-
-::: task
+- Open [posit.cloud](https://posit.cloud)
+- Login with your details
+- Open the workspace for the course: <https://posit.cloud/spaces/497061/content/all?sort=name_asc>
+- Click "Start" next to Exercises
+- Wait until the projeczt has deployed
 - Open `hello-penguins.qmd` in RStudio and in visual editing mode
 - Render the document
 - Update your name and re-render
@@ -388,6 +357,23 @@ Use the visual editor for the next steps.
 countdown(minutes = 10)
 ```
 
+## Take a break
 
+[Please get up and move!]{.highlight-yellow} Let your emails rest in peace.
 
+![](img/lec-04/pixel-art-tree.png){width="50%" fig-alt="This is the prompt generated by DALL-E 3 by OpenAI: A pixel art scene representing the concept of taking a break. The scene shows a serene outdoor setting with a clear blue sky. In the center, a small pixelated character is sitting comfortably on a bright green grassy hill, under the shade of a large, leafy tree. The character is depicted in a relaxed pose, perhaps sipping a warm beverage from a small cup. Nearby, a gentle stream flows, and a few fluffy white clouds drift in the sky. The overall mood of the image is peaceful and calming, emphasizing the tranquility of taking a break in nature."}
+
+```{r}
+countdown(minutes = 10)
+```
+
+::: footer
+Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
+:::
+
+## Thanks! `r emo::ji("sunflower")`
+
+Slides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as [PDF on GitHub](https://github.com/quarto-ambition/website/raw/main/1-1-hello-quarto/1-1-hello-quarto.pdf)
+
+All material is licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
