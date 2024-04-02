@@ -1,10 +1,10 @@
 ---
-title: "Documents"
-subtitle: "OST-HS23: Open Science Tools <br> authoring and publishing workflows for collaborative scientific writing"
+title: "{{< var md-01.title >}}"
+subtitle: "{{< var course.long-title >}}"
 author: "Lars Schöbitz"
-date: "2023-10-17"
+date: "2024-04-10"
 date-format: long
-footer: "[{{< fa link >}} ost-hs23.github.io/website/](https://ost-hs23.github.io/website/)"
+footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
 logo: "../images/ghe-square-logo-vector.svg"
 format:
   revealjs:
@@ -12,7 +12,6 @@ format:
     transition: fade
     slide-number: true
     chalkboard: true
-    highlight-style: a11y
 bibliography: ../references.bib
 editor: source
 execute:
@@ -31,7 +30,7 @@ options(width = 65)
 library(countdown)
 ```
 
-# Anatomy of a Quarto document
+# Anatomy of a Quarto document {background-color="#4C326A"}
 
 ## Components
 
@@ -75,7 +74,7 @@ ggplot(mpg, aes(x = cty, y = hwy)) +
 Source: <https://en.wikipedia.org/wiki/Literate_programming>
 :::
 
-# Metadata
+# Metadata {background-color="#4C326A"}
 
 ## YAML
 
@@ -210,7 +209,7 @@ countdown(minutes = 5)
 
 -   Definitive list: [quarto.org/docs/reference/formats/html](https://quarto.org/docs/reference/formats/html.html)
 
-# Text
+# Text {background-color="#4C326A"}
 
 ## Text Formatting
 
@@ -460,7 +459,7 @@ Here is a footnote reference[^2]
 
 Notice in both situations that the footnote is placed at the bottom of the page in presentations, whereas in a document it would be hoverable or at the end of the document.
 
-# Code
+# Code {background-color="#4C326A"}
 
 ## Anatomy of a code chunk
 
@@ -504,7 +503,7 @@ penguins |>
 
 -   So they get their own special sections in our deep dive!
 
-# Tables
+# Tables {background-color="#4C326A"}
 
 ## Markdown tables
 
@@ -614,7 +613,7 @@ head(penguins) |>
   )
 ```
 
-# Figures
+# Figures {background-color="#4C326A"}
 
 ## Markdown figures
 
@@ -698,7 +697,7 @@ ggplot(penguins, aes(x = species, fill = species)) +
   geom_bar(show.legend = FALSE)
 ```
 
-# Cross references
+# Cross references {background-color="#4C326A"}
 
 ## Cross references
 
