@@ -202,46 +202,48 @@
     "text": "Learn more\n\nquarto.org/docs/publishing\n\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html",
-    "href": "0-3-homework/0-3-about-page.html",
+    "objectID": "0-3-homework/0-2-about-page.html",
+    "href": "0-3-homework/0-2-about-page.html",
     "title": "About",
     "section": "",
-    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.\nHere is some guidance:"
+    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design. We will use the About page as the landing page (index) of your website.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we will to publish next week. Follow the steps below to create your About page.",
+    "crumbs": [
+      "Homework",
+      "About page"
+    ]
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html#about-pages",
-    "href": "0-3-homework/0-3-about-page.html#about-pages",
+    "objectID": "0-3-homework/0-2-about-page.html#about-pages",
+    "href": "0-3-homework/0-2-about-page.html#about-pages",
     "title": "About",
     "section": "",
-    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we want to publish next week.\nHere is some guidance:"
+    "text": "It’s good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design. We will use the About page as the landing page (index) of your website.\nIn this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we will to publish next week. Follow the steps below to create your About page.",
+    "crumbs": [
+      "Homework",
+      "About page"
+    ]
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html#step-1",
-    "href": "0-3-homework/0-3-about-page.html#step-1",
+    "objectID": "0-3-homework/0-2-about-page.html#step-1",
+    "href": "0-3-homework/0-2-about-page.html#step-1",
     "title": "About",
     "section": "Step 1",
-    "text": "Step 1\n\nCollect links to your online profiles (e.g. GitHub, LinkedIn, ORCID, etc.)\nWrite a short biography about yourself (1 paragraph, 2 two 3 sentences)\nFind a photo that you would like to show (can be portrait, can be a logo, can be an photo of something you like)"
+    "text": "Step 1\n\nCollect links to your online profiles (e.g. GitHub, LinkedIn, ORCID, etc.)\nWrite a short biography about yourself (1 paragraph, 2 two 3 sentences)\nFind a photo that you would like to show (can be portrait, can be a logo, can be a photo of something you like)",
+    "crumbs": [
+      "Homework",
+      "About page"
+    ]
   },
   {
-    "objectID": "0-3-homework/0-3-about-page.html#step-2",
-    "href": "0-3-homework/0-3-about-page.html#step-2",
+    "objectID": "0-3-homework/0-2-about-page.html#step-2",
+    "href": "0-3-homework/0-2-about-page.html#step-2",
     "title": "About",
     "section": "Step 2",
-    "text": "Step 2\nWrite up your About page using the Quarto file format.\n\nOpen your exercises in RStudio on Posit Cloud\nCreate a new Quarto Doc and name it about.qmd\nUse the Quarto documentation for About Pages to write up your page\n\n\n\n\n\n\n\nAdd profile photo\n\n\n\n\n\nIf you want to add your profile, then you can add it to your exercises repository on GitHub and then try the pull functionality in RStudio on Posit Cloud.\n\nUpload photo to GitHub\n\n\n\n\n\n\n\n\n\n\n\nPull from RStudio"
-  },
-  {
-    "objectID": "0-3-homework/0-2-bibliography.html",
-    "href": "0-3-homework/0-2-bibliography.html",
-    "title": "Bibliography",
-    "section": "",
-    "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ &gt; New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
-  },
-  {
-    "objectID": "0-3-homework/0-2-bibliography.html#literature-research",
-    "href": "0-3-homework/0-2-bibliography.html#literature-research",
-    "title": "Bibliography",
-    "section": "",
-    "text": "Consider writing one paragraph to introduce your PhD topic to a scientific audience. Do a brief online literature research and find three scientific articles that you would use to write this paragraph. As part of this literature research, do the following:\n\n\n\nOpen Zotero\nUnder Groups, right-click ‘ost-hs23’ &gt; New Collection …\nUse your GitHub username as the name for the collection\nHit OK\n\n\n\n\n\nOpen the browser for which you installed the Zotero Connector (if you did not yet install the Zotero Connector, head back to the pre-course work for Zotero)\nOpen the web pages that show the three scientific articles you want to store in your bibliography. Try to open the original page of the publisher (e.g. “My Flight Arrives at 5 am, Can You Pick Me Up?”: The Gatekeeping Burden of the African Academic).\nFind your Zotero Connector Add-on. It’s often placed in the top right of your browser.\n\n\n\n\n\n\n\nZotero Connector for Safari users\n\n\n\n\n\nZotero Connector for Safari is bundled with the Zotero 6 desktop app.\nSee here how to activate it: https://www.zotero.org/support/kb/safari_compatibility\n\n\n\n\nClick on the Zotero Connector icon. If a dialogue opens, click Got it.\nClick on the Zotero Connector again. The item has changed, it now looks like a paper.\n\n\n\n\n\n\n\n\n\n\n\nThe scientific article is stored as a reference your Zotero app and sorted into the Collection that you have selected.\nRepeat this process for the other two articles that you selected.\n\n\n\n\n\nHead back to the Zotero app\nRight-click your Collection\nClick Export Collection\nUnder ‘Format’, select Better BibTeX\nKeep all checkboxes unselected (see Figure 1)\nSave the exported .bib file to a local folder of your choice\n\n\n\n\n\n\n\nBetter BibTeX format not available?\n\n\n\n\n\nIf the Better BibTeX format is not available for you, head back to the pre-course work assignment for Zotero and setup the Add-on:\nhttps://ost-hs23.github.io/website/0-2-pre-work/03-zotero.html#setup-add-ons-and-the-citation-key-format\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Export a Zotero Collection in Better BibTeX format"
+    "text": "Step 2\nWrite up your About page using the Quarto file format.\n\nOpen the “Content” page of the Posit Cloud workspace for the course: https://posit.cloud/spaces/497061/content/all?sort=name_asc\nClick on “New Project” button to create a new project\n\n\n\n\n\n\n\n\n\n\n\nClick on “New RStudio Project”\n\n\n\n\n\n\n\n\n\n\n\nWhile the project deploys, rename it from “Untitled Project” to “website” by clicking on the “Untitled Project” text in the top-left corner of the RStudio window. You can also rename it after deployment has concluded.\n\n\n\n\n\n\n\n\n\n\n\nDelete the setup.qmd from the Files in the bottom-right window.\n\n\n\n\n\n\n\n\n\n\n\nDelete or update the README.md file in the Files in the bottom-right window.\nCreate a Blank file using Quarto Document, name it index.qmd and save it in the root of the project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen the index.qmd file and write up your page with guidance (e.g. copy/paste and replace) from Quarto documentation for About Pages\n\n\n\n\n\n\n\n\n\n\n\nRender the index.qmd file to see what your website will look like\nKeep updating the index.qmd until you are satisfied with the content and layout (e.g. try a different template, add your profile photo to the project folder, etc.)",
+    "crumbs": [
+      "Homework",
+      "About page"
+    ]
   },
   {
     "objectID": "2-3-websites/2-3-websites.html#quarto-projects",
@@ -433,13 +435,6 @@
     "text": "Getting help\n\nDuring my turn and our turn segments: Please keep your microphone on mute. Send message to the Zoom chat and we will try to support you.\nDuring your turn segments: Due to the large number of participants, it will not be feasible to join individual break-out rooms, but you will always be working in pairs."
   },
   {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#screen-setup---poll",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#screen-setup---poll",
-    "title": "Hello Quarto",
-    "section": "Screen setup - Poll",
-    "text": "Screen setup - Poll\n\n\nOne screen \n\nTwo screens or more"
-  },
-  {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#meeting-you-where-you-are",
     "title": "Hello Quarto",
@@ -514,7 +509,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#thanks",
     "title": "Hello Quarto",
     "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-ambition.github.io/website/"
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-ambition.github.io/website/"
   },
   {
     "objectID": "0-1-overview/0-1-overview.html#section",
@@ -650,6 +645,39 @@
     "text": "Questions\n\nAny questions / anything you’d like to review or learn before we wrap up this course?\n\n\n\n\n\n ost-hs23.github.io/website/"
   },
   {
+    "objectID": "1-2-documents/index.html",
+    "href": "1-2-documents/index.html",
+    "title": "Documents",
+    "section": "",
+    "text": "View slides in full screen",
+    "crumbs": [
+      "Day 1",
+      "Documents"
+    ]
+  },
+  {
+    "objectID": "1-2-documents/index.html#slides",
+    "href": "1-2-documents/index.html#slides",
+    "title": "Documents",
+    "section": "",
+    "text": "View slides in full screen",
+    "crumbs": [
+      "Day 1",
+      "Documents"
+    ]
+  },
+  {
+    "objectID": "1-2-documents/index.html#exercises",
+    "href": "1-2-documents/index.html#exercises",
+    "title": "Documents",
+    "section": "Exercises",
+    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd\n markdown-syntax.qmd\n callout-boxes.qmd\n tables-figures.qmd\n\n quarto-logo.png",
+    "crumbs": [
+      "Day 1",
+      "Documents"
+    ]
+  },
+  {
     "objectID": "2-5-develop/index.html",
     "href": "2-5-develop/index.html",
     "title": "Develop",
@@ -669,419 +697,6 @@
     "title": "Develop",
     "section": "Exercises",
     "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
-  },
-  {
-    "objectID": "1-3-documents/index.html",
-    "href": "1-3-documents/index.html",
-    "title": "Documents",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-3-documents/index.html#slides",
-    "href": "1-3-documents/index.html#slides",
-    "title": "Documents",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-3-documents/index.html#exercises",
-    "href": "1-3-documents/index.html#exercises",
-    "title": "Documents",
-    "section": "Exercises",
-    "text": "Exercises\nParticipants will use the following exercises during the live session. Every students receives a copy of the exercise files as a GitHub repository, which they can edit and run in their own Posit Cloud workspace.\n\n hello-penguins.qmd\n markdown-syntax.qmd\n callout-boxes.qmd\n tables-figures.qmd\n\n quarto-logo.png"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#version-control-with-git-and-github",
-    "href": "1-2-github/1-2-github.html#version-control-with-git-and-github",
-    "title": "GitHub",
-    "section": "Version Control with Git and GitHub",
-    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#why-is-it-useful",
-    "href": "1-2-github/1-2-github.html#why-is-it-useful",
-    "title": "GitHub",
-    "section": "Why is it useful?",
-    "text": "Why is it useful?"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#git-and-github",
-    "href": "1-2-github/1-2-github.html#git-and-github",
-    "title": "GitHub",
-    "section": "Git and GitHub",
-    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018 for US$ 7.5 billion\n100 million Users (20.5 in 2022 alone) (October 2023)"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#version-control---terminology",
-    "href": "1-2-github/1-2-github.html#version-control---terminology",
-    "title": "GitHub",
-    "section": "Version Control - Terminology",
-    "text": "Version Control - Terminology"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#our-turn",
-    "href": "1-2-github/1-2-github.html#our-turn",
-    "title": "GitHub",
-    "section": "Our turn",
-    "text": "Our turn\nStage -&gt; Commit -&gt; Push\n\n\nOpen your exercises repository in RStudio on Posit Cloud\nOpen the Git pane\nStage all files by clicking on the checkbox\nClick Commit button\nAdd a commit message\nClick Commit button\nClick Push button\nAdd GitHub username\nAdd GitHub Personal Access Token (PAT)\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "1-2-github/1-2-github.html#your-turn",
-    "href": "1-2-github/1-2-github.html#your-turn",
-    "title": "GitHub",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nExchange GitHub usernames with your neighbor\nOpen your exercises project in RStudio on Posit Cloud\nFind the issue tracker\nOpen an issue with the title “Prepare about.qmd for personal website”\nAdd yourself and your neighbor to the list of Assignees on the right panel\nAdd a comment to the issue and tag the course instructor (@larnsce) and the Assignee to ask for a review\nClick Submit new issue\n\n\n\n\n\n−+\n10:00\n\n\n\n\n\n\n\n🔗 ost-hs23.github.io/website/"
-  },
-  {
-    "objectID": "1-2-github/index.html",
-    "href": "1-2-github/index.html",
-    "title": "GitHub",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-2-github/index.html#slides",
-    "href": "1-2-github/index.html#slides",
-    "title": "GitHub",
-    "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "1-2-github/index.html#exercises",
-    "href": "1-2-github/index.html#exercises",
-    "title": "GitHub",
-    "section": "Exercises",
-    "text": "Exercises\nThere are no starter files for the exercises in this module. You’ll create the files as part of the exercises."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#components",
-    "href": "1-3-documents/1-3-documents.html#components",
-    "title": "Hello Quarto",
-    "section": "Components",
-    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have beautiful, powerful, and useful outputs!"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#literate-programming",
-    "href": "1-3-documents/1-3-documents.html#literate-programming",
-    "title": "Hello Quarto",
-    "section": "Literate programming",
-    "text": "Literate programming\nLiterate programming is writing out the program logic in a human language with included (separated by a primitive markup) code snippets and macros.\n---\ntitle: \"ggplot2 demo\"\ndate: \"5/23/2023\"\nformat: html\n---\n\n## MPG\n\nThere is a relationship between city and highway mileage.\n\n```{r}\n#| label: fig-mpg\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(x = cty, y = hwy)) + \n  geom_point() + \n  geom_smooth(method = \"loess\")\n```\n\n\nSource: https://en.wikipedia.org/wiki/Literate_programming"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml",
-    "href": "1-3-documents/1-3-documents.html#yaml",
-    "title": "Hello Quarto",
-    "section": "YAML",
-    "text": "YAML\n“Yet Another Markup Language” or “YAML Ain’t Markup Language” is used to provide document level metadata.\n---\nkey: value\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#output-options",
-    "href": "1-3-documents/1-3-documents.html#output-options",
-    "title": "Hello Quarto",
-    "section": "Output options",
-    "text": "Output options\n---\nformat: something\n---\n\n\n---\nformat: html\n---\n---\nformat: pdf\n---\n---\nformat: revealjs\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#output-option-arguments",
-    "href": "1-3-documents/1-3-documents.html#output-option-arguments",
-    "title": "Hello Quarto",
-    "section": "Output option arguments",
-    "text": "Output option arguments\nIndentation matters!\n---\nformat: \n  html:\n    toc: true\n    code-fold: true\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml-validation",
-    "href": "1-3-documents/1-3-documents.html#yaml-validation",
-    "title": "Hello Quarto",
-    "section": "YAML validation",
-    "text": "YAML validation\n\nInvalid: No space after :\n\n---\nformat:html\n---\n\nInvalid: Read as missing\n\n---\nformat:\nhtml\n---"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#yaml-validation-1",
-    "href": "1-3-documents/1-3-documents.html#yaml-validation-1",
-    "title": "Hello Quarto",
-    "section": "YAML validation",
-    "text": "YAML validation\nThere are multiple ways of formatting valid YAML:\n\nValid: There’s a space after :\n\nformat: html\n\nValid: format: html with selections made with proper indentation\n\nformat: \n  html:\n    toc: true"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quarto-linting",
-    "href": "1-3-documents/1-3-documents.html#quarto-linting",
-    "title": "Hello Quarto",
-    "section": "Quarto linting",
-    "text": "Quarto linting\nLint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.\n\n\n\n\nSource: https://en.wikipedia.org/wiki/Lint_(software)"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
-    "href": "1-3-documents/1-3-documents.html#quarto-yaml-intelligence",
-    "title": "Hello Quarto",
-    "section": "Quarto YAML Intelligence",
-    "text": "Quarto YAML Intelligence\nRStudio + VSCode provide rich tab-completion - start a word and tab to complete, or Ctrl + space to see all available options."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn",
-    "href": "1-3-documents/1-3-documents.html#your-turn",
-    "title": "Hello Quarto",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen hello-penguins.qmd in your exercises project in RStudio on Posit Cloud.\nIn the YAML header, try Ctrl + space to see the available YAML options.\nTry out the tab-completion of any options you remember.\nYou can use the HTML reference as needed.\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
-    "href": "1-3-documents/1-3-documents.html#list-of-valid-yaml-fields",
-    "title": "Hello Quarto",
-    "section": "List of valid YAML fields",
-    "text": "List of valid YAML fields\n\nMany YAML fields are common across various outputs\nBut also each output type has its own set of valid YAML fields and options\nDefinitive list: quarto.org/docs/reference/formats/html"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#text-formatting",
-    "href": "1-3-documents/1-3-documents.html#text-formatting",
-    "title": "Hello Quarto",
-    "section": "Text Formatting",
-    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* and **bold**\nitalics and bold\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\nstrikethrough\n\n\n`verbatim code`\nverbatim code"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#headings",
-    "href": "1-3-documents/1-3-documents.html#headings",
-    "title": "Hello Quarto",
-    "section": "Headings",
-    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#links",
-    "href": "1-3-documents/1-3-documents.html#links",
-    "title": "Hello Quarto",
-    "section": "Links",
-    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like &lt;https://quarto.org/&gt;, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: \n![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#lists",
-    "href": "1-3-documents/1-3-documents.html#lists",
-    "title": "Hello Quarto",
-    "section": "Lists",
-    "text": "Lists\nUnordered list:\n\n\nMarkdown:\n-   unordered list         \n    -   sub-item 1         \n    -   sub-item 1         \n        -   sub-sub-item 1 \n\nOutput\n\nunordered list\n\nsub-item 1\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\nOrdered list:\n\n\nMarkdown:\n1. ordered list            \n2. item 2                  \n    i. sub-item 1          \n         A.  sub-sub-item 1\n\nOutput\n\nordered list\n\nitem 2\n\nsub-item 1\n\nsub-sub-item 1"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#quotes",
-    "href": "1-3-documents/1-3-documents.html#quotes",
-    "title": "Hello Quarto",
-    "section": "Quotes",
-    "text": "Quotes\nMarkdown:\n&gt; Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. \n&gt; - Donald Knuth, Literate Programming\n\nOutput:\n\nLet us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. - Donald Knuth, Literate Programming\n\n\n\n\nKnuth (1984)"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn-1",
-    "href": "1-3-documents/1-3-documents.html#your-turn-1",
-    "title": "Hello Quarto",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen markdown-syntax.qmd in RStudio.\nUse the source editor mode\nFollow the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#callouts",
-    "href": "1-3-documents/1-3-documents.html#callouts",
-    "title": "Hello Quarto",
-    "section": "Callouts",
-    "text": "Callouts\n::: callout-note\nNote that there are five types of callouts, including: \n`note`, `tip`, `warning`, `caution`, and `important`.\n:::\n\n\n\n\n\n\nNote\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#more-callouts",
-    "href": "1-3-documents/1-3-documents.html#more-callouts",
-    "title": "Hello Quarto",
-    "section": "More callouts",
-    "text": "More callouts\n\n\n\n\n\n\nWarning\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\n\nImportant\n\n\nDanger, callouts will really improve your writing.\n\n\n\n\n\n\n\n\n\nCaution\n\n\nHere is something under construction.\n\n\n\n\n\n\n\n\n\nCaption\n\n\nTip with caption."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#your-turn-2",
-    "href": "1-3-documents/1-3-documents.html#your-turn-2",
-    "title": "Hello Quarto",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen callout-boxes.qmd and render the document.\nUsing the visual editor mode, change the type of the first callouts box and then re-render. Also play with the options to change its appearance.\nAdd a caption to the second callout box.\nMake the third callout box collapsible. Then, switch over to the source editor to inspect the markdown code.\nChange the format to PDF and re-render.\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#footnotes",
-    "href": "1-3-documents/1-3-documents.html#footnotes",
-    "title": "Hello Quarto",
-    "section": "Footnotes",
-    "text": "Footnotes\nPandoc supports numbering and formatting footnotes."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#inline-footnotes",
-    "href": "1-3-documents/1-3-documents.html#inline-footnotes",
-    "title": "Hello Quarto",
-    "section": "Inline footnotes",
-    "text": "Inline footnotes\nHere is an inline note.^[Inlines notes are easier to write,\nsince you don't have to pick an identifier and move down to\ntype the note.]\nHere is an inline note.1\nInline notes are easier to write, since you don’t have to pick an identifier and move down to type the note."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#inline-footnotes-1",
-    "href": "1-3-documents/1-3-documents.html#inline-footnotes-1",
-    "title": "Hello Quarto",
-    "section": "Inline footnotes",
-    "text": "Inline footnotes\nHere is a footnote reference[^1]\n\n[^1]: This can be easy in some situations when you have a really long note or\ndon't want to inline complex outputs.\n\nHere is a footnote reference1\n\n\nNotice in both situations that the footnote is placed at the bottom of the page in presentations, whereas in a document it would be hoverable or at the end of the document.\n\nThis can be easy in some situations when you have a really long note or don’t want to inline complex outputs."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#anatomy-of-a-code-chunk",
-    "href": "1-3-documents/1-3-documents.html#anatomy-of-a-code-chunk",
-    "title": "Hello Quarto",
-    "section": "Anatomy of a code chunk",
-    "text": "Anatomy of a code chunk\n\n\n\n```{r}\n#| label: car-stuff\n#| message: false\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n\npenguins |&gt; \n  distinct(species)\n```\n\n# A tibble: 3 × 1\n  species  \n  &lt;fct&gt;    \n1 Adelie   \n2 Gentoo   \n3 Chinstrap\n\n\n\n\nHas 3x backticks on each end\nEngine (r) is indicated between curly braces {r}\nOptions stated with the #| (hashpipe): #| option1: value"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#code-who-is-it-for",
-    "href": "1-3-documents/1-3-documents.html#code-who-is-it-for",
-    "title": "Hello Quarto",
-    "section": "Code, who is it for?",
-    "text": "Code, who is it for?\n\n\nThe way you display code is very different for different contexts.\nIn a teaching scenario like today, I really want to display code.\nIn a business, you may want to have a data-science facing output which displays the source code AND a stakeholder-facing output which hides the code."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#showing-and-hiding-code-with-echo",
-    "href": "1-3-documents/1-3-documents.html#showing-and-hiding-code-with-echo",
-    "title": "Hello Quarto",
-    "section": "Showing and hiding code with echo",
-    "text": "Showing and hiding code with echo\n\nThe echo option shows the code when set to true and hides it when set to false."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#tables-and-figures",
-    "href": "1-3-documents/1-3-documents.html#tables-and-figures",
-    "title": "Hello Quarto",
-    "section": "Tables and figures",
-    "text": "Tables and figures\n\nIn reproducible reports and manuscripts, the most commonly included code outputs are tables and figures.\nSo they get their own special sections in our deep dive!"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#markdown-tables",
-    "href": "1-3-documents/1-3-documents.html#markdown-tables",
-    "title": "Hello Quarto",
-    "section": "Markdown tables",
-    "text": "Markdown tables\nMarkdown:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\nOutput:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables",
-    "href": "1-3-documents/1-3-documents.html#grid-tables",
-    "title": "Hello Quarto",
-    "section": "Grid tables",
-    "text": "Grid tables\nMarkdown:\n+---------------+---------------+--------------------+\n| Fruit         | Price         | Advantages         |\n+===============+===============+====================+\n| Bananas       | $1.34         | - built-in wrapper |\n|               |               | - bright color     |\n+---------------+---------------+--------------------+\n| Oranges       | $2.10         | - cures scurvy     |\n|               |               | - tasty            |\n+---------------+---------------+--------------------+\n\n: Sample grid table."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables-1",
-    "href": "1-3-documents/1-3-documents.html#grid-tables-1",
-    "title": "Hello Quarto",
-    "section": "Grid tables",
-    "text": "Grid tables\nOutput:\n\nSample grid table.\n\n\n\n\n\n\n\nFruit\nPrice\nAdvantages\n\n\n\n\nBananas\n$1.34\n\nbuilt-in wrapper\nbright color\n\n\n\nOranges\n$2.10\n\ncures scurvy\ntasty"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables-alignment",
-    "href": "1-3-documents/1-3-documents.html#grid-tables-alignment",
-    "title": "Hello Quarto",
-    "section": "Grid tables: Alignment",
-    "text": "Grid tables: Alignment\n\nAlignments can be specified as with pipe tables, by putting colons at the boundaries of the separator line after the header:\n\n+---------------+---------------+--------------------+\n| Right         | Left          | Centered           |\n+==============:+:==============+:==================:+\n| Bananas       | $1.34         | built-in wrapper   |\n+---------------+---------------+--------------------+"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#grid-tables-authoring",
-    "href": "1-3-documents/1-3-documents.html#grid-tables-authoring",
-    "title": "Hello Quarto",
-    "section": "Grid tables: Authoring",
-    "text": "Grid tables: Authoring\n\nNote that grid tables are quite awkward to write with a plain text editor because unlike pipe tables, the column indicators must align.\nThe Visual Editor can assist in making these tables!"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#tables-from-code",
-    "href": "1-3-documents/1-3-documents.html#tables-from-code",
-    "title": "Hello Quarto",
-    "section": "Tables from code",
-    "text": "Tables from code\nThe knitr package can turn data frames into tables with knitr::kable():\n\nlibrary(knitr)\n\nhead(penguins) |&gt; \n  kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#tables-from-code-1",
-    "href": "1-3-documents/1-3-documents.html#tables-from-code-1",
-    "title": "Hello Quarto",
-    "section": "Tables from code",
-    "text": "Tables from code\nIf you want fancier tables, try the gt package and all that it offers!\n\n\nlibrary(gt)\n\nhead(penguins) |&gt; \n  gt() |&gt;\n  tab_style(\n    style = list(\n      cell_fill(color = \"pink\"),\n      cell_text(style = \"italic\")\n      ),\n    locations = cells_body(\n      columns = bill_length_mm,\n      rows = bill_length_mm &gt; 40\n    )\n  )\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#markdown-figures",
-    "href": "1-3-documents/1-3-documents.html#markdown-figures",
-    "title": "Hello Quarto",
-    "section": "Markdown figures",
-    "text": "Markdown figures\n![Penguins playing with a Quarto ball](images/penguins-quarto-ball.png)\n\nPenguins playing with a Quarto ball"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#subfigures",
-    "href": "1-3-documents/1-3-documents.html#subfigures",
-    "title": "Hello Quarto",
-    "section": "Subfigures",
-    "text": "Subfigures\nMarkdown:\n::: {#fig-penguins layout-ncol=2}\n\n![Blue penguin](images/blue-penguin.png){#fig-blue width=\"250px\"}\n\n![Orange penguin](images/orange-penguin.png){#fig-orange width=\"250px\"}\n\nTwo penguins\n\n:::"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#subfigures-1",
-    "href": "1-3-documents/1-3-documents.html#subfigures-1",
-    "title": "Hello Quarto",
-    "section": "Subfigures",
-    "text": "Subfigures\nOutput:\n\n\n\n\n\n\n\n\n\n\n\n(a) Blue penguin\n\n\n\n\n\n\n\n\n\n\n\n(b) Orange penguin\n\n\n\n\n\n\n\nFigure 1: Two penguins"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
-    "href": "1-3-documents/1-3-documents.html#finding-the-figures-to-include",
-    "title": "Hello Quarto",
-    "section": "Finding the figures to include",
-    "text": "Finding the figures to include\nIn places like markdown, YAML, or the command line/shell/terminal, you’ll need to use absolute or relative file paths:\n\n\nAbsolute = BAD: \"/Users/lars/exercises\" - Whose computer will this work on?\n\n\n\n\nRelative = BETTER:\n\n\"../ = up one directory, ../../ = up two directories, etc.\n/.. or / = start from root directory of your current computer"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#figures-with-code",
-    "href": "1-3-documents/1-3-documents.html#figures-with-code",
-    "title": "Hello Quarto",
-    "section": "Figures with code",
-    "text": "Figures with code\n\n```{r}\n#| fig-width: 4\n#| fig-align: right\n\nknitr::include_graphics(\"images/penguins-quarto-ball.png\")\n```"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#referencing-paths-in-r-code",
-    "href": "1-3-documents/1-3-documents.html#referencing-paths-in-r-code",
-    "title": "Hello Quarto",
-    "section": "Referencing paths in R code",
-    "text": "Referencing paths in R code\nUse the here package to reference the project root, as here::here() always starts at the top-level directory of a .Rproj:\n\nhere::here()\n\n[1] \"/Users/lschoebitz/Documents/gitrepos/gh-org-quarto-ambition/website\""
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#figures-from-code",
-    "href": "1-3-documents/1-3-documents.html#figures-from-code",
-    "title": "Hello Quarto",
-    "section": "Figures from code",
-    "text": "Figures from code\n\n```{r}\n#| fig-width: 6\n#| fig-asp: 0.618\n\nggplot(penguins, aes(x = species, fill = species)) +\n  geom_bar(show.legend = FALSE)\n```"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#cross-references-1",
-    "href": "1-3-documents/1-3-documents.html#cross-references-1",
-    "title": "Hello Quarto",
-    "section": "Cross references",
-    "text": "Cross references\n\nHelp readers to navigate your document with numbered references and hyperlinks to entities like figures and tables.\nCross referencing steps:\n\nAdd a caption to your figure or table.\nGive an ID to your figure or table, starting with fig- or tbl-.\nRefer to it with @fig-... or @tbl-...."
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#figure-cross-references",
-    "href": "1-3-documents/1-3-documents.html#figure-cross-references",
-    "title": "Hello Quarto",
-    "section": "Figure cross references",
-    "text": "Figure cross references\nThe presence of the caption (Blue penguin) and label (#fig-blue-penguin) make this figure referenceable:\n\n\nMarkdown:\nSee @fig-blue-penguin for a cute blue penguin.\n![Blue penguin](images/blue-penguin.png){#fig-blue-penguin}\n\nOutput:\nSee Figure 2 for a cute blue penguin.\n\n\n\n\n\n\nFigure 2: Blue penguin"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#table-cross-references",
-    "href": "1-3-documents/1-3-documents.html#table-cross-references",
-    "title": "Hello Quarto",
-    "section": "Table cross references",
-    "text": "Table cross references\nThe presence of the caption (A few penguins) and label (#tbl-penguins) make this table referenceable:\n\n\nMarkdown:\nSee @tbl-penguins for data on a few penguins.\n```{r}\n#| label: tbl-penguins\n#| tbl-cap: A few penguins\n\nhead(penguins) |&gt; \n  gt()\n```\n\nOutput:\nSee Table 1 for data on a few penguins.\n\nhead(penguins) |&gt; \n  gt()\n\n\n\nTable 1: A few penguins\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#our-turn",
-    "href": "1-3-documents/1-3-documents.html#our-turn",
-    "title": "Hello Quarto",
-    "section": "Our turn",
-    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow along with me and the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#learn-more",
-    "href": "1-3-documents/1-3-documents.html#learn-more",
-    "title": "Hello Quarto",
-    "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/authoring/markdown-basics.html"
-  },
-  {
-    "objectID": "1-3-documents/1-3-documents.html#references",
-    "href": "1-3-documents/1-3-documents.html#references",
-    "title": "Hello Quarto",
-    "section": "References",
-    "text": "References\n\n\n\n\n https://quarto-ambition.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "LICENSE.html",
@@ -1131,6 +746,293 @@
     "title": "Develop",
     "section": "Check Awesome Quarto repository",
     "text": "Check Awesome Quarto repository\nGo through the entries in the Awesome Quarto repository and get inspired.\n\ngithub.com/mcanouil/awesome-quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ost-hs23.github.io/website/"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#components",
+    "href": "1-2-documents/1-2-documents.html#components",
+    "title": "Documents",
+    "section": "Components",
+    "text": "Components\n\nMetadata: YAML\nText: Markdown\nCode: Executed via knitr or jupyter\n\n\nWeave it all together, and you have beautiful, powerful, and useful outputs!"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#literate-programming",
+    "href": "1-2-documents/1-2-documents.html#literate-programming",
+    "title": "Documents",
+    "section": "Literate programming",
+    "text": "Literate programming\nLiterate programming is writing out the program logic in a human language with included (separated by a primitive markup) code snippets and macros.\n---\ntitle: \"ggplot2 demo\"\ndate: \"5/23/2023\"\nformat: html\n---\n\n## MPG\n\nThere is a relationship between city and highway mileage.\n\n```{r}\n#| label: fig-mpg\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(x = cty, y = hwy)) + \n  geom_point() + \n  geom_smooth(method = \"loess\")\n```\n\n\nSource: https://en.wikipedia.org/wiki/Literate_programming"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#yaml",
+    "href": "1-2-documents/1-2-documents.html#yaml",
+    "title": "Documents",
+    "section": "YAML",
+    "text": "YAML\n“Yet Another Markup Language” or “YAML Ain’t Markup Language” is used to provide document level metadata.\n---\nkey: value\n---"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#output-options",
+    "href": "1-2-documents/1-2-documents.html#output-options",
+    "title": "Documents",
+    "section": "Output options",
+    "text": "Output options\n---\nformat: something\n---\n\n\n---\nformat: html\n---\n---\nformat: pdf\n---\n---\nformat: revealjs\n---"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#output-option-arguments",
+    "href": "1-2-documents/1-2-documents.html#output-option-arguments",
+    "title": "Documents",
+    "section": "Output option arguments",
+    "text": "Output option arguments\nIndentation matters!\n---\nformat: \n  html:\n    toc: true\n    code-fold: true\n---"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#yaml-validation",
+    "href": "1-2-documents/1-2-documents.html#yaml-validation",
+    "title": "Documents",
+    "section": "YAML validation",
+    "text": "YAML validation\n\nInvalid: No space after :\n\n---\nformat:html\n---\n\nInvalid: Read as missing\n\n---\nformat:\nhtml\n---"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#yaml-validation-1",
+    "href": "1-2-documents/1-2-documents.html#yaml-validation-1",
+    "title": "Documents",
+    "section": "YAML validation",
+    "text": "YAML validation\nThere are multiple ways of formatting valid YAML:\n\nValid: There’s a space after :\n\nformat: html\n\nValid: format: html with selections made with proper indentation\n\nformat: \n  html:\n    toc: true"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#quarto-linting",
+    "href": "1-2-documents/1-2-documents.html#quarto-linting",
+    "title": "Documents",
+    "section": "Quarto linting",
+    "text": "Quarto linting\nLint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.\n\n\n\n\nSource: https://en.wikipedia.org/wiki/Lint_(software)"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#quarto-yaml-intelligence",
+    "href": "1-2-documents/1-2-documents.html#quarto-yaml-intelligence",
+    "title": "Documents",
+    "section": "Quarto YAML Intelligence",
+    "text": "Quarto YAML Intelligence\nRStudio + VSCode provide rich tab-completion - start a word and tab to complete, or Ctrl + space to see all available options."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#list-of-valid-yaml-fields",
+    "href": "1-2-documents/1-2-documents.html#list-of-valid-yaml-fields",
+    "title": "Documents",
+    "section": "List of valid YAML fields",
+    "text": "List of valid YAML fields\n\nMany YAML fields are common across various outputs\nBut also each output type has its own set of valid YAML fields and options\nDefinitive list: quarto.org/docs/reference/formats/html"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#text-formatting",
+    "href": "1-2-documents/1-2-documents.html#text-formatting",
+    "title": "Documents",
+    "section": "Text Formatting",
+    "text": "Text Formatting\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n*italics* and **bold**\nitalics and bold\n\n\nsuperscript^2^ / subscript~2~\nsuperscript2 / subscript2\n\n\n~~strikethrough~~\nstrikethrough\n\n\n`verbatim code`\nverbatim code"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#headings",
+    "href": "1-2-documents/1-2-documents.html#headings",
+    "title": "Documents",
+    "section": "Headings",
+    "text": "Headings\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#links",
+    "href": "1-2-documents/1-2-documents.html#links",
+    "title": "Documents",
+    "section": "Links",
+    "text": "Links\nThere are several types of “links” or hyperlinks.\n\n\nMarkdown\nYou can embed [named hyperlinks](https://quarto.org/),\ndirect urls like &lt;https://quarto.org/&gt;, and links to \n[other places](#quarto-anatomy) in \nthe document. The syntax is similar for embedding an\ninline image: \n![Penguins playing with ball](images/penguins-quarto-ball.png).\n\nOutput\nYou can embed named hyperlinks, direct urls like https://quarto.org/, and links to other places in the document. The syntax is similar for embedding an inline image: ."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#lists",
+    "href": "1-2-documents/1-2-documents.html#lists",
+    "title": "Documents",
+    "section": "Lists",
+    "text": "Lists\nUnordered list:\n\n\nMarkdown:\n-   unordered list         \n    -   sub-item 1         \n    -   sub-item 1         \n        -   sub-sub-item 1 \n\nOutput\n\nunordered list\n\nsub-item 1\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\nOrdered list:\n\n\nMarkdown:\n1. ordered list            \n2. item 2                  \n    i. sub-item 1          \n         A.  sub-sub-item 1\n\nOutput\n\nordered list\n\nitem 2\n\nsub-item 1\n\nsub-sub-item 1"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#quotes",
+    "href": "1-2-documents/1-2-documents.html#quotes",
+    "title": "Documents",
+    "section": "Quotes",
+    "text": "Quotes\nMarkdown:\n&gt; Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. \n&gt; - Donald Knuth, Literate Programming\n\nOutput:\n\nLet us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. - Donald Knuth, Literate Programming\n\n\n\n\nKnuth (1984)"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#your-turn",
+    "href": "1-2-documents/1-2-documents.html#your-turn",
+    "title": "Documents",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen markdown-syntax.qmd in RStudio.\nUse the source editor mode\nFollow the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n07:00"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#callouts",
+    "href": "1-2-documents/1-2-documents.html#callouts",
+    "title": "Documents",
+    "section": "Callouts",
+    "text": "Callouts\n::: callout-note\nNote that there are five types of callouts, including: \n`note`, `tip`, `warning`, `caution`, and `important`.\n:::\n\n\n\n\n\n\nNote\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#more-callouts",
+    "href": "1-2-documents/1-2-documents.html#more-callouts",
+    "title": "Documents",
+    "section": "More callouts",
+    "text": "More callouts\n\n\n\n\n\n\nWarning\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\n\nImportant\n\n\nDanger, callouts will really improve your writing.\n\n\n\n\n\n\n\n\n\nCaution\n\n\nHere is something under construction.\n\n\n\n\n\n\n\n\n\nCaption\n\n\nTip with caption."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#your-turn-1",
+    "href": "1-2-documents/1-2-documents.html#your-turn-1",
+    "title": "Documents",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen callout-boxes.qmd and render the document.\nUsing the visual editor mode, change the type of the first callouts box and then re-render.\nAdd a caption to the second callout box.\nMake the third callout box collapsible. Then, switch over to the source editor mode to inspect the markdown code.\nChange the format to PDF and re-render.\n\n\n\n\n\n\n\n\nHow to edit the options?\n\n\n\n\n\n\n\n\n\n−+\n07:00"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#footnotes",
+    "href": "1-2-documents/1-2-documents.html#footnotes",
+    "title": "Documents",
+    "section": "Footnotes",
+    "text": "Footnotes\nNumbering and formatting footnotes is supported."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#inline-footnotes",
+    "href": "1-2-documents/1-2-documents.html#inline-footnotes",
+    "title": "Documents",
+    "section": "Inline footnotes",
+    "text": "Inline footnotes\nHere is an inline note.^[Inlines notes are easier to write,\nsince you don't have to pick an identifier and move down to\ntype the note.]\nHere is an inline note.1\n\n\n\n\n\n\nUse the source editor mode\n\n\nThe source editor mode is the recommended way to add footnotes.\n\n\n\nInline notes are easier to write, since you don’t have to pick an identifier and move down to type the note."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#anatomy-of-a-code-chunk",
+    "href": "1-2-documents/1-2-documents.html#anatomy-of-a-code-chunk",
+    "title": "Documents",
+    "section": "Anatomy of a code chunk",
+    "text": "Anatomy of a code chunk\n\n\n\n```{r}\n#| label: penguins\n#| message: false\n\nlibrary(tidyverse)\nlibrary(palmerpenguins)\nlibrary(knitr)\n\npenguins |&gt; \n  count(species) |&gt; \n  kable()\n```\n\n\n\n\nspecies\nn\n\n\n\n\nAdelie\n152\n\n\nChinstrap\n68\n\n\nGentoo\n124\n\n\n\n\n\n\n\nHas 3x backticks on each end\nEngine (r) is indicated between curly braces {r}\nOptions stated with the #| (hashpipe)"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#code-who-is-it-for",
+    "href": "1-2-documents/1-2-documents.html#code-who-is-it-for",
+    "title": "Documents",
+    "section": "Code, who is it for?",
+    "text": "Code, who is it for?\n\n\nThe way you display code is very different for different contexts.\nIn a teaching scenario like today, I really want to display code.\nIn a business, you may want to have a data-science facing output which displays the source code AND a stakeholder-facing output which hides the code."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#showing-and-hiding-code-with-echo",
+    "href": "1-2-documents/1-2-documents.html#showing-and-hiding-code-with-echo",
+    "title": "Documents",
+    "section": "Showing and hiding code with echo",
+    "text": "Showing and hiding code with echo\n\nThe echo option shows the code when set to true and hides it when set to false."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#tables-and-figures",
+    "href": "1-2-documents/1-2-documents.html#tables-and-figures",
+    "title": "Documents",
+    "section": "Tables and figures",
+    "text": "Tables and figures\n\nIn reproducible reports and manuscripts, the most commonly included code outputs are tables and figures.\nSo they get their own special sections in our deep dive!"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#markdown-tables",
+    "href": "1-2-documents/1-2-documents.html#markdown-tables",
+    "title": "Documents",
+    "section": "Markdown tables",
+    "text": "Markdown tables\nMarkdown:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\n\n\n\n\n\nUse the source editor mode\n\n\nThe source editor mode is the recommended way to add markdown tables. These are tables, which are not generated from code.\n\n\n\n\nOutput:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#tables-from-code",
+    "href": "1-2-documents/1-2-documents.html#tables-from-code",
+    "title": "Documents",
+    "section": "Tables from code",
+    "text": "Tables from code\nThe knitr package can turn data frames into tables with knitr::kable():\n\nlibrary(knitr)\n\npenguins |&gt; \n  count(species, island) |&gt; \n  kable()\n\n\n\n\nspecies\nisland\nn\n\n\n\n\nAdelie\nBiscoe\n44\n\n\nAdelie\nDream\n56\n\n\nAdelie\nTorgersen\n52\n\n\nChinstrap\nDream\n68\n\n\nGentoo\nBiscoe\n124"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#tables-from-code-1",
+    "href": "1-2-documents/1-2-documents.html#tables-from-code-1",
+    "title": "Documents",
+    "section": "Tables from code",
+    "text": "Tables from code\nIf you want fancier tables, try the gt package and all that it offers!\n\n\nlibrary(gt)\n\nhead(penguins) |&gt; \n  gt() |&gt;\n  tab_style(\n    style = list(\n      cell_fill(color = \"pink\"),\n      cell_text(style = \"italic\")\n      ),\n    locations = cells_body(\n      columns = bill_length_mm,\n      rows = bill_length_mm &gt; 40\n    )\n  )\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#markdown-figures",
+    "href": "1-2-documents/1-2-documents.html#markdown-figures",
+    "title": "Documents",
+    "section": "Markdown figures",
+    "text": "Markdown figures\n![Penguins playing with a Quarto ball](images/penguins-quarto-ball.png)\n\nPenguins playing with a Quarto ball"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#subfigures",
+    "href": "1-2-documents/1-2-documents.html#subfigures",
+    "title": "Documents",
+    "section": "Subfigures",
+    "text": "Subfigures\nMarkdown:\n::: {#fig-penguins layout-ncol=2}\n\n![Blue penguin](images/blue-penguin.png){#fig-blue width=\"250px\"}\n\n![Orange penguin](images/orange-penguin.png){#fig-orange width=\"250px\"}\n\nTwo penguins\n\n:::"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#subfigures-1",
+    "href": "1-2-documents/1-2-documents.html#subfigures-1",
+    "title": "Documents",
+    "section": "Subfigures",
+    "text": "Subfigures\nOutput:\n\n\n\n\n\n\n\n\n\n\n\n(a) Blue penguin\n\n\n\n\n\n\n\n\n\n\n\n(b) Orange penguin\n\n\n\n\n\n\n\nFigure 1: Two penguins"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#finding-the-figures-to-include",
+    "href": "1-2-documents/1-2-documents.html#finding-the-figures-to-include",
+    "title": "Documents",
+    "section": "Finding the figures to include",
+    "text": "Finding the figures to include\nIn places like markdown, YAML, or the command line/shell/terminal, you’ll need to use absolute or relative file paths:\n\n\nAbsolute = BAD: \"/Users/lars/exercises\" - Whose computer will this work on?\n\n\n\n\nRelative = BETTER:\n\n\"../ = up one directory, ../../ = up two directories, etc.\n/.. or / = start from root directory of your current computer"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#figures-with-code",
+    "href": "1-2-documents/1-2-documents.html#figures-with-code",
+    "title": "Documents",
+    "section": "Figures with code",
+    "text": "Figures with code\n\n```{r}\n#| fig-width: 4\n#| fig-align: right\n\nknitr::include_graphics(\"images/penguins-quarto-ball.png\")\n```"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#referencing-paths-in-r-code",
+    "href": "1-2-documents/1-2-documents.html#referencing-paths-in-r-code",
+    "title": "Documents",
+    "section": "Referencing paths in R code",
+    "text": "Referencing paths in R code\nUse the here package to reference the project root, as here::here() always starts at the top-level directory of a .Rproj:\n\nhere::here()\n\n[1] \"/Users/lschoebitz/Documents/gitrepos/gh-org-quarto-ambition/website\""
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#figures-from-code",
+    "href": "1-2-documents/1-2-documents.html#figures-from-code",
+    "title": "Documents",
+    "section": "Figures from code",
+    "text": "Figures from code\n\n```{r}\nggplot(penguins, aes(x = species, fill = species)) +\n  geom_bar(show.legend = FALSE)\n```"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#cross-references-1",
+    "href": "1-2-documents/1-2-documents.html#cross-references-1",
+    "title": "Documents",
+    "section": "Cross references",
+    "text": "Cross references\n\nHelp readers to navigate your document with numbered references and hyperlinks to entities like figures and tables.\nCross referencing steps:\n\nAdd a caption to your figure or table.\nGive an ID to your figure or table, starting with fig- or tbl-.\nRefer to it with @fig-... or @tbl-...."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#figure-cross-references",
+    "href": "1-2-documents/1-2-documents.html#figure-cross-references",
+    "title": "Documents",
+    "section": "Figure cross references",
+    "text": "Figure cross references\nThe presence of the caption (Blue penguin) and label (#fig-blue-penguin) make this figure referenceable:\n\n\nMarkdown:\nSee @fig-blue-penguin for a cute blue penguin.\n![Blue penguin](images/blue-penguin.png){#fig-blue-penguin}\n\nOutput:\nSee Figure 2 for a cute blue penguin.\n\n\n\n\n\n\nFigure 2: Blue penguin"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#table-cross-references",
+    "href": "1-2-documents/1-2-documents.html#table-cross-references",
+    "title": "Documents",
+    "section": "Table cross references",
+    "text": "Table cross references\nThe presence of the caption (A few penguins) and label (#tbl-penguins) make this table referenceable:\n\n\nMarkdown:\nSee @tbl-penguins for data on a few penguins.\n```{r}\n#| label: tbl-penguins\n#| tbl-cap: A few penguins\n\nhead(penguins) |&gt; \n  gt()\n```\n\nOutput:\nSee Table 1 for data on a few penguins.\n\nhead(penguins) |&gt; \n  gt()\n\n\n\nTable 1: A few penguins\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#our-turn",
+    "href": "1-2-documents/1-2-documents.html#our-turn",
+    "title": "Documents",
+    "section": "Our turn",
+    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow along with me and the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#learn-more",
+    "href": "1-2-documents/1-2-documents.html#learn-more",
+    "title": "Documents",
+    "section": "Learn more",
+    "text": "Learn more\n\nquarto.org/docs/authoring/markdown-basics.html"
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#references",
+    "href": "1-2-documents/1-2-documents.html#references",
+    "title": "Documents",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "2-6-wrap-up/index.html",
@@ -1250,39 +1152,25 @@
     "text": "Exercises\nFor exercises in this module we’ll use all the documents we’ve created so far."
   },
   {
-    "objectID": "0-3-homework/0-4-scholarly-document.html",
-    "href": "0-3-homework/0-4-scholarly-document.html",
-    "title": "Scholarly document",
-    "section": "",
-    "text": "You will write a paragraph about your research. You will reference the three scientific articles that you stored in your Bibliography. This task is only about writing the text for your paragraph. You do not yet need to prepare the actual Quarto Document, neither do you have to add in the references as citations. That’s what we will practic together next week.\n\nWrite up a 100 word paragraph about your research using placeholders for citations to the three scientific articles you stored in your Bibliography."
-  },
-  {
-    "objectID": "0-3-homework/0-4-scholarly-document.html#blog-post",
-    "href": "0-3-homework/0-4-scholarly-document.html#blog-post",
-    "title": "Scholarly document",
-    "section": "",
-    "text": "You will write a paragraph about your research. You will reference the three scientific articles that you stored in your Bibliography. This task is only about writing the text for your paragraph. You do not yet need to prepare the actual Quarto Document, neither do you have to add in the references as citations. That’s what we will practic together next week.\n\nWrite up a 100 word paragraph about your research using placeholders for citations to the three scientific articles you stored in your Bibliography."
-  },
-  {
     "objectID": "0-3-homework/index.html",
     "href": "0-3-homework/index.html",
     "title": "Homework",
     "section": "",
-    "text": "Prior to Day 2, please complete the four homework assignments\n\nAssignment 1: Tables & Figures: Cross-references tables and figures in a document\nAssignment 2: Bibliography: Prepare a bibliography using Zotero\nAssignment 3: About page: Write up content for an About page on your website\nAssignment 4: Scholarly document: Prepare a paragraph of 100 words about your research"
+    "text": "Prior to Day 2, please complete the following two homework assignments:\n\nAssignment 1: Tables & Figures: Cross-references tables and figures in a document\nAssignment 2: About Page: Prepare content and create About page for your website",
+    "crumbs": [
+      "Homework"
+    ]
   },
   {
     "objectID": "0-3-homework/0-1-tables-figures.html",
     "href": "0-3-homework/0-1-tables-figures.html",
     "title": "Tables and figures",
     "section": "",
-    "text": "This exercise is in your exercises repository and has the title: tables-figures.qmd."
-  },
-  {
-    "objectID": "0-3-homework/0-1-tables-figures.html#tips",
-    "href": "0-3-homework/0-1-tables-figures.html#tips",
-    "title": "Tables and figures",
-    "section": "Tips",
-    "text": "Tips\n\nTask 1\n\nUse the visual editing mode\nTo cross-reference the table, you need a caption and additionally an ID starting with tbl-. That ID is added to the Caption below the table as: Caption {#tbl-label}\n\n\n\nTask 2\n\nCheck this slide: https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/figure-cross-references\n\n\n\nTask 3\n\nCheck the following slide, but consider what is different for figures compared to tables: https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/table-cross-references"
+    "text": "This exercise is in your RStudio exercises project on Posit Cloud and has the title tables-figures.qmd: https://posit.cloud/spaces/497061/content/all?sort=name_asc\nAll guidance is provided in the file.",
+    "crumbs": [
+      "Homework",
+      "Tables & Figures"
+    ]
   },
   {
     "objectID": "2-4-publish/index.html",
@@ -1380,5 +1268,19 @@
       "Pre-course work",
       "Step 3: Quarto Pub"
     ]
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#thanks",
+    "href": "1-2-documents/1-2-documents.html#thanks",
+    "title": "Documents",
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-ambition.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "1-2-documents/1-2-documents.html#homework",
+    "href": "1-2-documents/1-2-documents.html#homework",
+    "title": "Documents",
+    "section": "Homework",
+    "text": "Homework\n\nquarto-ambition.github.io/website/0-3-homework/index.html"
   }
 ]

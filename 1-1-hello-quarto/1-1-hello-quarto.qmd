@@ -325,7 +325,9 @@ Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
 
 ## Thanks! `r emo::ji("sunflower")`
 
-Slides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as [PDF on GitHub](https://github.com/quarto-ambition/website/raw/main/1-1-hello-quarto/1-1-hello-quarto.pdf)
+Slides created via revealjs and Quarto: <https://quarto.org/docs/presentations/revealjs/>
+
+Access slides as [PDF on GitHub](https://github.com/quarto-ambition/website/raw/main/1-1-hello-quarto/1-1-hello-quarto.pdf)
 
 All material is licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
