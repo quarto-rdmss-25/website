@@ -29,6 +29,12 @@ options(width = 65)
 library(countdown)
 ```
 
+## {{< fa flag >}} {.center-align auto-animate="true"}
+
+::: {style="margin-top: 50px; font-size: 1.5em"}
+This class is being recorded. Access to the recording is restricted to course participants on the Moodle platform.
+:::
+
 
 # Welcome! `r emo::ji("wave")` {background-color="#4C326A"}
 
