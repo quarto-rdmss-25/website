@@ -32,71 +32,6 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-    /* CSS for syntax highlighting */
-    pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { line-height: 1.25; }
-    pre > code.sourceCode > span:empty { height: 1.2em; }
-    .sourceCode { overflow: visible; }
-    code.sourceCode > span { color: inherit; text-decoration: inherit; }
-    div.sourceCode { margin: 1em 0; }
-    pre.sourceCode { margin: 0; }
-    @media screen {
-    div.sourceCode { overflow: auto; }
-    }
-    @media print {
-    pre > code.sourceCode { white-space: pre-wrap; }
-    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-    }
-    pre.numberSource code
-      { counter-reset: source-line 0; }
-    pre.numberSource code > span
-      { position: relative; left: -4em; counter-increment: source-line; }
-    pre.numberSource code > span > a:first-child::before
-      { content: counter(source-line);
-        position: relative; left: -1em; text-align: right; vertical-align: baseline;
-        border: none; display: inline-block;
-        -webkit-touch-callout: none; -webkit-user-select: none;
-        -khtml-user-select: none; -moz-user-select: none;
-        -ms-user-select: none; user-select: none;
-        padding: 0 4px; width: 4em;
-        color: #aaaaaa;
-      }
-    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-    div.sourceCode
-      { color: #003b4f; background-color: #f1f3f5; }
-    @media screen {
-    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-    }
-    code span { color: #003b4f; } /* Normal */
-    code span.al { color: #ad0000; } /* Alert */
-    code span.an { color: #5e5e5e; } /* Annotation */
-    code span.at { color: #657422; } /* Attribute */
-    code span.bn { color: #ad0000; } /* BaseN */
-    code span.bu { } /* BuiltIn */
-    code span.cf { color: #003b4f; } /* ControlFlow */
-    code span.ch { color: #20794d; } /* Char */
-    code span.cn { color: #8f5902; } /* Constant */
-    code span.co { color: #5e5e5e; } /* Comment */
-    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
-    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
-    code span.dt { color: #ad0000; } /* DataType */
-    code span.dv { color: #ad0000; } /* DecVal */
-    code span.er { color: #ad0000; } /* Error */
-    code span.ex { } /* Extension */
-    code span.fl { color: #ad0000; } /* Float */
-    code span.fu { color: #4758ab; } /* Function */
-    code span.im { color: #00769e; } /* Import */
-    code span.in { color: #5e5e5e; } /* Information */
-    code span.kw { color: #003b4f; } /* Keyword */
-    code span.op { color: #5e5e5e; } /* Operator */
-    code span.ot { color: #003b4f; } /* Other */
-    code span.pp { color: #ad0000; } /* Preprocessor */
-    code span.sc { color: #5e5e5e; } /* SpecialChar */
-    code span.ss { color: #20794d; } /* SpecialString */
-    code span.st { color: #20794d; } /* String */
-    code span.va { color: #111111; } /* Variable */
-    code span.vs { color: #20794d; } /* VerbatimString */
-    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -412,7 +347,7 @@ Lars Schöbitz
   <p class="date">April 3, 2024</p>
 </section>
 <section>
-<section id="welcome" class="title-slide slide level1 center" data-background-color="#5b195b">
+<section id="welcome" class="title-slide slide level1 center" data-background-color="#4C326A">
 <h1>Welcome! 👋</h1>
 
 </section>
@@ -456,7 +391,7 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_3c1a92f8" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_1505aec4" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">02</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -464,7 +399,7 @@ Lars Schöbitz
 </div>
 </section></section>
 <section>
-<section id="quarto" class="title-slide slide level1 center-align center" data-background-color="#461a52">
+<section id="quarto" class="title-slide slide level1 center-align center" data-background-color="#4C326A">
 <h1>Quarto</h1>
 <div class="hand">
 <p>authoring and publishing workflows for collaborative scientific writing</p>
@@ -485,7 +420,7 @@ Quarto Pub</p>
 </div>
 </section></section>
 <section>
-<section id="why---reproduciblity" class="title-slide slide level1 center-align center" data-background-color="#461a52">
+<section id="why---reproduciblity" class="title-slide slide level1 center-align center" data-background-color="#4C326A">
 <h1>Why? -&gt; Reproduciblity</h1>
 
 </section>
@@ -531,19 +466,9 @@ Quarto Pub</p>
 <li><p>During <span class="highlight-yellow">my turn</span> and <span class="highlight-yellow">our turn</span> segments: Please keep your microphone on mute. Send message to the <span class="highlight-yellow">Zoom chat</span> and we will try to support you.</p></li>
 <li><p>During <span class="highlight-yellow">your turn</span> segments: Due to the large number of participants, it will not be feasible to join individual break-out rooms, but you will always be working in pairs.</p></li>
 </ul>
-</section>
-<section id="screen-setup---poll" class="slide level2">
-<h2>Screen setup - Poll</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>One screen <img data-src="images/bram-naus-N1gUD_dCvJE-unsplash.jpg"></p>
-</div><div class="column" style="width:50%;">
-<p>Two screens or more <img data-src="images/daniel-korpai-vHVfpi3h5xk-unsplash.jpg"></p>
-</div>
-</div>
 </section></section>
 <section>
-<section id="hello-quarto" class="title-slide slide level1 center">
+<section id="hello-quarto" class="title-slide slide level1 center" data-background-color="#4C326A">
 <h1>Hello Quarto</h1>
 
 </section>
@@ -572,7 +497,7 @@ Quarto Pub</p>
 </div>
 </section></section>
 <section>
-<section id="what-is-quarto" class="title-slide slide level1 center">
+<section id="what-is-quarto" class="title-slide slide level1 center" data-background-color="#4C326A">
 <h1>What is Quarto?</h1>
 
 </section>
@@ -595,21 +520,19 @@ Quarto Pub</p>
 <h2>Your turn</h2>
 <div class="task">
 <ul>
-<li>Open <a href="https://posit.cloud">posit.cloud</a></li>
-<li>Login with your details</li>
+<li>Open <a href="https://posit.cloud">posit.cloud</a> &amp; login with your details</li>
 <li>Open the workspace for the course: <a href="https://posit.cloud/spaces/497061/content/all?sort=name_asc" class="uri">https://posit.cloud/spaces/497061/content/all?sort=name_asc</a></li>
-<li>Click “Start” next to Exercises</li>
-<li>Wait until the projeczt has deployed</li>
-<li>Open <code>hello-penguins.qmd</code> in RStudio and in visual editing mode</li>
+<li>Click “Start” next to the <code>exercises</code> project</li>
+<li>Wait until the project has deployed</li>
+<li>Open <code>hello-penguins.qmd</code> in RStudio from the Files tab in the bottom-right window</li>
 <li>Render the document</li>
 <li>Update your name and re-render</li>
 <li>Inspect components of the document and make one more update and re-render.</li>
-<li>Compare notes with neighbors about updates you’ve made and note any aspects of the document that are not clear after the tour and your first interaction with it.</li>
 </ul>
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_99cfe47b" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_47658091" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -625,7 +548,7 @@ Quarto Pub</p>
 </div>
 </section></section>
 <section>
-<section id="quarto-formats" class="title-slide slide level1 center">
+<section id="quarto-formats" class="title-slide slide level1 center" data-background-color="#4C326A">
 <h1>Quarto formats</h1>
 
 </section>
@@ -746,26 +669,25 @@ Quarto Pub</p>
 </tbody>
 </table>
 </section>
-<section id="your-turn-2" class="slide level2">
+<section id="your-turn-2" class="slide level2 small">
 <h2>Your turn</h2>
 <div class="task">
-<p>In your exercises project in RStudio on Posit Cloud, go to <span class="highlight-yellow">File &gt; New File &gt; Quarto document</span> to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use <code>my-first-document.qmd</code>.</p>
-<p>Use the visual editor for the next steps.</p>
+<p>In your exercises project in RStudio on Posit Cloud, go to <span class="highlight-yellow">File &gt; New File &gt; Quarto document</span> to create a Quarto document with HTML output. Render the document, which will ask you to give it a name – you can use <code>my-first-document.qmd</code>. Use the visual editor for the next steps.</p>
 <ul>
-<li><p>Add a title and your name as the author.</p></li>
-<li><p>With reference to writing and publishing: Create three sections,</p>
+<li><p>In the YAML header at the top of the document, add a title in the <code>title:</code> field and your name to the <code>author:</code> field.</p></li>
+<li><p>Create three sections in the document formatted as Heading 2, name these sections</p>
 <ul>
-<li>one with a task that gave you joy,</li>
-<li>one with a task you found challenging,</li>
-<li>and one with a fact you want to learn,</li>
+<li>Joyful tasks</li>
+<li>Challenging tasks</li>
+<li>A fact to learn</li>
 </ul></li>
-<li><p>Add a table of contents.</p></li>
+<li><p><span class="highlight-yellow"><strong>Stretch goal:</strong></span> In the YAML header add a table of contents in the <code>format:</code> field. Tipp: Check <a href="https://quarto.org/">quarto.org</a> and use search function <i class="fa-solid fa-magnifying-glass" aria-label="magnifying-glass"></i> with “HTML table of contents”</p></li>
 <li><p><span class="highlight-yellow"><strong>Stretch goal:</strong></span> Change the html theme to <code>sketchy</code>. Tipp: Check <a href="https://quarto.org/">quarto.org</a> and use search function <i class="fa-solid fa-magnifying-glass" aria-label="magnifying-glass"></i> with “HTML theming”</p></li>
 </ul>
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_16971b67" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_34ed37c0" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -777,9 +699,8 @@ Quarto Pub</p>
 <p><span class="highlight-yellow">Please get up and move!</span> Let your emails rest in peace.</p>
 
 <img data-src="images/pixel-art-tree.png" style="width:50.0%" alt="This is the prompt generated by DALL-E 3 by OpenAI: A pixel art scene representing the concept of taking a break. The scene shows a serene outdoor setting with a clear blue sky. In the center, a small pixelated character is sitting comfortably on a bright green grassy hill, under the shade of a large, leafy tree. The character is depicted in a relaxed pose, perhaps sipping a warm beverage from a small cup. Nearby, a gentle stream flows, and a few fluffy white clouds drift in the sky. The overall mood of the image is peaceful and calming, emphasizing the tranquility of taking a break in nature." class="r-stretch"><div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="fu">countdown</span>(<span class="at">minutes =</span> <span class="dv">10</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div class="countdown" id="timer_28c274ac" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_29c0e62a" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -791,7 +712,8 @@ Quarto Pub</p>
 </section>
 <section id="thanks" class="slide level2">
 <h2>Thanks! 🌻</h2>
-<p>Slides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as <a href="https://github.com/quarto-ambition/website/raw/main/1-1-hello-quarto/1-1-hello-quarto.pdf">PDF on GitHub</a></p>
+<p>Slides created via revealjs and Quarto: <a href="https://quarto.org/docs/presentations/revealjs/" class="uri">https://quarto.org/docs/presentations/revealjs/</a></p>
+<p>Access slides as <a href="https://github.com/quarto-ambition/website/raw/main/1-1-hello-quarto/1-1-hello-quarto.pdf">PDF on GitHub</a></p>
 <p>All material is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International</a>.</p>
 
 <div class="quarto-auto-generated-content">

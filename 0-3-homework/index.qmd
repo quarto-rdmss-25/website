@@ -2,9 +2,7 @@
 title: "Homework"
 ---
 
-Prior to Day 2, please complete the four homework assignments
+Prior to Day 2, please complete the following two homework assignments:
 
 -   [Assignment 1: Tables & Figures](0-1-tables-figures.html): Cross-references tables and figures in a document
--   [Assignment 2: Bibliography](0-2-bibliography.html): Prepare a bibliography using Zotero
--   [Assignment 3: About page](0-3-about-page.html): Write up content for an About page on your website
--   [Assignment 4: Scholarly document](0-4-scholarly-document.html): Prepare a paragraph of 100 words about your research
+-   [Assignment 2: About Page](0-2-about-page.html): Prepare content and create About page for your website

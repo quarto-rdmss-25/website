@@ -2,19 +2,6 @@
 title: "Tables and figures"
 ---
 
-This exercise is in your [exercises repository](https://posit.cloud/spaces/426098/content/all?sort=name_asc) and has the title: `tables-figures.qmd`.
+This exercise is in your RStudio exercises project on Posit Cloud and has the title `tables-figures.qmd`: <https://posit.cloud/spaces/497061/content/all?sort=name_asc>
 
-## Tips
-
-### Task 1
-
--   Use the visual editing mode
--   To cross-reference the table, you need a caption and additionally an ID starting with `tbl-`. That ID is added to the Caption below the table as: `Caption {#tbl-label}`
-
-### Task 2
-
-- Check this slide: <https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/figure-cross-references>
-
-### Task 3
-
-- Check the following slide, but consider what is different for figures compared to tables: <https://ost-hs23.github.io/website/1-3-documents/1-3-documents.html#/table-cross-references>
+All guidance is provided in the file.
