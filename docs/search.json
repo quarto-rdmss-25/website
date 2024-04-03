@@ -1014,25 +1014,18 @@
     "text": "Table cross references\nThe presence of the caption (A few penguins) and label (#tbl-penguins) make this table referenceable:\n\n\nMarkdown:\nSee @tbl-penguins for data on a few penguins.\n```{r}\n#| label: tbl-penguins\n#| tbl-cap: A few penguins\n\nhead(penguins) |&gt; \n  gt()\n```\n\nOutput:\nSee Table 1 for data on a few penguins.\n\nhead(penguins) |&gt; \n  gt()\n\n\n\nTable 1: A few penguins\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
   },
   {
-    "objectID": "1-2-documents/1-2-documents.html#our-turn",
-    "href": "1-2-documents/1-2-documents.html#our-turn",
+    "objectID": "1-2-documents/1-2-documents.html#homework",
+    "href": "1-2-documents/1-2-documents.html#homework",
     "title": "Documents",
-    "section": "Our turn",
-    "text": "Our turn\n\n\nOpen tables-figures.qmd.\nFollow along with me and the instructions in the document, then exchange one new thing you’ve learned with your neighbor.\n\n\n\n\n\n−+\n10:00"
+    "section": "Homework",
+    "text": "Homework\n\nquarto-ambition.github.io/website/0-3-homework/index.html"
   },
   {
-    "objectID": "1-2-documents/1-2-documents.html#learn-more",
-    "href": "1-2-documents/1-2-documents.html#learn-more",
+    "objectID": "1-2-documents/1-2-documents.html#thanks",
+    "href": "1-2-documents/1-2-documents.html#thanks",
     "title": "Documents",
-    "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/authoring/markdown-basics.html"
-  },
-  {
-    "objectID": "1-2-documents/1-2-documents.html#references",
-    "href": "1-2-documents/1-2-documents.html#references",
-    "title": "Documents",
-    "section": "References",
-    "text": "References"
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-ambition.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "2-6-wrap-up/index.html",
@@ -1268,19 +1261,5 @@
       "Pre-course work",
       "Step 3: Quarto Pub"
     ]
-  },
-  {
-    "objectID": "1-2-documents/1-2-documents.html#thanks",
-    "href": "1-2-documents/1-2-documents.html#thanks",
-    "title": "Documents",
-    "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-ambition.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "1-2-documents/1-2-documents.html#homework",
-    "href": "1-2-documents/1-2-documents.html#homework",
-    "title": "Documents",
-    "section": "Homework",
-    "text": "Homework\n\nquarto-ambition.github.io/website/0-3-homework/index.html"
   }
 ]
