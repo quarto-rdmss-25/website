@@ -32,14 +32,23 @@ library(countdown)
 
 # Welcome! `r emo::ji("wave")` {background-color="#4C326A"}
 
-## Lars Schöbitz
+## Meet the lecturers {.smaller}
 
 ::: columns
 ::: {.column width="50%"}
-![](images/lars_schoebitz_profile_photo.jpg){fig-alt="Headshot of Lars Schöbitz" fig-align="center"}
-:::
+**Margaux Götschmann**
 
+![](images/profile-margaux.jpg){fig-alt="Headshot of Margaux Götschmann" fig-align="left" width=40%}
+
+- MSc. Applied Mathematics ETH
+- Data Science internship with [openwashdata.org](https://openwashdata.org/)
+
+:::
 ::: {.column width="50%"}
+**Lars Schöbitz**
+
+![](images/lars_schoebitz_profile_photo.jpg){fig-alt="Headshot of Lars Schöbitz" fig-align="left" width=40%}
+
 -   Environmental Engineer `r emo::ji("hammer")`
 -   Retired researcher `r emo::ji("bed")`
 -   [RStudio certified instructor](https://education.rstudio.com/trainers/)
