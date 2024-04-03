@@ -386,6 +386,13 @@
     ]
   },
   {
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#section",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "This class is being recorded. Access to the recording is restricted to course participants on the Moodle platform."
+  },
+  {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meet-the-lecturers",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#meet-the-lecturers",
     "title": "Hello Quarto",
@@ -407,15 +414,15 @@
     "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
   },
   {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#section",
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
     "title": "Hello Quarto",
     "section": "",
     "text": "Every student will have a personal, published, free website that links to their (academic) profiles, shows slides, and has the potential to be used as a (scientific) blog."
   },
   {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-1",
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#section-2",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#section-2",
     "title": "Hello Quarto",
     "section": "",
     "text": "Quarto\nRStudio IDE on Posit Cloud\nQuarto Pub"
