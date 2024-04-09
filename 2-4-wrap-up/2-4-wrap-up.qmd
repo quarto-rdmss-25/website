@@ -1,0 +1,75 @@
+---
+title: "{{< var md-06.title >}}"
+subtitle: "{{< var course.long-title >}}"
+author: "Lars Schöbitz"
+date: "2024-04-10"
+date-format: long
+footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
+logo: "../images/ghe-square-logo-vector.svg"
+format:
+  revealjs:
+    theme: ../style/slides.scss
+    transition: fade
+    slide-number: true
+    chalkboard: true
+editor: source
+execute:
+  freeze: auto
+  echo: true
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# set width of code output
+options(width = 65)
+
+# load background packages
+library(countdown)
+```
+
+# Parting remarks
+
+## Learn more
+
+::: learn-more
+[https://quarto.org](https://quarto.org/)
+
+```{=html}
+<iframe src="https://quarto.org/" width="100%" height="550" title="Quarto Website"></iframe>
+```
+:::
+
+## Follow up with...
+
+::: learn-more
+[quarto.org/docs/blog](https://quarto.org/docs/blog)
+
+```{=html}
+<iframe src="https://quarto.org/docs/blog/" width="100%" height="550" title="Quarto Website"></iframe>
+```
+:::
+
+# Troubleshooting
+
+## Getting help
+
+- Join ghe-open room on Matrix Chat with Element: <https://matrix.to/#/#ghe-open:staffchat.ethz.ch>
+
+- Review the Quarto FAQ: <https://quarto.org/docs/faq>
+
+- Have a question, post on GitHub Discussion: <https://github.com/quarto-dev/quarto-cli/discussions>
+
+- Found (or think you found) a bug or have a feature request, open an issue: <https://github.com/quarto-dev/quarto-cli/issues>
+
+# Fin
+
+## Thank you! 
+
+- 🙏 Thank you for your attention and participation!
+- 📧 [openwashdata newsletter](https://buttondown.email/openwashdata)
+- [Global Health Engineering LinkedIn](https://www.linkedin.com/company/global-health-engineering/)
+
+
+

@@ -61,6 +61,17 @@ website:
             text: "Tables & Figures"
           - href: 0-3-homework/0-2-about-page.qmd
             text: "About page"
+      - text: "---"
+      - section: "Day 2"
+        contents:
+          - href: 2-1-presentations/index.qmd
+            text: "Presentations"
+          - href: 2-2-websites/index.qmd
+            text: "Websites"
+          - href: 2-3-publish/index.qmd
+            text: "Publish"
+          - href: 2-4-wrap-up/index.qmd
+            text: "Wrap up"
 
 format:
   html:
