@@ -30,6 +30,4 @@ Prior experience in a programming language is not required for this course, but 
 
 ## Prerequisites
 
-Prior to the course, learners are expected to have worked through the pre-course assignments listed on the course website. These assignments will help learners to set up the necessary tools and accounts for the course.
-
-<https://quarto-rdmss-24.github.io/website/>
+Prior to the course, learners are expected to have worked through the pre-course assignments listed on the course website: <https://quarto-rdmss-24.github.io/website/>
