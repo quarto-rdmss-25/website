@@ -1,0 +1,35 @@
+---
+title: "Quarto - authoring and publishing tools for collaborative scientific writing"
+author: "Lars Schöbitz"
+date: today
+format: 
+  html: default
+  pdf: default
+  docx: default
+---
+
+## Content
+
+As the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes the Quarto scientific and technical publishing system for collaborative scientific writing. At the end of the workshop, every student will have a personal, published, free website that links to their (academic) profiles, and has the potential to be used as a (scientific) blog. The workshop will be taught using participatory live coding as a teaching method.
+
+## Focus of the workshop 
+
+This course focuses on tools for collaborative scientific writing within the context of reproducible documents. We, put students into an environment for scientific computing. While we don't teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing, a technique called literate programming.
+
+## Learning objectives
+
+This course has the following learning objectives
+
+1.  Learn to use the Quarto file format and the RStudio IDE visual editing mode to produce scholarly documents with footnotes, cross-references, figures, and tables.
+
+2.  Learn to use Quarto Pub to publish a website and share research with a broader audience.
+
+## Target audience
+
+Prior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.
+
+## Prerequisites
+
+Prior to the course, learners are expected to have worked through the pre-course assignments listed on the course website. These assignments will help learners to set up the necessary tools and accounts for the course.
+
+<https://quarto-rdmss-24.github.io/website/>

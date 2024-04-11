@@ -40,7 +40,7 @@ library(knitr)
 library(readr)
 ```
 
-## Coure schedule
+## Course schedule
 
 ```{r}
 #| tbl-colwidths: [25,75]
@@ -60,6 +60,8 @@ This course has the following learning objectives
     footnotes, cross-references, figures, and tables.
 
 2.  Learn to use Quarto Pub to publish a website and share research with a broader audience.
+
+The complete abstract for this course is available at: [Abstract](0-4-abstract/index.qmd)
 
 ## Thanks!
 

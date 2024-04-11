@@ -34,6 +34,9 @@ website:
     search: false
     collapse-level: 1
     contents:
+      - href: 0-4-abstract/
+        text: "Abstract"
+      - text: "---"
       - section: "Pre-course work"
         href: index.qmd
         contents:
