@@ -15,7 +15,7 @@ library(stringr)
 
 # course-schedule
 
-googlesheets4::read_sheet("19_LZj5UoWddhjH2ac2FX9_sTdqAkik1waGF_KDwaurs") |>
+googlesheets4::read_sheet("1xU4NyMvPtx-VqSgPEsWirb4dIKulZ00V1wiTab4rgtE") |>
   mutate(title = case_when(
     is.na(page_link) == FALSE ~  paste0("[", title, "](", page_link, "/)"),
     TRUE ~ title
@@ -25,4 +25,4 @@ googlesheets4::read_sheet("19_LZj5UoWddhjH2ac2FX9_sTdqAkik1waGF_KDwaurs") |>
   mutate(end_time = as.character(end_time)) |>
   mutate(end_time = str_extract(end_time, "\\b\\d{2}:\\d{2}\\b")) |>
   mutate(time = paste(start_time, end_time, sep = " - ")) |>
-  write_csv(here::here("data/tbl-01-quarto-ambition-course-schedule.csv"))
+  write_csv(here::here("data/tbl-01-quarto-rdmss-24-course-schedule.csv"))

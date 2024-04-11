@@ -10,5 +10,5 @@ For this workshop, we will be using Posit Cloud to run the code examples and exe
 
 ## Step 2: Join the workspace for the course
 
-1. Open this link: <https://posit.cloud/spaces/497061/join?access_code=RhYpegUJir7xPPP0O_diSjdb3QbbAoMHUaFEVaBc>
+1. Open this link: <https://posit.cloud/spaces/502701/join?access_code=PQ-HhW2oQQXu2RDHAqHWUX-cGJo3jWBrMckfgHAK>
 

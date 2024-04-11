@@ -1,99 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-2-pre-work/04-survey.html</loc>
-    <lastmod>2024-03-27T09:37:51.658Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-5-wrap-up/index.html</loc>
+    <lastmod>2024-04-11T19:43:57.669Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-2-pre-work/05-reading.html</loc>
-    <lastmod>2024-03-27T09:38:37.521Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-2-pre-work/06-reading.html</loc>
+    <lastmod>2024-04-11T19:38:21.056Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-2-pre-work/01-orcid.html</loc>
-    <lastmod>2024-03-27T09:25:14.936Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-2-pre-work/03-quarto-pub.html</loc>
+    <lastmod>2024-04-11T19:18:11.060Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-3-homework/0-2-about-page.html</loc>
-    <lastmod>2024-04-03T09:04:13.394Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-2-pre-work/02-posit-cloud.html</loc>
+    <lastmod>2024-04-11T20:14:09.268Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-2-websites/2-2-websites.html</loc>
-    <lastmod>2024-04-09T07:55:03.572Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-3-homework/0-1-tables-figures.html</loc>
+    <lastmod>2024-04-11T19:18:11.068Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/index.html</loc>
-    <lastmod>2024-03-27T10:17:48.464Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-4-publish/index.html</loc>
+    <lastmod>2024-04-11T20:08:27.708Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/1-1-hello-quarto/1-1-hello-quarto.html</loc>
-    <lastmod>2024-04-03T09:41:21.670Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/index.html</loc>
+    <lastmod>2024-04-11T20:18:06.821Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-1-overview/0-1-overview.html</loc>
-    <lastmod>2024-03-27T08:59:50.026Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-1-hello-quarto/1-1-hello-quarto.html</loc>
+    <lastmod>2024-04-11T20:19:29.506Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-1-presentations/index.html</loc>
-    <lastmod>2024-04-09T07:36:16.995Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-3-websites/index.html</loc>
+    <lastmod>2024-04-11T20:15:50.693Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/1-2-documents/index.html</loc>
-    <lastmod>2024-04-02T13:20:48.177Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-1-overview/0-1-overview.html</loc>
+    <lastmod>2024-04-11T19:18:11.051Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-4-wrap-up/index.html</loc>
-    <lastmod>2024-04-09T08:09:15.408Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-2-documents/index.html</loc>
+    <lastmod>2024-04-11T19:18:11.144Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-3-publish/index.html</loc>
-    <lastmod>2024-04-09T07:56:16.876Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/LICENSE.html</loc>
+    <lastmod>2024-04-11T19:18:11.147Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/LICENSE.html</loc>
-    <lastmod>2024-03-27T08:59:50.080Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-2-documents/1-2-documents.html</loc>
+    <lastmod>2024-04-11T20:19:38.442Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-3-publish/2-3-publish.html</loc>
-    <lastmod>2024-04-09T08:11:28.661Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-1-overview/index.html</loc>
+    <lastmod>2024-04-11T20:04:26.896Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-4-wrap-up/2-4-wrap-up.html</loc>
-    <lastmod>2024-04-09T08:09:09.125Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-3-websites/1-3-websites.html</loc>
+    <lastmod>2024-04-11T20:19:56.808Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/1-2-documents/1-2-documents.html</loc>
-    <lastmod>2024-04-09T07:37:13.335Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-1-hello-quarto/index.html</loc>
+    <lastmod>2024-04-11T19:18:11.124Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-1-presentations/2-1-presentations.html</loc>
-    <lastmod>2024-04-09T07:37:17.194Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-4-publish/1-4-publish.html</loc>
+    <lastmod>2024-04-11T20:20:04.482Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-1-overview/index.html</loc>
-    <lastmod>2024-03-27T08:59:50.035Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-3-homework/index.html</loc>
+    <lastmod>2024-04-11T19:18:11.078Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/1-1-hello-quarto/index.html</loc>
-    <lastmod>2024-03-27T14:57:18.611Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-2-pre-work/01-orcid.html</loc>
+    <lastmod>2024-04-11T19:18:11.060Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/2-2-websites/index.html</loc>
-    <lastmod>2024-04-09T07:51:55.654Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-2-pre-work/05-about-page.html</loc>
+    <lastmod>2024-04-11T20:06:28.927Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-3-homework/index.html</loc>
-    <lastmod>2024-04-03T08:52:41.338Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/0-2-pre-work/04-survey.html</loc>
+    <lastmod>2024-04-11T19:57:16.969Z</lastmod>
   </url>
   <url>
-    <loc>https://quarto-ambition.github.io/website/0-3-homework/0-1-tables-figures.html</loc>
-    <lastmod>2024-04-03T09:00:07.675Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto-ambition.github.io/website/0-2-pre-work/02-posit-cloud.html</loc>
-    <lastmod>2024-03-27T09:24:57.072Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quarto-ambition.github.io/website/0-2-pre-work/03-quarto-pub.html</loc>
-    <lastmod>2024-03-27T09:46:03.689Z</lastmod>
+    <loc>https://quarto-rdmss-24.github.io/website/1-5-wrap-up/1-5-wrap-up.html</loc>
+    <lastmod>2024-04-11T20:20:15.750Z</lastmod>
   </url>
 </urlset>

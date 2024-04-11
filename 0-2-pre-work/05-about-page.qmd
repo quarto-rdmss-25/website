@@ -1,0 +1,18 @@
+---
+title: "About"
+execute: 
+  echo: false
+---
+
+## About Pages
+
+It's good practice for a website to have an About page. A lot of people look for this page when they first open a website and it can used to highlight the content of it or who you are. About pages in Quarto have some additional functionality that results in a nice layout and design. We will use the About page as the landing page (index) of your website. 
+
+In this task, it is up to you how much detail you would like to cover on this page. The idea is for this page to be front and center of your personal public homepage that we will to publish next week. Follow the steps below to create your About page.
+
+## Prepare content
+
+- Collect links to your online profiles (e.g. GitHub, LinkedIn, ORCID, etc.)
+- Write a short biography about yourself (1 paragraph, 2 two 3 sentences)
+- Find a photo that you would like to show (can be portrait, can be a logo, can be a photo of something you like)
+

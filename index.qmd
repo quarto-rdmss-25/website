@@ -11,30 +11,27 @@ bibliography: references.bib
 
 Thank you for your interest in this course. Your course instructor [Lars Schöbitz](https://ghe.ethz.ch/about/people/person-detail.MjkyODc2.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) is looking forward to meet you. 
 
-We will meet on Zoom at the following times:
+We will meet on Day 4 of the ETH Research Data Management Summer School 2024 in room CHN G 42 at the following time:
 
--   **Day 1:** 03 April 2024 - 12:00 noon to 14:00 pm CET
--   **Day 2:** 10 April 2024 - 12:00 noon to 14:00 pm CET
+- 13 June 2024 - 15:30 to 17:30 CET
 
 Please ensure you have the following available:
 
 -   a laptop, connected to wifi
 -   a browser installation on your laptop that is not the Internet Explorer
 
-This course uses participatory live coding techniques and [it is advantageous to have a second screen available]{.highlight-yellow}. One screen can be used to watch the Zoom meeting and the other screen can be used to follow along with the live coding.
-
-[Prior to Day 1, there is some pre-work for you to do]{.highlight-yellow}. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.
+[Prior to the course, there is some pre-work for you to do]{.highlight-yellow}. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.
 
 ## {{< fa circle-question >}} What do I need to prepare before Day 1?
 
 Prior to Day 1, please complete the following seven steps:
 
--   [Step 1](0-2-pre-work/01-orcid.html): Register your ORCID iD
--   [Step 2](0-2-pre-work/02-posit-cloud.html): Log into Posit Cloud and join the course workspace
--   [Step 3](0-2-pre-work/03-quarto-pub.html): Create an account for Quarto Pub
--   [Step 4](0-2-pre-work/04-survey.html): Fill out the pre-course survey by [**Tuesday, 2nd April**]{.highlight-yellow}
--   [Step 5](0-2-pre-work/05-reading.html): Read @wilson2017good and prepare for a discussion
--   [Step 6]: Read the learning objectives below
+-   [Step 1](0-2-pre-work/01-orcid.html): Register your ORCID iD.
+-   [Step 2](0-2-pre-work/02-posit-cloud.html): Log into Posit Cloud and join the course workspace.
+-   [Step 3](0-2-pre-work/03-quarto-pub.html): Create an account for Quarto Pub.
+-   [Step 4](0-2-pre-work/04-survey.html): Fill out the pre-course survey by [**Wednesday, 12th June 2024**]{.highlight-yellow}.
+-   [Step 5](0-2-pre-work/05-about-page.html): Prepare information for an About page for a personal website.
+-   [Step 6](0-2-pre-work/06-reading.html): Read @wilson2017good 
 
 ```{r}
 library(googlesheets4)
@@ -43,26 +40,15 @@ library(knitr)
 library(readr)
 ```
 
-## Day 1
+## Coure schedule
 
 ```{r}
 #| tbl-colwidths: [25,75]
-read_csv(here::here("data/tbl-01-quarto-ambition-course-schedule.csv")) |> 
+read_csv(here::here("data/tbl-01-quarto-rdmss-24-course-schedule.csv")) |> 
   filter(day == 1) |> 
   select(Time = time, Module = title) |> 
   kable()
   
-```
-
-## Day 2
-
-```{r}
-#| tbl-colwidths: [25,75]
-
-read_csv(here::here("data/tbl-01-quarto-ambition-course-schedule.csv")) |>
-  filter(day == 2) |> 
-  select(Time = time, Module = title) |> 
-  kable()
 ```
 
 ## Learning objectives
@@ -70,14 +56,14 @@ read_csv(here::here("data/tbl-01-quarto-ambition-course-schedule.csv")) |>
 This course has the following learning objectives
 
 1.  Learn to use the Quarto file format and the RStudio IDE visual
-    editing mode to produce scholarly documents with citations,
+    editing mode to produce scholarly documents with
     footnotes, cross-references, figures, and tables.
 
 2.  Learn to use Quarto Pub to publish a website and share research with a broader audience.
 
 ## Thanks!
 
-Thank you for working through these steps. You will hear from us again a day before the start of the course.
+Thank you for working through these steps. We are looking forward to meeting you at the course.
 
 ## Attribution
 

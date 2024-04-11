@@ -1,0 +1,17 @@
+---
+title: "Publish"
+---
+
+## Slides
+
+[View slides in full screen](1-4-publish.html)
+
+```{=html}
+<iframe class="slide-deck" src="1-4-publish.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## Exercises
+
+For exercises in this module we'll use documents that you prepared as part of your pre-work assignments: [Pre-work Assignment 5: About page](../0-2-pre-work/).
+
+

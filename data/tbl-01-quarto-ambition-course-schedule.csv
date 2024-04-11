@@ -1,9 +1,0 @@
-day,start_time,end_time,duration,module,title,page_link,real_start_time,real_end_time,...10,comments,time
-1,12:00,13:00,1899-12-30T01:00:00Z,NA,[Hello Quarto](1-1-hello-quarto/),1-1-hello-quarto,1899-12-30T08:40:00Z,1899-12-30T10:00:00Z,1899-12-30T01:20:00Z,NA,12:00 - 13:00
-1,13:00,13:10,1899-12-30T00:10:00Z,NA,Break,NA,1899-12-30T10:00:00Z,1899-12-30T10:10:00Z,1899-12-30T00:10:00Z,NA,13:00 - 13:10
-1,13:10,14:00,1899-12-30T00:50:00Z,NA,[Documents](1-2-documents/),1-2-documents,1899-12-30T10:10:00Z,1899-12-30T11:10:00Z,1899-12-30T01:00:00Z,NA,13:10 - 14:00
-2,12:00,12:50,1899-12-30T00:50:00Z,NA,[Presentations](2-1-presentations/),2-1-presentations,1899-12-30T08:35:00Z,1899-12-30T09:15:00Z,1899-12-30T00:40:00Z,NA,12:00 - 12:50
-2,12:50,13:00,1899-12-30T00:10:00Z,NA,Break,NA,NA,NA,NA,NA,12:50 - 13:00
-2,13:00,13:30,1899-12-30T00:30:00Z,NA,[Websites](2-2-websites/),2-2-websites,NA,NA,NA,NA,13:00 - 13:30
-2,13:30,13:50,1899-12-30T00:20:00Z,NA,[Publish](2-3-publish/),2-3-publish,NA,NA,NA,NA,13:30 - 13:50
-2,13:50,14:00,1899-12-30T00:10:00Z,NA,[Wrap-up](2-4-wrap-up/),2-4-wrap-up,NA,NA,NA,NA,13:50 - 14:00
