@@ -31,7 +31,7 @@ Prior to Day 1, please complete the following seven steps:
 -   [Step 3](0-2-pre-work/03-quarto-pub.html): Create an account for Quarto Pub.
 -   [Step 4](0-2-pre-work/04-survey.html): Fill out the pre-course survey by [**Wednesday, 12th June 2024**]{.highlight-yellow}.
 -   [Step 5](0-2-pre-work/05-about-page.html): Prepare information for an About page for a personal website.
--   [Step 6](0-2-pre-work/06-reading.html): Read @wilson2017good 
+-   [Step 6](0-2-pre-work/06-reading.html): Read @wilson2017good ([optional]{.highlight-yellow})
 
 ```{r}
 library(googlesheets4)
