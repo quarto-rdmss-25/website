@@ -38,19 +38,8 @@ This class is being recorded. Access to the recording is restricted to course pa
 
 # Welcome! `r emo::ji("wave")` {background-color="#4C326A"}
 
-## Meet the lecturers {.smaller}
+## Meet the lecturer {.smaller}
 
-::: columns
-::: {.column width="50%"}
-**Margaux Götschmann**
-
-![](images/profile-margaux.jpg){fig-alt="Headshot of Margaux Götschmann" fig-align="left" width=40%}
-
-- MSc. Applied Mathematics ETH
-- Data Science internship with [openwashdata.org](https://openwashdata.org/)
-
-:::
-::: {.column width="50%"}
 **Lars Schöbitz**
 
 ![](images/lars_schoebitz_profile_photo.jpg){fig-alt="Headshot of Lars Schöbitz" fig-align="left" width=40%}
@@ -60,8 +49,7 @@ This class is being recorded. Access to the recording is restricted to course pa
 -   [RStudio certified instructor](https://education.rstudio.com/trainers/)
 -   [Data steward at ETHZ](https://ghe.ethz.ch/ghe-blog-news/2024/02/blog-attention-prof-you-need-a-data-steward-for-your-team.html)
 
-:::
-:::
+
 
 ## Learning objectives
 
@@ -205,7 +193,7 @@ Sit back and enjoy!
 
 ::: task
 - Open [posit.cloud](https://posit.cloud) & login with your details
-- Open the workspace for the course: <https://posit.cloud/spaces/497061/content/all?sort=name_asc>
+- Open the workspace for the course: <https://posit.cloud/spaces/502701>
 - Click "Start" next to the `exercises` project 
 - Wait until the project has deployed
 - Open `hello-penguins.qmd` in RStudio from the Files tab in the bottom-right window
@@ -341,8 +329,6 @@ Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
 ## Thanks! `r emo::ji("sunflower")`
 
 Slides created via revealjs and Quarto: <https://quarto.org/docs/presentations/revealjs/>
-
-Access slides as [PDF on GitHub](https://github.com/quarto-ambition/website/raw/main/1-1-hello-quarto/1-1-hello-quarto.pdf)
 
 All material is licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 

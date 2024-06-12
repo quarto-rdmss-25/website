@@ -195,11 +195,11 @@
     "text": "This class is being recorded. Access to the recording is restricted to course participants on the Moodle platform."
   },
   {
-    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meet-the-lecturers",
-    "href": "1-1-hello-quarto/1-1-hello-quarto.html#meet-the-lecturers",
+    "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#meet-the-lecturer",
+    "href": "1-1-hello-quarto/1-1-hello-quarto.html#meet-the-lecturer",
     "title": "Hello Quarto",
-    "section": "Meet the lecturers",
-    "text": "Meet the lecturers\n\n\nMargaux Götschmann\n\n\n\n\n\n\nMSc. Applied Mathematics ETH\nData Science internship with openwashdata.org\n\n\nLars Schöbitz\n\n\n\n\n\n\nEnvironmental Engineer 🔨\nRetired researcher 🛏\nRStudio certified instructor\nData steward at ETHZ"
+    "section": "Meet the lecturer",
+    "text": "Meet the lecturer\nLars Schöbitz\n\n\nEnvironmental Engineer 🔨\nRetired researcher 🛏\nRStudio certified instructor\nData steward at ETHZ"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#learning-objectives",
@@ -269,7 +269,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen posit.cloud & login with your details\nOpen the workspace for the course: https://posit.cloud/spaces/497061/content/all?sort=name_asc\nClick “Start” next to the exercises project\nWait until the project has deployed\nOpen hello-penguins.qmd in RStudio from the Files tab in the bottom-right window\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\n\n\n\n\n\n−+\n10:00"
+    "text": "Your turn\n\n\nOpen posit.cloud & login with your details\nOpen the workspace for the course: https://posit.cloud/spaces/502701\nClick “Start” next to the exercises project\nWait until the project has deployed\nOpen hello-penguins.qmd in RStudio from the Files tab in the bottom-right window\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#from-the-comfort-of-your-own-workspace",
@@ -318,7 +318,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#thanks",
     "title": "Hello Quarto",
     "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-24.github.io/website/"
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-24.github.io/website/"
   },
   {
     "objectID": "1-3-websites/index.html",
@@ -722,18 +722,11 @@
     "text": "Table cross references\nThe presence of the caption (A few penguins) and label (#tbl-penguins) make this table referenceable:\n\n\nMarkdown:\nSee @tbl-penguins for data on a few penguins.\n```{r}\n#| label: tbl-penguins\n#| tbl-cap: A few penguins\n\nhead(penguins) |&gt; \n  gt()\n```\n\nOutput:\nSee Table 1 for data on a few penguins.\n\nhead(penguins) |&gt; \n  gt()\n\n\n\nTable 1: A few penguins\n\n\n\n\n\n\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\nAdelie\nTorgersen\n39.1\n18.7\n181\n3750\nmale\n2007\n\n\nAdelie\nTorgersen\n39.5\n17.4\n186\n3800\nfemale\n2007\n\n\nAdelie\nTorgersen\n40.3\n18.0\n195\n3250\nfemale\n2007\n\n\nAdelie\nTorgersen\nNA\nNA\nNA\nNA\nNA\n2007\n\n\nAdelie\nTorgersen\n36.7\n19.3\n193\n3450\nfemale\n2007\n\n\nAdelie\nTorgersen\n39.3\n20.6\n190\n3650\nmale\n2007"
   },
   {
-    "objectID": "1-2-documents/1-2-documents.html#homework",
-    "href": "1-2-documents/1-2-documents.html#homework",
-    "title": "Documents",
-    "section": "Homework",
-    "text": "Homework\n\nquarto-ambition.github.io/website/0-3-homework/index.html"
-  },
-  {
     "objectID": "1-2-documents/1-2-documents.html#thanks",
     "href": "1-2-documents/1-2-documents.html#thanks",
     "title": "Documents",
     "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-24.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-24.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "LICENSE.html",
