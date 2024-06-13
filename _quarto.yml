@@ -64,6 +64,10 @@ website:
             text: "Publish"
           - href: 1-5-wrap-up/index.qmd
             text: "Wrap up"
+      - section: "Guide"
+        contents:
+          - href: 2-1-about-page/index.qmd
+            text: "About page"
 
 format:
   html:

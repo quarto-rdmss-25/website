@@ -29,13 +29,6 @@ options(width = 65)
 library(countdown)
 ```
 
-## {{< fa flag >}} {.center-align auto-animate="true"}
-
-::: {style="margin-top: 50px; font-size: 1.5em"}
-This class is being recorded. Access to the recording is restricted to course participants on the Moodle platform.
-:::
-
-
 # Welcome! `r emo::ji("wave")` {background-color="#4C326A"}
 
 ## Meet the lecturer {.smaller}
@@ -88,7 +81,7 @@ authoring and publishing workflows for collaborative scientific writing
 ## {{< fa bullseye >}} {.center-align auto-animate="true"}
 
 ::: {style="margin-top: 50px; font-size: 1.5em"}
-Every student will have a personal, published, free [website]{.highlight-yellow} that links to their (academic) [profiles]{.highlight-yellow}, shows [slides]{.highlight-yellow}, and has the potential to be used as a (scientific) [blog]{.highlight-yellow}.
+Every student will have a personal, published, free [website]{.highlight-yellow} that links to their (academic) [profiles]{.highlight-yellow} and has the potential to be used as a (scientific) [blog]{.highlight-yellow}.
 :::
 
 ## {{< fa toolbox >}} {.center-align auto-animate="true"}
@@ -135,12 +128,6 @@ Quarto Pub
 -   [My turn]{.highlight-yellow}: Lecture segments + live coding
 -   [Our turn]{.highlight-yellow}: Live coding + follow along
 -   [Your turn]{.highlight-yellow}: Exercises in break-out rooms
-
-## Getting help
-
--   During [my turn]{.highlight-yellow} and [our turn]{.highlight-yellow} segments: Please keep your microphone on mute. Send message to the [Zoom chat]{.highlight-yellow} and we will try to support you. 
-
--   During [your turn]{.highlight-yellow} segments: Due to the large number of participants, it will not be feasible to join individual break-out rooms, but you will always be working in pairs. 
 
 # Hello Quarto {background-color="#4C326A"}
 

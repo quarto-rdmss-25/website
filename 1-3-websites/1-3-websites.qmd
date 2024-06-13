@@ -29,8 +29,8 @@ options(width = 65)
 library(countdown)
 ```
 
-# Anatomy of a Quarto project
-
+# Anatomy of a Quarto project {background-color="#4C326A"}
+ 
 ## Quarto projects
 
 -   Quarto projects have a `_quarto.yml` file
@@ -80,7 +80,7 @@ Pick up where we left off and
 countdown(minutes = 5)
 ```
 
-# Wrap up
+# Wrap up {background-color="#4C326A"}
 
 ## Learn more
 
