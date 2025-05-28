@@ -2,7 +2,7 @@
 title: "{{< var md-06.title >}}"
 subtitle: "{{< var course.long-title >}}"
 author: "Lars Schöbitz"
-date: "2024-06-13"
+date: "2025-06-05"
 date-format: long
 footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
 logo: "../images/ghe-square-logo-vector.svg"

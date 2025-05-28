@@ -2,7 +2,7 @@
 title: "{{< var md-02.title >}}"
 subtitle: "{{< var course.long-title >}}"
 author: "Lars Schöbitz"
-date: "2024-06-13"
+date: "2025-06-05"
 date-format: long
 footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
 logo: "../images/ghe-square-logo-vector.svg"
@@ -165,26 +165,6 @@ format:
   html:
     toc: true
 ```
-
-## Quarto linting
-
-Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.
-
-<br>
-
-![](images/lint-rstudio.png){fig-alt="Linter showing message for badly formatted YAML."}
-
-::: aside
-Source: <https://en.wikipedia.org/wiki/Lint_(software)>
-:::
-
-## Quarto YAML Intelligence
-
-RStudio + VSCode provide rich tab-completion - start a word and tab to complete, or <kbd>`Ctrl + space`</kbd> to see all available options.
-
-<br>
-
-![](images/quarto-tab-complete.png){fig-align="center" width="600"}
 
 ## List of valid YAML fields
 
