@@ -18,7 +18,7 @@ execute:
   echo: true
 ---
 
-# Publishing
+# Publishing {background-color="#4C326A"}
 
 ## QuartoPub
 
@@ -62,7 +62,7 @@ Let's now publish our website to GitHub Pages.
 countdown::countdown(5)
 ```
 
-# Wrap up
+# Wrap up {background-color="#4C326A"}
 
 ## Learn more
 
