@@ -75,6 +75,7 @@ format:
       light: [litera, theme.scss]
     code-copy: true
     code-overflow: wrap
+    link-external-icon: true
     toc: true
     mainfont: "Atkinson Hyperlegible"
     include-in-header:
