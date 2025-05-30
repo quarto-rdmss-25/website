@@ -266,9 +266,7 @@ div.csl-indent {
 <p>This course focuses on tools for collaborative scientific writing within the context of reproducible scientific articles. We, therefore, put you into an environment for scientific computing. While we don’t teach a programming language, the provided tools allow you to integrate programming languages such as R or Python within your writing.</p>
 <p>The following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.</p>
 <ol type="1">
-<li><p>Read <span class="citation" data-cites="wilson2017good">Wilson et al. (<a href="#ref-wilson2017good" role="doc-biblioref">2017</a>)</span>.</p></li>
-<li><p>Chose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:</p></li>
-<li><p>Come up with a <span class="highlight-yellow">real-world example</span> or scenario where the recommended practice could be applied in your research or academic work.</p></li>
+<li>Read <span class="citation" data-cites="wilson2017good">Wilson et al. (<a href="#ref-wilson2017good" role="doc-biblioref">2017</a>)</span>.</li>
 </ol>
 
 
@@ -385,6 +383,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
           // default icon
           link.classList.add("external");
       }

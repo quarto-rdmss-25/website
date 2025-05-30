@@ -76,6 +76,7 @@ format:
     code-copy: true
     code-overflow: wrap
     link-external-icon: true
+    link-external-newwindow: true
     toc: true
     mainfont: "Atkinson Hyperlegible"
     include-in-header:

@@ -8,8 +8,3 @@ This course focuses on tools for collaborative scientific writing within the con
 The following paper provides recommendations for some of the practices we use in class and puts them into the context of organising research or academic work. It will help you build some of the foundational background knowledge.
 
 1.  Read @wilson2017good.
-
-2.  Chose one of the recommended practices (Data Management, Software, Collaboration, Project organization, Keeping track of changes, Manuscripts), then:
-
-3.  Come up with a [real-world example]{.highlight-yellow} or scenario where the recommended practice could be applied in your research or academic work.
-
