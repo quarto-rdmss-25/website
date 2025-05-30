@@ -81,7 +81,7 @@
     "href": "0-2-pre-work/02-posit-cloud.html#step-2-join-the-workspace-for-the-course",
     "title": "Create an account for Posit Cloud",
     "section": "Step 2: Join the workspace for the course",
-    "text": "Step 2: Join the workspace for the course\n\nOpen this link: https://posit.cloud/spaces/502701/join?access_code=PQ-HhW2oQQXu2RDHAqHWUX-cGJo3jWBrMckfgHAK",
+    "text": "Step 2: Join the workspace for the course\n\nOpen this link: https://posit.cloud/spaces/657572/join?access_code=DgMVVs_Vt9hLRrLrQIgtsac3Shk8-hUfVd3wwdTK",
     "crumbs": [
       "Pre-course work",
       "Step 2: Posit Cloud"
@@ -132,7 +132,7 @@
     "href": "index.html",
     "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
     "section": "",
-    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet on Day 4 of the ETH Research Data Management Summer School 2024 in room CHN G 42 at the following time:\nPlease ensure you have the following available:\nPrior to the course, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet on Day 4 of the ETH Research Data Management Summer School 2025 in room CHN G 42 at the following time:\nPlease ensure you have the following available:\nPrior to the course, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
     "crumbs": [
       "Pre-course work"
     ]
@@ -142,7 +142,7 @@
     "href": "index.html#what-do-i-need-to-prepare-before-day-1",
     "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
     "section": " What do I need to prepare before Day 1?",
-    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Register your ORCID iD.\nStep 2: Log into Posit Cloud and join the course workspace.\nStep 3: Create an account for Quarto Pub.\nStep 4: Fill out the pre-course survey by Wednesday, 12th June 2024.\nStep 5: Prepare information for an About page for a personal website.\nStep 6: Read Wilson et al. (2017) (optional)",
+    "text": "What do I need to prepare before Day 1?\nPrior to Day 1, please complete the following seven steps:\n\nStep 1: Register your ORCID iD.\nStep 2: Log into Posit Cloud and join the course workspace.\nStep 3: Create an account for Quarto Pub.\nStep 4: Fill out the pre-course survey by Wednesday, 04 June 2025.\nStep 5: Prepare information for an About page for a personal website.\nStep 6: Read Wilson et al. (2017) (optional)",
     "crumbs": [
       "Pre-course work"
     ]
@@ -152,7 +152,7 @@
     "href": "index.html#course-schedule",
     "title": "Pre-course work: Quarto - authoring and publishing tools for collaborative scientific writing",
     "section": "Course schedule",
-    "text": "Course schedule\n\n\n\n\n\nTime\nModule\n\n\n\n\n15:30 - 16:20\nHello Quarto\n\n\n16:20 - 16:25\nBreak\n\n\n16:25 - 16:55\nDocuments\n\n\n16:55 - 17:15\nWebsites\n\n\n17:15 - 17:25\nPublish\n\n\n17:25 - 17:30\nWrap-up",
+    "text": "Course schedule\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n15:15 - 16:05\nHello Quarto\n\n\n16:05 - 16:10\nBreak\n\n\n16:10 - 16:40\nDocuments\n\n\n16:40 - 17:00\nWebsites\n\n\n17:00 - 17:05\nBreak\n\n\n17:00 - 17:20\nPublish\n\n\n17:20 - 17:30\nWrap-up",
     "crumbs": [
       "Pre-course work"
     ]
@@ -255,7 +255,7 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#your-turn-1",
     "title": "Hello Quarto",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen posit.cloud & login with your details\nOpen the workspace for the course: https://posit.cloud/spaces/502701\nClick “Start” next to the exercises project\nWait until the project has deployed\nOpen hello-penguins.qmd in RStudio from the Files tab in the bottom-right window\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\n\n\n\n\n\n−+\n10:00"
+    "text": "Your turn\n\n\nOpen posit.cloud & login with your details\nOpen the workspace for the course: https://posit.cloud/spaces/657572\nClick “Start” next to the exercises project\nWait until the project has deployed\nOpen hello-penguins.qmd in RStudio from the Files tab in the bottom-right window\nRender the document\nUpdate your name and re-render\nInspect components of the document and make one more update and re-render.\n\n\n\n\n\n−+\n10:00"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#from-the-comfort-of-your-own-workspace",
@@ -297,14 +297,14 @@
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#take-a-break",
     "title": "Hello Quarto",
     "section": "Take a break",
-    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+    "text": "Take a break\nPlease get up and move! Leave your emails alone.\n\n\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
   },
   {
     "objectID": "1-1-hello-quarto/1-1-hello-quarto.html#thanks",
     "href": "1-1-hello-quarto/1-1-hello-quarto.html#thanks",
     "title": "Hello Quarto",
     "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-24.github.io/website/"
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-25.github.io/website/"
   },
   {
     "objectID": "1-3-websites/index.html",
@@ -344,7 +344,7 @@
     "href": "1-3-websites/index.html#create-a-website",
     "title": "Websites",
     "section": "Create a website",
-    "text": "Create a website\nWrite up your About page using the Quarto file format.\n\nOpen the “Content” page of the Posit Cloud workspace for the course: https://posit.cloud/spaces/502701/content/all?sort=created_time_desc\nClick on “New Project” button to create a new project\n\n\nknitr::include_graphics(\"images/01-website-new-project.png\")\n\n\n\n\n\n\n\n\n\nClick on “New RStudio Project”\n\n\nknitr::include_graphics(\"images/02-website-new-project-rstudio.png\")\n\n\n\n\n\n\n\n\n\nWhile the project deploys, rename it from “Untitled Project” to “website” by clicking on the “Untitled Project” text in the top-left corner of the RStudio window. You can also rename it after deployment has concluded.\n\n\nknitr::include_graphics(\"images/03-website-rename.png\")\n\n\n\n\n\n\n\n\n\nDelete the setup.qmd from the Files in the bottom-right window.\n\n\nknitr::include_graphics(\"images/04-website-delete-setup.png\")\n\n\n\n\n\n\n\n\n\nDelete or update the README.md file in the Files in the bottom-right window.\nCreate a Blank file using Quarto Document, name it index.qmd and save it in the root of the project.\n\n\nknitr::include_graphics(\"images/05-website-new-quarto-doc.png\")\n\n\n\n\n\n\n\n\n\nknitr::include_graphics(\"images/06-website-name-index.png\")\n\n\n\n\n\n\n\n\n\nOpen the index.qmd file and write up your page with guidance (e.g. copy/paste and replace) from Quarto documentation for About Pages\n\n\nknitr::include_graphics(\"images/07-website-copy-about.png\")\n\n\n\n\n\n\n\n\n\nRender the index.qmd file to see what your website will look like\nKeep updating the index.qmd until you are satisfied with the content and layout (e.g. try a different template, add your profile photo to the project folder, etc.)",
+    "text": "Create a website\nWrite up your About page using the Quarto file format.\n\nOpen the “Content” page of the Posit Cloud workspace for the course: https://posit.cloud/spaces/657572/content/all?sort=name_asc\nClick on “New Project” button to create a new project\n\n\nknitr::include_graphics(\"images/01-website-new-project.png\")\n\n\n\n\n\n\n\n\n\nClick on “New RStudio Project”\n\n\nknitr::include_graphics(\"images/02-website-new-project-rstudio.png\")\n\n\n\n\n\n\n\n\n\nWhile the project deploys, rename it from “Untitled Project” to “website” by clicking on the “Untitled Project” text in the top-left corner of the RStudio window. You can also rename it after deployment has concluded.\n\n\nknitr::include_graphics(\"images/03-website-rename.png\")\n\n\n\n\n\n\n\n\n\nDelete the setup.qmd from the Files in the bottom-right window.\n\n\nknitr::include_graphics(\"images/04-website-delete-setup.png\")\n\n\n\n\n\n\n\n\n\nDelete or update the README.md file in the Files in the bottom-right window.\nCreate a Blank file using Quarto Document, name it index.qmd and save it in the root of the project.\n\n\nknitr::include_graphics(\"images/05-website-new-quarto-doc.png\")\n\n\n\n\n\n\n\n\n\nknitr::include_graphics(\"images/06-website-name-index.png\")\n\n\n\n\n\n\n\n\n\nOpen the index.qmd file and write up your page with guidance (e.g. copy/paste and replace) from Quarto documentation for About Pages\n\n\nknitr::include_graphics(\"images/07-website-copy-about.png\")\n\n\n\n\n\n\n\n\n\nRender the index.qmd file to see what your website will look like\nKeep updating the index.qmd until you are satisfied with the content and layout (e.g. try a different template, add your profile photo to the project folder, etc.)",
     "crumbs": [
       "Course",
       "Websites"
@@ -491,20 +491,6 @@
     "text": "YAML validation\nThere are multiple ways of formatting valid YAML:\n\nValid: There’s a space after :\n\nformat: html\n\nValid: format: html with selections made with proper indentation\n\nformat: \n  html:\n    toc: true"
   },
   {
-    "objectID": "1-2-documents/1-2-documents.html#quarto-linting",
-    "href": "1-2-documents/1-2-documents.html#quarto-linting",
-    "title": "Documents",
-    "section": "Quarto linting",
-    "text": "Quarto linting\nLint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.\n\n\n\n\nSource: https://en.wikipedia.org/wiki/Lint_(software)"
-  },
-  {
-    "objectID": "1-2-documents/1-2-documents.html#quarto-yaml-intelligence",
-    "href": "1-2-documents/1-2-documents.html#quarto-yaml-intelligence",
-    "title": "Documents",
-    "section": "Quarto YAML Intelligence",
-    "text": "Quarto YAML Intelligence\nRStudio + VSCode provide rich tab-completion - start a word and tab to complete, or Ctrl + space to see all available options."
-  },
-  {
     "objectID": "1-2-documents/1-2-documents.html#list-of-valid-yaml-fields",
     "href": "1-2-documents/1-2-documents.html#list-of-valid-yaml-fields",
     "title": "Documents",
@@ -537,7 +523,7 @@
     "href": "1-2-documents/1-2-documents.html#lists",
     "title": "Documents",
     "section": "Lists",
-    "text": "Lists\nUnordered list:\n\n\nMarkdown:\n-   unordered list         \n    -   sub-item 1         \n    -   sub-item 1         \n        -   sub-sub-item 1 \n\nOutput\n\nunordered list\n\nsub-item 1\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\nOrdered list:\n\n\nMarkdown:\n1. ordered list            \n2. item 2                  \n    i. sub-item 1          \n         A.  sub-sub-item 1\n\nOutput\n\nordered list\n\nitem 2\n\nsub-item 1\n\nsub-sub-item 1"
+    "text": "Lists\nUnordered list:\n\n\nMarkdown:\n-   unordered list         \n    -   sub-item 1         \n    -   sub-item 1         \n        -   sub-sub-item 1 \n\nOutput\n\nunordered list\n\nsub-item 1\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\nOrdered list:\n\n\nMarkdown:\n1. ordered list            \n2. item 2                  \n    i. sub-item 1          \n         A.  sub-sub-item 1\n\nOutput\n\nordered list\n\nitem 2\n\nsub-item 1\n\nsub-sub-item 1"
   },
   {
     "objectID": "1-2-documents/1-2-documents.html#quotes",
@@ -677,7 +663,7 @@
     "href": "1-2-documents/1-2-documents.html#referencing-paths-in-r-code",
     "title": "Documents",
     "section": "Referencing paths in R code",
-    "text": "Referencing paths in R code\nUse the here package to reference the project root, as here::here() always starts at the top-level directory of a .Rproj:\n\nhere::here()\n\n[1] \"/Users/lschoebitz/Documents/gitrepos/gh-org-quarto-rdmss-24/website\""
+    "text": "Referencing paths in R code\nUse the here package to reference the project root, as here::here() always starts at the top-level directory of a .Rproj:\n\nhere::here()\n\n[1] \"/Users/lschoebitz/Documents/gitrepos/gh-org-quarto-rdmss-25/website\""
   },
   {
     "objectID": "1-2-documents/1-2-documents.html#figures-from-code",
@@ -712,7 +698,7 @@
     "href": "1-2-documents/1-2-documents.html#thanks",
     "title": "Documents",
     "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-24.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n\n https://quarto-rdmss-25.github.io/website/\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "LICENSE.html",
@@ -759,7 +745,7 @@
     "href": "2-1-about-page/index.html#step-2-live-in-workshop",
     "title": "About",
     "section": "Step 2 (live in workshop)",
-    "text": "Step 2 (live in workshop)\nWrite up your About page using the Quarto file format.\n\nOpen the “Content” page of the Posit Cloud workspace for the course: https://posit.cloud/spaces/502701/content/\nClick on “New Project” button to create a new project\n\n\n\n\n\n\n\n\n\n\n\nClick on “New RStudio Project”\n\n\n\n\n\n\n\n\n\n\n\nWhile the project deploys, rename it from “Untitled Project” to “website” by clicking on the “Untitled Project” text in the top-left corner of the RStudio window. You can also rename it after deployment has concluded.\n\n\n\n\n\n\n\n\n\n\n\nDelete the setup.qmd from the Files in the bottom-right window.\n\n\n\n\n\n\n\n\n\n\n\nDelete or update the README.md file in the Files in the bottom-right window.\nCreate a Blank file using Quarto Document, name it index.qmd and save it in the root of the project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen the index.qmd file and write up your page with guidance (e.g. copy/paste and replace) from Quarto documentation for About Pages\n\n\n\n\n\n\n\n\n\n\n\nRender the index.qmd file to see what your website will look like\nKeep updating the index.qmd until you are satisfied with the content and layout (e.g. try a different template, add your profile photo to the project folder, etc.)",
+    "text": "Step 2 (live in workshop)\nWrite up your About page using the Quarto file format.\n\nOpen the “Content” page of the Posit Cloud workspace for the course: https://posit.cloud/spaces/657572/content/\nClick on “New Project” button to create a new project\n\n\n\n\n\n\n\n\n\n\n\nClick on “New RStudio Project”\n\n\n\n\n\n\n\n\n\n\n\nWhile the project deploys, rename it from “Untitled Project” to “website” by clicking on the “Untitled Project” text in the top-left corner of the RStudio window. You can also rename it after deployment has concluded.\n\n\n\n\n\n\n\n\n\n\n\nDelete the setup.qmd from the Files in the bottom-right window.\n\n\n\n\n\n\n\n\n\n\n\nDelete or update the README.md file in the Files in the bottom-right window.\nCreate a Blank file using Quarto Document, name it index.qmd and save it in the root of the project.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen the index.qmd file and write up your page with guidance (e.g. copy/paste and replace) from Quarto documentation for About Pages\n\n\n\n\n\n\n\n\n\n\n\nRender the index.qmd file to see what your website will look like\nKeep updating the index.qmd until you are satisfied with the content and layout (e.g. try a different template, add your profile photo to the project folder, etc.)",
     "crumbs": [
       "Guide",
       "About page"
@@ -838,7 +824,7 @@
     "href": "0-4-abstract/index.html#prerequisites",
     "title": "Quarto - authoring and publishing tools for collaborative scientific writing",
     "section": "Prerequisites",
-    "text": "Prerequisites\nPrior to the course, learners are expected to have worked through the pre-course assignments listed on the course website: https://quarto-rdmss-24.github.io/website/"
+    "text": "Prerequisites\nPrior to the course, learners are expected to have worked through the pre-course assignments listed on the course website: https://quarto-rdmss-25.github.io/website/"
   },
   {
     "objectID": "0-1-overview/index.html",
@@ -894,7 +880,7 @@
     "href": "1-3-websites/1-3-websites.html#learn-more",
     "title": "Websites",
     "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/websites\n\n\n\n\n\n\n https://quarto-rdmss-24.github.io/website/"
+    "text": "Learn more\n\nquarto.org/docs/websites\n\n\n\n\n\n\n https://quarto-rdmss-25.github.io/website/"
   },
   {
     "objectID": "1-1-hello-quarto/index.html",
@@ -962,7 +948,7 @@
     "href": "1-4-publish/1-4-publish.html#learn-more",
     "title": "Publish",
     "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/publishing\n\n\n\n\n\n\n https://quarto-rdmss-24.github.io/website/"
+    "text": "Learn more\n\nquarto.org/docs/publishing\n\n\n\n\n\n\n https://quarto-rdmss-25.github.io/website/"
   },
   {
     "objectID": "0-3-homework/index.html",
@@ -1031,7 +1017,7 @@
     "href": "0-2-pre-work/04-survey.html",
     "title": "Learning more about your prior knowledge",
     "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/VgPprYjuwh9AUaKQ9",
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/EHAPaXRLL3tg5ZTz9",
     "crumbs": [
       "Pre-course work",
       "Step 4: Survey"
@@ -1042,7 +1028,7 @@
     "href": "0-2-pre-work/04-survey.html#step-1-please-fill-out-our-pre-course-survey",
     "title": "Learning more about your prior knowledge",
     "section": "",
-    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/VgPprYjuwh9AUaKQ9",
+    "text": "We have developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nFill out the survey here: https://forms.gle/EHAPaXRLL3tg5ZTz9",
     "crumbs": [
       "Pre-course work",
       "Step 4: Survey"
@@ -1074,6 +1060,6 @@
     "href": "1-5-wrap-up/1-5-wrap-up.html#thank-you",
     "title": "Wrap-up",
     "section": "Thank you!",
-    "text": "Thank you!\n\n🙏 Thank you for your attention and participation!\n📧 openwashdata newsletter\nGlobal Health Engineering LinkedIn\n\n\n\n\n\n https://quarto-rdmss-24.github.io/website/"
+    "text": "Thank you!\n\n🙏 Thank you for your attention and participation!\n📧 openwashdata newsletter\nGlobal Health Engineering LinkedIn\n\n\n\n\n\n https://quarto-rdmss-25.github.io/website/"
   }
 ]
