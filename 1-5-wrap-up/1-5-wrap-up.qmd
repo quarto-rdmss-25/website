@@ -29,7 +29,7 @@ options(width = 65)
 library(countdown)
 ```
 
-# Parting remarks
+# Parting remarks {background-color="#4C326A"}
 
 ## Learn more
 
@@ -51,7 +51,7 @@ library(countdown)
 ```
 :::
 
-# Troubleshooting
+# Troubleshooting {background-color="#4C326A"}
 
 ## Getting help
 
@@ -63,7 +63,7 @@ library(countdown)
 
 - Found (or think you found) a bug or have a feature request, open an issue: <https://github.com/quarto-dev/quarto-cli/issues>
 
-# Fin
+# Fin {background-color="#4C326A"}
 
 ## Thank you! 
 
